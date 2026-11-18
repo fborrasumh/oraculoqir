@@ -2,7 +2,8 @@
  "_nota": "Copias de terceros de los cuadernos (versión 0) y plantillas definitivas oficiales del QIR para los años que el portal FSE ya no ofrece. Clave = año del EXAMEN (las «pruebas selectivas 2019» se examinaron en enero de 2020). Formato: {\"2019\": {\"cuaderno\": [\"url1\", \"url2\"], \"plantilla\": [\"url1\", \"url2\"]}}. El código comprueba en la portada que sea de Química, de la versión 0 y del año indicado. «_cosecha»: webs («sitios», recorridas), noticias («paginas», solo sus enlaces) y ficheros .pdf/.zip directos que scripts/qir_cosecha.py descarga y clasifica mirando dentro de cada PDF.",
  "_cosecha": {
   "ficheros": [
-   "https://oposicionesconexito.com/descargas/6983/"
+   "https://oposicionesconexito.com/descargas/6983/",
+   "https://huggingface.co/datasets/head_qa/resolve/main/data/head-qa-es-en-pdfs.zip"
   ],
   "paginas": [
    "https://www.consalud.es/especial-mir/qir-2020-publicadas-preguntas-examen_73433_102.html",

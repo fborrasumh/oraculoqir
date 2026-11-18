@@ -44,6 +44,9 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           MODELO_IA: gpt-6-luna
         run: python scripts/qir_externos.py
+      - name: Años que aún falten, desde HEAD-QA (exámenes oficiales con su respuesta, conjunto de datos académico)
+        if: env.PASO == 'todo' || env.PASO == 'externos' || env.PASO == 'cosecha'
+        run: python scripts/qir_headqa.py || true
       - name: Cuadernillos de imágenes (portal y copias) → data/img
         if: env.PASO == 'imagenes'
         run: |
