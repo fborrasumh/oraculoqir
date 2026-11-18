@@ -58,6 +58,8 @@ def recorre(sitios, paginas):
 
 
 def baja_desde(u, pagina=None):
+    m = re.search(r'drive\.google\.com/file/d/([\w-]+)', u)
+    if m: u = f'https://drive.google.com/uc?export=download&id={m.group(1)}'   # enlace de vista de Drive → descarga
     if 'web.archive.org' in u:   # archive.org corta conexiones si se le pide mucho seguido: reintentos con pausa
         import time
         for k in range(5):
