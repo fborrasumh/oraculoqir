@@ -1,0 +1,3 @@
+{
+ "_nota": "Copias de terceros de los cuadernos (versión 0) y plantillas definitivas oficiales del QIR para los años que el portal FSE ya no ofrece. Clave = año del EXAMEN (las «pruebas selectivas 2019» se examinaron en enero de 2020). Formato: {\"2019\": {\"cuaderno\": [\"url1\", \"url2\"], \"plantilla\": [\"url1\", \"url2\"]}}. El código comprueba en la portada que sea de Química, de la versión 0 y del año indicado."
+}

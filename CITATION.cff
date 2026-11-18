@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Si usas OráculoQIR, cítalo así."
+title: "OráculoQIR"
+abstract: "Predicción por bloque del examen QIR 2027 a partir de los exámenes oficiales, con validación a ciegas, simulacros de preguntas oficiales, reto diario y generador de preguntas verificado por varios agentes de IA."
+type: software
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+repository-code: "https://github.com/fborrasumh/oraculoqir"
+url: "https://fborrasumh.github.io/oraculoqir/"
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+keywords: [QIR, examen QIR, química, predicción, simulacro, inteligencia artificial, formación sanitaria especializada]
