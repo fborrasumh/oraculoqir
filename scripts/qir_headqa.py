@@ -76,8 +76,9 @@ def main():
             resp = {str(q['n']): q['correcta'] for q in qs if q['correcta']}
             (d / 'respuestas_cruce.json').write_text(json.dumps(resp), encoding='utf-8')
             (d / 'headqa.json').unlink(missing_ok=True)   # con cuaderno propio, las preguntas salen del PDF
-            o = d / 'origen.txt'; prev = o.read_text(encoding='utf-8') if o.exists() else 'Copia de terceros del documento oficial del Ministerio de Sanidad\n'
-            o.write_text(prev.rstrip('\n') + f'\nrespuestas: {fuente}\n', encoding='utf-8')
+            o = d / 'origen.txt'
+            ls = [l for l in (o.read_text(encoding='utf-8').splitlines() if o.exists() else ['Copia de terceros del documento oficial del Ministerio de Sanidad']) if not l.startswith(('headqa: ', 'respuestas: '))]
+            o.write_text('\n'.join(ls + [f'respuestas: {fuente}']) + '\n', encoding='utf-8')
             print(f'{y}: respuestas de HEAD-QA OK ← {fuente} ({len(resp)} respuestas; mismo cuaderno: {len(comunes)} preguntas, parecido medio {sim:.2f})')
             continue
         d.mkdir(parents=True, exist_ok=True)
