@@ -1,3 +1,16 @@
 {
- "_nota": "Copias de terceros de los cuadernos (versión 0) y plantillas definitivas oficiales del QIR para los años que el portal FSE ya no ofrece. Clave = año del EXAMEN (las «pruebas selectivas 2019» se examinaron en enero de 2020). Formato: {\"2019\": {\"cuaderno\": [\"url1\", \"url2\"], \"plantilla\": [\"url1\", \"url2\"]}}. El código comprueba en la portada que sea de Química, de la versión 0 y del año indicado."
+ "_nota": "Copias de terceros de los cuadernos (versión 0) y plantillas definitivas oficiales del QIR para los años que el portal FSE ya no ofrece. Clave = año del EXAMEN (las «pruebas selectivas 2019» se examinaron en enero de 2020). Formato: {\"2019\": {\"cuaderno\": [\"url1\", \"url2\"], \"plantilla\": [\"url1\", \"url2\"]}}. El código comprueba en la portada que sea de Química, de la versión 0 y del año indicado. «_cosecha»: webs («sitios», recorridas), noticias («paginas», solo sus enlaces) y ficheros .pdf/.zip directos que scripts/qir_cosecha.py descarga y clasifica mirando dentro de cada PDF.",
+ "_cosecha": {
+  "ficheros": [
+   "https://oposicionesconexito.com/descargas/6983/"
+  ],
+  "paginas": [
+   "https://www.consalud.es/especial-mir/qir-2020-publicadas-preguntas-examen_73433_102.html",
+   "https://www.consalud.es/formacion/qir-2020-consulta-respuestas-definitivas_74157_102.html",
+   "https://www.consalud.es/especial-mir/qir-2019-estas-son-las-6-preguntas-anuladas_60365_102.html",
+   "https://www.consalud.es/formacion/qir-2019-consulta-todas-las-respuestas_59848_102.html",
+   "https://oposicionesconexito.com/examenes-qir-quimico-interno-residente/"
+  ],
+  "sitios": []
+ }
 }
