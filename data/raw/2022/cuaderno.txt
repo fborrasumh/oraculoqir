@@ -86,7 +86,7 @@ pureza.
 zas de óxido de manganeso.
 4. Fibra delgada de sílice con impurezas de óxi-
 do de aluminio.
-- 1
+-
 7. El anión tiosulfato se empleó de forma muy
 amplia en fotografía, es muy utilizado como
 reductor y tiene diversos usos en Medicina.
@@ -207,7 +207,7 @@ paramagnético recibe el nombre de:
 2. Temperatura de Planck.
 3. Temperatura de Néel.
 4. Temperatura de Rankine.
-- 2
+-
 20. ¿Cuál es el resultado de la reacción del H S con
 2
 SO a 300º C en presencia de óxidos de hierro?:
@@ -332,7 +332,7 @@ x
 2
 4. M H.
 5
-- 3
+-
 33. Indica, entre los siguientes núclidos, cuál se
 espera que carezca de actividad radiactiva:
 1. 57Cu (Z = 29).
@@ -434,7 +434,7 @@ activación negativa no se puede producir.
 4. La constante de velocidad de una reacción
 química no depende de la energía de activa-
 ción.
-- 4
+-
 43. La mayoría de las reacciones químicas indus-
 triales tienen lugar en presencia de catalizado-
 res sólidos. Para que un catalizador sólido sea
@@ -536,7 +536,7 @@ ebullición del alcohol.
 4% de agua con un punto de ebullición infe-
 rior al punto de ebullición del agua y al punto
 de ebullición del alcohol.
-- 5
+-
 52. ¿Qué afirma el principio de exclusión de Pauli?:
 1. En átomos hidrogenoides no está permitido
 que dos o más electrones tengan sus números
@@ -649,7 +649,7 @@ volumen constante, la presión P2 será:
 2. P1T17T2.
 3. T1/P1T2.
 4. P1T2/T1.
-- 6
+-
 63. ¿Qué es un orbital molecular antienlazante?:
 1. Es un orbital que, si está ocupado, disminuye
 la fuerza del enlace entre dos átomos.
@@ -760,7 +760,7 @@ muy lentas.
 mantiene próxima a un valor constante.
 4. A especies que participan en la etapa deter-
 minante de la velocidad de la reacción.
-- 7
+-
 74. ¿Qué respuesta es correcta en relación con la
 catálisis homogénea?:
 1. En catálisis homogénea todos los reactivos
@@ -869,7 +869,7 @@ H CO : pK =6.4; pK =10.3.
 2. En una disolución reguladora cuyo pH es 5.
 3. En una disolución reguladora cuyo pH es 6.
 4. En una disolución reguladora cuyo pH es 8.
-- 8
+-
 84. ¿Cómo se puede disminuir la actividad micro-
 biológica en la etapa de transporte de una
 muestra hasta el laboratorio de análisis?:
@@ -973,7 +973,7 @@ cia en:
 2. Su peso molecular.
 3. Su relación carga/radio.
 4. Su carga.
-- 9
+-
 93. En referencia a la espectroscopia de resonancia
 magnética nuclear (RMN):
 1. Únicamente puede utilizarse para estudiar
@@ -2010,8 +2010,8 @@ elementales,
 𝒌𝟐
 B→C
 tiene una constante de velocidad, K, que se
-puede expresar como:
-K=𝒌𝟏𝒌𝟐.
+puede expresar como: K=
+𝒌𝟏𝒌𝟐.
 Entonces su
 𝒌(cid:3127)𝟏
 energía de activación, E , se puede expresar en

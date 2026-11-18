@@ -93,7 +93,7 @@ a
 a
 4. pK = 9.
 a
-- 1
+-
 7. ¿Cuál de las siguientes afirmaciones es FALSA
 en relación con la yodometría?:
 1. Es un método que consiste en la valoración
@@ -193,7 +193,7 @@ qué elemento se trata?:
 2. Nitrógeno.
 3. Hierro.
 4. Cobre.
-- 2
+-
 17. Si deseamos medir la concentración de cortisol
 (esteroide producido por las glándulas supra-
 rrenales) en la orina de un adolescente median-
@@ -291,7 +291,7 @@ de analito.
 cuantificarse con precisión.
 4. Capacidad de un método analítico para de-
 terminar de forma única el analito de interés.
-- 3
+-
 25. Con respecto al efecto Hook, o efecto gancho,
 señale la respuesta correcta:
 1. Es un fenómeno observado en inmunoensayos
@@ -400,7 +400,7 @@ de 220 nm?:
 2. Lámpara de cátodo hueco.
 3. Lámpara de wolframio.
 4. Fuente Globar.
-- 4
+-
 35. ¿Qué detector se utiliza en espectrometría de
 absorción en el infrarrojo?:
 1. Fotomultiplicador.
@@ -505,7 +505,7 @@ lanas?:
 2. El feldespato.
 3. El cuarzo.
 4. La arcilla.
-- 5
+-
 47. ¿Qué es un polímero termoplástico?:
 1. Es un material polimérico cristalino que se
 ablanda cuando se calienta y endurece al en-
@@ -620,7 +620,7 @@ tos hornos.
 4. Al proceso de protonación de los sulfuros
 metálicos con ácidos fuertes que genera el
 desprendimiento de ácido sulfhídrico gas.
-- 6
+-
 58. ¿En cuál de los conjuntos siguientes todas las
 especies son paramagnéticas?:
 1. NO, CO, CN–.
@@ -747,7 +747,7 @@ los componentes del smog fotoquímico?:
 2. Pt2+.
 3. Cd2+.
 4. Pb2+.
-- 7
+-
 71. ¿Cuál de las siguientes afirmaciones relativas a
 la química atmosférica de los radicales hidroxi-
 lo es correcta?:
@@ -855,7 +855,7 @@ reactivo.
 4. Determinar las constantes de velocidad me-
 diante la modificación del equilibrio en un
 sistema reactivo.
-- 8
+-
 83. ¿Cómo afecta la temperatura a la distribución
 de Maxwell de las velocidades moleculares?:
 1. A temperatura baja el máximo de la función
@@ -957,7 +957,7 @@ lito.
 molar aumenta con la concentración, mientras
 que para electrolitos fuertes la relación es in-
 versa.
-- 9
+-
 91. ¿Qué afirmación es correcta en relación con la
 superficie de energía potencial asociada a una
 reacción química?:

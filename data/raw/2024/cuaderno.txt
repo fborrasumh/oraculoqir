@@ -88,7 +88,6 @@ en un ARN mensajero maduro.
 nismos.
 4. Tiene lugar en el citoplasma, antes de que el
 mensaje sea traducido.
-Pagina: 1
 8. La temperatura de fusión (Tm) de una molécula
 de ADN será menor cuanto:
 1. Mayor proporción de pirimidinas tenga.
@@ -147,7 +146,6 @@ glucosa que la glucoquinasa.
 fosfato.
 4. La hexoquinasa no está presente en el hígado.
 )42/3--0-ACIMÍUQ--(
-1 de 22
 14. La succinato deshidrogenasa:
 1. Promueve la síntesis de succinato a partir de
 succinil-CoA.
@@ -200,7 +198,6 @@ ca sigmoidea.
 la enzima.
 4. Los efectores alostéricos transforman la ho-
 loenzima en apoenzima.
-Pagina: 2
 20. ¿Cuál de los siguientes complejos de la cadena
 respiratoria mitocondrial NO contiene ninguna
 subunidad codificada por el ADN mitocon-
@@ -216,13 +213,13 @@ ra esencial?:
 2. Serina.
 3. Leucina.
 4. Asparagina.
-22. Sobre la -oxidación de los ácidos grasos, es
+22. Sobre la β-oxidación de los ácidos grasos, es
 verdadero que:
 1. Se produce en el citosol.
 2. Tiene como objetivo final producir moléculas
 de acetil-CoA.
 3. El defecto genético más común relacionado
-con la -oxidación de los ácidos grasos es la
+con la β-oxidación de los ácidos grasos es la
 deficiencia de la enzima VLCAD.
 4. Solo es posible en ácidos grasos de cadena
 par.
@@ -248,7 +245,6 @@ producido por la acción de la insulina?:
 4. Disminución de la captación de glucosa en el
 hígado.
 )42/4--0-ACIMÍUQ--(
-2 de 22
 26. ¿Cuál de los siguientes aminoácidos se sintetiza
 a partir de la ribosa 5-fosfato?:
 1. Histidina.
@@ -293,7 +289,6 @@ galoblástica:
 2. Déficit de hierro.
 3. Déficit de ácido fólico.
 4. Síndrome de Lesch-Nyhan.
-Pagina: 3
 33. En el metabolismo del glucógeno, señale la res-
 puesta INCORRECTA:
 1. La síntesis del glucógeno requiere la inter-
@@ -348,7 +343,6 @@ hebras de ADN.
 4. La intensidad de la señal fluorescente en el
 décimo ciclo de amplificación.
 )42/5--0-ACIMÍUQ--(
-3 de 22
 38. Indique cuál de las siguientes parejas de
 “transportador de glucosa (GLUT) – tejido de
 expresión principal” es la correcta:
@@ -402,7 +396,6 @@ dera anfótero?:
 2. Hidróxido de aluminio.
 3. Hidróxido de zinc.
 4. Hidróxido de magnesio.
-Pagina: 4
 44. El cobalto-60, usado en radioterapia, puede ser
 producido mediante bombardeo de cobalto-59
 con:
@@ -458,7 +451,6 @@ oxidante fuerte.
 sulfato es poco reactivo y el ion persulfato es
 un oxidante fuerte.
 )42/6--0-ACIMÍUQ--(
-4 de 22
 49. Respecto a las ventajas del uso de arcillas anió-
 nicas como complemento de los protectores
 solares, señale la respuesta INCORRECTA:
@@ -511,7 +503,6 @@ vamente:
 2. 4, 5 y 10 átomos en la celda.
 3. 1, 2 y 4 átomos en la celda.
 4. 2, 3 y 8 átomos en la celda.
-Pagina: 5
 56. Los puntos de fusión del fluoruro (1290°C) y el
 ioduro (190°C) de aluminio son claramente
 diferentes debido a que:
@@ -574,7 +565,6 @@ emisión de una partícula beta (β–), del isótopo:
 4. (cid:3)(cid:3)𝑅𝑢
 (cid:1)(cid:1)
 )42/7--0-ACIMÍUQ--(
-5 de 22
 62. ¿Cuál de las siguientes afirmaciones sobre los
 defectos de Frenkel es verdadera?:
 1. Son un tipo de defecto extrínseco.
@@ -617,7 +607,6 @@ que el ácido clorhídrico.
 te que el hipoclorito sódico.
 4. El ácido fluorhídrico se almacena en botellas
 de vidrio, dado que ataca al plástico.
-Pagina: 6
 67. Señala la respuesta correcta respecto del hidró-
 geno:
 1. Es el elemento más abundante del Universo y
@@ -680,7 +669,6 @@ caras?:
 3. 74%
 4. 91%
 )42/8--0-ACIMÍUQ--(
-6 de 22
 72. El catión amonio es frecuentemente considera-
 do como un metal pseudo-alcalino. ¿Cuál de las
 siguientes razones es FALSA?:
@@ -741,7 +729,6 @@ configuración p1?:
 2. 1P
 3. 2P
 4. 1D
-Pagina: 7
 77. El silicio dopado con arsénico es:
 1. Un aislante.
 2. Un semiconductor intrínseco.
@@ -798,7 +785,6 @@ dínicos.
 4. Minimización de una alquilación múltiple en
 posición alfa del derivado carbonílico.
 )42/9--0-ACIMÍUQ--(
-7 de 22
 84. ¿Cuál de los siguientes es el mejor grupo salien-
 te en una reacción de sustitución SN ?:
 2
@@ -838,7 +824,6 @@ aromático, de acuerdo con la regla de Hückel?:
 2. Catión ciclopentadienilo.
 3. Anión ciclopentadienilo.
 4. Dianión ciclooctatetraenilo.
-Pagina: 8
 90. ¿Cuál de las siguientes afirmaciones sobre po-
 límeros es FALSA?:
 1. El neopreno es un caucho sintético producido
@@ -889,7 +874,6 @@ sódico en etanol?:
 3. Una amina.
 4. Una imina.
 )42/01--0-ACIMÍUQ--(
-8 de 22
 95. ¿Qué condiciones de reacción podrían convertir
 una anilina en un fenol?:
 1. Tratamiento con nitrito sódico en medio áci-
@@ -932,7 +916,6 @@ azufre en un anillo de:
 3 2
 4. CH BrCH CH=CH
 2 2 2
-Pagina: 9
 100. ¿Qué producto resulta de forma mayoritaria de
 la siguiente reacción?:
 1.
@@ -957,13 +940,10 @@ siguiente reacción?:
 4. a)Piridina; b)Br /FeBr ; c)hidrólisis de amida.
 2 3
 )42/11--0-ACIMÍUQ--(
-9 de 22
 103. ¿Cuál es el producto final de la siguiente se-
 cuencia de reacciones?:
-1) BH 3/THF PCC 1) CH 3MgBr
-2) H 2O 2/OH- CH 2Cl
-2
-2) H 3O+
+1) BH 3 /THF PCC 1) CH 3 MgBr
+2) H 2 O 2 /OH- CH 2 Cl 2 2) H 3 O+
 1. 2,3-Dimetilpentan-3-ol.
 2. 2,3-Dimetilpentan-2-ol.
 3. 2,4-Dimetilpentan-3-ol.
@@ -1016,7 +996,6 @@ y el más ácido es el ácido p-nitrobenzoico.
 y el más ácido es ácido benzoico.
 4. El menos ácido es el ácido benzoico y el más
 ácido es el ácido p-nitrobenzoico.
-Pagina: 1
 108. El tratamiento con Na, NH (líquido) sobre el 2-
 3
 octino conduce a:
@@ -1053,7 +1032,6 @@ número par de neutrones.
 mero impar de neutrones.
 4. Un núcleo con número par de protones y nú-
 mero par de neutrones. )42/21--0-ACIMÍUQ--(
-10 de 22
 112. ¿Cuál es el compuesto que se obtiene cuando se
 trata una mezcla de benzaldehído y acetona con
 NaOH y calentamiento?:
@@ -1079,7 +1057,6 @@ do?:
 2.
 3.
 4.
-Pagina: 1
 115. El tratamiento de la acetofenona (Ph-CO-CH )
 3
 con Br /CH COOH conduce a:
@@ -1123,7 +1100,6 @@ la reacción del haloformo?:
 3. 2-Metil-3-hexanona.
 4. Ciclohexanona.
 )42/31--0-ACIMÍUQ--(
-11 de 22
 120. Un cromatograma es:
 1. Una gráfica de alguna función de la concen-
 tración de soluto frente al tiempo o volumen
@@ -1174,7 +1150,6 @@ ficación de:
 2. Mercurio.
 3. Níquel.
 4. Plomo.
-Pagina: 1
 125. Señala la respuesta correcta respecto a los si-
 guientes detectores utilizados en cromatografía
 de gases:
@@ -1228,7 +1203,6 @@ eluye en último lugar?:
 3. Arginina.
 4. Treonina.
 )42/41--0-ACIMÍUQ--(
-12 de 22
 130. ¿Cuál de los siguientes NO es un método para la
 determinación de proteínas totales en suero
 humano?:
@@ -1283,7 +1257,6 @@ Raman?:
 2. Radiación visible.
 3. Radiación X.
 4. Radiación gamma.
-Pagina: 1
 136. En cromatografía de líquidos, el relleno de la
 pre-columna ha de tener con respecto al relleno
 de la columna analítica:
@@ -1328,7 +1301,6 @@ atomización electrotérmica.
 4. Para el análisis de muestras sólidas mediante
 espectrometría IR.
 )42/51--0-ACIMÍUQ--(
-13 de 22
 140. ¿Qué es la selectividad de un método de análi-
 sis?:
 1. Cambio que experimenta una determinada
@@ -1380,7 +1352,6 @@ el analito.
 4. Los disolventes con constante dieléctrica alta
 son buenos extractantes porque absorben ra-
 diación de microondas.
-Pagina: 1
 145. La exposición de metales a una llama produce
 colores de longitudes de onda específicas que
 permiten su identificación. ¿Cuál de los siguien-
@@ -1436,7 +1407,6 @@ minar:
 3. Potasio.
 4. Sodio.
 )42/61--0-ACIMÍUQ--(
-14 de 22
 151. Si el coeficiente de distribución (K ) de un solu-
 D
 to en un sistema cromatográfico es la unidad,
@@ -1485,7 +1455,6 @@ dos.
 reacción redox.
 4. La respuesta de una sustancia química a dife-
 rentes niveles de potencial.
-Pagina: 1
 157. Con respecto a la derivatización, utilizada habi-
 tualmente en cromatografía de gases, es verda-
 dero que:
@@ -1537,7 +1506,6 @@ química?:
 3. F + L = C – 3
 4. F + L = C + 3
 )42/71--0-ACIMÍUQ--(
-15 de 22
 163. La temperatura por encima de la cual ya no se
 puede licuar la fase gaseosa de una sustancia al
 aumentar la presión se denomina:
@@ -1590,7 +1558,6 @@ una propiedad coligativa:
 2. La disminución de la presión de vapor.
 3. La presión osmótica.
 4. El descenso del punto de congelación.
-Pagina: 1
 170. ¿Cuál de las siguientes afirmaciones es FAL-
 SA?:
 1. Para un flujo laminar de un líquido en un tubo
@@ -1647,7 +1614,6 @@ C .
 molécula C .
 2
 )42/81--0-ACIMÍUQ--(
-16 de 22
 175. Sobre el equilibrio ácido-base, indique la frase
 correcta:
 1. Si pK(HA) < pK(HB), entonces A– es una
@@ -1709,27 +1675,26 @@ P
 P
 4. C = 7R/2
 P
-Pagina: 1
 180. El cambio de entropía de un sistema cerrado
 que experimenta un calentamiento isobárico
 entre los estados 1 y 2 se puede calcular me-
 diante la expresión:
-H
-1. S
+ΔH
+1. ΔS=
 T
 C
 2.
-ST
+ΔS=T
 2 V dT
 T T
 1
 C
 3.
-ST
+ΔS=T
 2 P dT
 T T
 1
-4. S
+4. ΔS=
 T
 2C dT
 P
@@ -1776,7 +1741,6 @@ transición vítrea.
 4. Hace el material más rígido sin modificar la
 temperatura de transición vítrea.
 )42/91--0-ACIMÍUQ--(
-17 de 22
 185. ¿En cuál de las siguientes moléculas la distancia
 entre los átomos de carbono es menor?
 1. Etanol.
@@ -1827,7 +1791,6 @@ lécula mediante un proceso radiante a través
 de la colisión con otra especie.
 4. El proceso que siempre es previo a la fosfo-
 rescencia molecular.
-Pagina: 1
 190. En un proceso catalítico:
 1. Disminuye la energía de activación.
 2. Disminuye el orden de reacción.
@@ -1884,7 +1847,6 @@ brio es compatible con los datos anteriores?:
 3. K(100ºC) = 0,085; K(300ºC) = 0,045
 4. K(100ºC) = 0,045; K(300ºC) = 0,085
 )42/02--0-ACIMÍUQ--(
-18 de 22
 𝒌
 196. Una reacción química, 𝑹→𝑷 (k representa la
 constante de velocidad), está catalizada por la
@@ -1939,7 +1901,6 @@ ebullición?:
 2. Propanol.
 3. Etanamida.
 4. Metanoato de metilo.
-Pagina: 1
 202. ¿Cuál de las siguientes moléculas se emplea en
 en medicina como biomarcador de síndrome
 coronario agudo o infarto agudo de miocardio?:
@@ -1992,7 +1953,6 @@ tero?:
 3. Óxido de magnesio.
 4. Trióxido de diboro.
 )42/12--0-ACIMÍUQ--(
-19 de 22
 207. Un compuesto de fórmula C H O muestra, en
 5 12
 el espectro de 1H-RMN en CDCl , la existencia
@@ -2038,8 +1998,5 @@ to.
 4. Disminución de la velocidad del ciclo de
 Krebs.
 )42/22--0-ACIMÍUQ--(
-Pagina: 20 de 22
 )42/32--0-ACIMÍUQ--(
-Pagina: 21 de 22
 )42/42--0-ACIMÍUQ--(
-Pagina: 22 de 22

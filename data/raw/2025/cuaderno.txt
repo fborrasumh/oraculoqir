@@ -88,7 +88,6 @@ reacción irreversible de la vía de la glucólisis?:
 2. Fosfohexosa isomerasa.
 3. Enolasa.
 4. Fosfofructoquinasa-1.
-Página:
 8. ¿Cuál es la enzima que cataliza la única reac-
 ción del ciclo de la urea que tiene lugar en el
 interior de la matriz mitocondrial?:
@@ -142,7 +141,6 @@ tido H N-Asp-Met-Asp-COOH a pH=13,99:
 2. – 3
 3. 0
 4. + 1
-1 de 21
 14. En cuanto a la curva de disociación de oxígeno-
 hemoglobina:
 1. Un aumento de la temperatura desplaza la
@@ -195,7 +193,6 @@ del metabolismo hepático del etanol?:
 2. Acetona.
 3. Glicerol.
 4. Metanol.
-Página:
 19. ¿Qué molécula se genera durante la formación
 de fosfoenolpiruvato a partir de piruvato en la
 gluconeogénesis?:
@@ -244,7 +241,6 @@ global de todos los átomos de una proteína?:
 2. Estructura secundaria.
 3. Estructura terciaria.
 4. Estructura cuaternaria.
-2 de 21
 26. ¿Cómo se llaman las proteínas que se unen a
 lípidos en la sangre y son responsables del
 transporte de triacilgliceroles, fosfolípidos,
@@ -291,7 +287,6 @@ notransferasa.
 3. La xantino oxidasa.
 4. La hipoxantina guanina fosforribosil transfe-
 rasa.
-Página:
 32. El interior de los hematíes presenta una concen-
 tración mucho más elevada que el plasma san-
 guíneo de:
@@ -338,7 +333,6 @@ nomina:
 2. Aneuploidía.
 3. Traslocación.
 4. Mosaicismo.
-3 de 21
 38. ¿Qué enzima NO forma parte del catabolismo
 de las bases púricas?:
 1. Xantina oxidasa.
@@ -387,7 +381,6 @@ sultantes de la reacción?:
 2. AT + GC
 3. ATG + C
 4. ATGC
-Página:
 42. Según las recomendaciones de la Unión Inter-
 nacional de Bioquímica y Biología Molecular
 para la clasificación de enzimas, basada en el
@@ -438,7 +431,6 @@ un diámetro mayor.
 3. La conformación depende de las condiciones
 del medio y es independiente de la secuencia.
 4. Las formas A, B y Z son dextrógiras.
-4 de 21
 48. El Premio Nobel de Fisiología de 2024 fue para
 investigadores que trabajaron con microARN
 (miARN). Estos miARN:
@@ -493,7 +485,6 @@ FALSO que:
 5 3h
 4. La molécula B H se asigna al grupo C .
 2 6 2v
-Página:
 54. El ion hidruro se puede considerar como una
 especie con comportamiento:
 1. Ácido y reductor.
@@ -533,7 +524,7 @@ ticas.
 nético.
 58. ¿Cuál de los siguientes elementos de simetría
 puede presentar una molécula quiral?:
-1. Plano especular ().
+1. Plano especular (σ).
 2. Centro de inversión (i).
 3. Eje de rotación (C ).
 n
@@ -547,7 +538,6 @@ que los aniones ocupan:
 2. La mitad de los huecos octaédricos.
 3. Todos los huecos tetraédricos.
 4. La mitad de los huecos tetraédricos.
-5 de 21
 60. El apatito es una familia de sales mixtas que
 incluyen siempre en su composición:
 1. Iones fosfato y calcio.
@@ -565,11 +555,11 @@ regla hace referencia esta afirmación?:
 18 electrones?:
 1. [V(CO) ]
 6
-2. [Ni(3-C H ) ]
+2. [Ni(η3-C H ) ]
 3 5 2
 3. [Fe(CO) ]2+
 6
-4. [Ti(5-C H ) Cl ]
+4. [Ti(η5-C H ) Cl ]
 5 5 2 2
 63. Teniendo en cuenta la Teoría de Orbitales Mo-
 leculares, ¿cuál es el color de cada uno de los
@@ -609,7 +599,6 @@ carácter reductor, puesto que se pasiva.
 4. El hidrogenocarbonato cálcico es un sólido
 estable, que se puede almacenar durante años
 sin descomposición.
-Página:
 66. Sobre las sales de cobre:
 1. El cloruro de cobre (I) presenta mayor carác-
 ter iónico que el cloruro de potasio.
@@ -662,7 +651,6 @@ del compuesto Bi(NO ) · nH O?:
 2. Espectroscopia infrarroja.
 3. Difracción de electrones.
 4. Espectroscopia de absorción de rayos X.
-6 de 21
 71. Entre los siguientes iones complejos de hierro,
 el valor del desdoblamiento del campo del cris-
 tal aumenta de acuerdo con:
@@ -717,7 +705,6 @@ forma apreciable.
 2
 nitrógeno antes que en N y O .
 2 2
-Página:
 77. Sobre los lantánidos:
 1. Por su configuración electrónica [Xe] 4f n 5d1
 6s2, muestran una gran semejanza en sus pro-
@@ -770,7 +757,6 @@ coholes alílicos de forma suave.
 4. Los compuestos carbonílicos pueden conver-
 tirse en alcoholes mediante hidrogenación ca-
 talítica.
-7 de 21
 83. Respecto a la reactividad de hidrocarburos
 aromáticos policíclicos:
 1. El naftaleno se encuentra activado frente a la
@@ -822,7 +808,6 @@ periódico?:
 2. Hexanodial.
 3. Ácido hexanodioico.
 4. Ciclohexeno.
-Página:
 89. ¿Cuál es el efecto que justifica que los protones
 de los anillos aromáticos sufran un desapanta-
 llamiento con respecto a los protones alifáti-
@@ -856,9 +841,26 @@ cos que es ópticamente activa.
 que es ópticamente activa.
 4. Una mezcla de dos alcoholes que son isóme-
 ros constitucionales de posición.
-8 de 21
-93. ¿Qué producto se obtendría al llevar a cabo la 96. ¿Por qué los aldehídos dan reacciones de adi-
-siguiente reacción?: ción nucleofílica mientras que los ésteres dan
+93. ¿Qué producto se obtendría al llevar a cabo la
+siguiente reacción?:
+1.
+2.
+3.
+4.
+94. ¿Cuál de estas moléculas se considera un siste-
+ma π-deficiente?:
+1.
+2.
+3.
+4.
+95. ¿Cuál de los siguientes compuestos tiene un
+mayor punto de ebullición?:
+1. Propanal.
+2. Propan-1-ol.
+3. Propanona.
+4. Etil metil éter.
+96. ¿Por qué los aldehídos dan reacciones de adi-
+ción nucleofílica mientras que los ésteres dan
 reacciones de sustitución nucleofílica acílica?:
 1. El carbono carbonílico de un éster es más
 electrofílico que el de un aldehído.
@@ -868,44 +870,38 @@ camente que los ésteres.
 intermedio tetraédrico está demasiado impe-
 dido estéricamente para eliminar uno de los
 grupos.
-1. 4. Tras la adición del nucleófilo al aldehído, no
+4. Tras la adición del nucleófilo al aldehído, no
 se pueden eliminar los grupos H- ni R- por-
 que son fuertemente básicos.
 97. ¿Cuál es el orden de basicidad creciente de las
-2. siguientes aminas?:
-3.
-4.
+siguientes aminas?:
 1. D < E < A < B < C
 2. B < D < A < C < E
 3. D < B < E < A < C
-94. ¿Cuál de estas moléculas se considera un siste- 4. B < A < C < D < E
-ma -deficiente?:
+4. B < A < C < D < E
 98. ¿Cuál es la estructura del compuesto que, tra-
 tado con ozono seguido de (CH ) S, origina
 3 2
 cantidades equimoleculares de acetona, acetal-
-1. dehído y pentano-2,4-diona?:
+dehído y pentano-2,4-diona?:
 1. (E)-2,6-Dimetilocta-2,6-dieno.
 2. (E)-2,6-Dimetilocta-1,6-dieno.
-2. 3. (E)-2-Metilnona-2,7-dieno.
+3. (E)-2-Metilnona-2,7-dieno.
 4. (E)-2,3,5-Trimetilhepta-2,5-dieno.
 99. Es FALSO que:
-3.
 1. Un buen dienófilo en una reacción de Diels
 Alder es el que tiene un sustituyente atractor
 de electrones.
-4.
 2. Según la Teoría de los Orbitales Frontera para
 la reacción de Diels Alder, siempre interac-
 ciona el HOMO del dieno con el LUMO del
-95. ¿Cuál de los siguientes compuestos tiene un dienófilo.
-mayor punto de ebullición?: 3. En una reacción de Diels Alder a muy alta
+dienófilo.
+3. En una reacción de Diels Alder a muy alta
 temperatura el aducto exo es el producto ma-
-1. Propanal. yoritario porque está menos impedido.
-2. Propan-1-ol. 4. Para que se dé una reacción de cicloadición
-3. Propanona. tiene que estar permitida por la geometría y
-4. Etil metil éter. por la simetría.
-Página: 9 de 21
+yoritario porque está menos impedido.
+4. Para que se dé una reacción de cicloadición
+tiene que estar permitida por la geometría y
+por la simetría.
 N
 O
 H
@@ -950,7 +946,6 @@ siguiente secuencia de reacciones?:
 2.
 3.
 4.
-Página: 1
 103. ¿Cuál de las siguientes estructuras representa al
 (2S,3R)-2-bromo-3-clorobutano?:
 1.
@@ -977,7 +972,6 @@ acético?:
 2. 1-Metoxi-3-nitronaftaleno.
 3. 1-Metoxi-4-nitronaftaleno.
 4. 1-Metoxi-5-nitronaftaleno.
-10 de 21
 107. ¿Cuántos alquenos isoméricos de fórmula mole-
 cular C H existen?:
 4 8
@@ -1011,7 +1005,6 @@ HCl conduce a:
 2. 1-cloro-1-buteno (mezcla de isómeros Z y E).
 3. 1,2-diclorobutano.
 4. 2,2-diclorobutano.
-Página: 1
 112. ¿Cuál de estas reacciones se corresponde con la
 reacción de Claisen?:
 1.
@@ -1051,7 +1044,6 @@ zando 0,1 mL para alcanzar el punto final.
 2. 0,1 M
 3. 0,01 M
 4. 0,001 M
-11 de 21
 117. ¿Cómo se consigue la elución en gradiente en
 cromatografía de líquidos de alta eficacia
 (HPLC)?:
@@ -1104,7 +1096,6 @@ culas grandes y térmicamente frágiles.
 4. Se puede adaptar fácilmente a la introducción
 directa de una muestra desde una columna de
 HPLC o de electroforesis capilar.
-Página: 1
 122. ¿Cuál de las siguientes relaciones entre tipo de
 cromatografía e interacción del soluto con la
 fase estacionaria es correcta?:
@@ -1156,7 +1147,6 @@ apolar.
 largo del análisis.
 4. El flujo de la fase móvil se mantiene constan-
 te.
-12 de 21
 127. La ecuación de van Deemter, empleada en cro-
 matografía, permite relacionar:
 1. El número de platos de la columna con la
@@ -1200,7 +1190,6 @@ concentración de analito inferior a la concen-
 tración de analito en la muestra.
 4. La muestra se añade al patrón de calibración
 más concentrado.
-Página: 1
 132. Respecto a las precolumnas en cromatografía
 de líquidos, señale la respuesta FALSA:
 1. Eliminan la materia en suspensión y los con-
@@ -1254,7 +1243,6 @@ para ionizar la muestra?:
 2. Electrones energéticos.
 3. Haz de láser.
 4. Iones gaseosos reactivos.
-13 de 21
 138. En cuanto a los sólidos formados por precipita-
 ción, ¿qué tipo de precipitación es más probable
 cuando la sobresaturación relativa es pequeña?:
@@ -1305,7 +1293,6 @@ tra de pelo para su posterior análisis?:
 2. Parietal.
 3. Occipital.
 4. Coronal.
-Página: 1
 144. En análisis, el ruido químico o instrumental:
 1. Disminuye el límite de detección del método
 de análisis.
@@ -1351,7 +1338,6 @@ sorbancia corresponde a una transmitancia del
 2. Abs = 0,01
 3. Abs = 1
 4. Abs = 2
-14 de 21
 151. La escala de Hammett (H ) describe:
 0
 1. Viscosidad.
@@ -1397,7 +1383,6 @@ muestra.
 muestra.
 4. Analizando un material de referencia certifi-
 cado.
-Página: 1
 157. Sobre el equilibrio ácido-base:
 1. A cualquier temperatura, en solución acuosa
 se cumple que K = [H O+] + [OH–].
@@ -1442,7 +1427,6 @@ una distribución normal?:
 2. H de Kruskal–Wallis.
 3. t de Student.
 4. U de Mann-Whitney.
-15 de 21
 162. Siendo VP = verdaderos positivos, FP = falsos
 positivos, VN = verdaderos negativos y FN =
 falsos negativos, ¿cuál de las siguientes fórmu-
@@ -1481,7 +1465,6 @@ do la cierta es la alternativa.
 4. Se suele fijar en 5%, lo que significa que 5 de
 cada 100 veces rechazamos la hipótesis alter-
 nativa a pesar de ser cierta.
-Página: 1
 165. ¿Cuál de las siguientes curvas ROC (Receiver
 Operating Characteristics) sugiere que la prueba
 o modelo diagnóstico al que representa tiene
@@ -1524,7 +1507,6 @@ termodinámicamente el proceso.
 camente el proceso.
 4. El proceso es termodinámicamente espontá-
 neo a cualquier temperatura y presión.
-16 de 21
 169. La energía de Gibbs se define como:
 1. El trabajo máximo en un proceso isobárico.
 2. El trabajo máximo en un proceso isotérmico.
@@ -1550,15 +1532,15 @@ de una disolución.
 reacción de oxidación-reducción que tiene lugar
 en una celda galvánica en condiciones estándar
 es cierta?:
-1. G0 y E0 son positivos y K es mayor que 1.
+1. ΔG0 y E0 son positivos y K es mayor que 1.
 r eq
-2. G0 es negativo, E0 positivo y K es mayor
-r eq
-que 1.
-3. G0 es positivo, E0 negativo y K es menor
+2. ΔG0 es negativo, E0 positivo y K es mayor
 r eq
 que 1.
-4. G0 y E0 son negativos y K es menor que 1.
+3. ΔG0 es positivo, E0 negativo y K es menor
+r eq
+que 1.
+4. ΔG0 y E0 son negativos y K es menor que 1.
 r eq
 172. Cuando el hidróxido de sodio (s) se disuelve en
 agua, la temperatura de la disolución resultante
@@ -1576,7 +1558,6 @@ puede afirmar que:
 3. L = +2, -2.
 4. Aplicando el acoplamiento espín-órbita de
 Russell-Saunders, J = 3, 2, 1.
-Página: 1
 174. Al estudiar el perfil energético de una reacción
 química se observa que la energía de activación
 del proceso directo es mayor que la del proceso
@@ -1592,7 +1573,7 @@ ción directa es endotérmica o exotérmica.
 con la espectroscopia Raman es FALSO?:
 1. El desplazamiento Raman de una línea espec-
 tral Raman dada no cambia si la frecuencia de
-la radiación incidente  cambia.
+la radiación incidente ν cambia.
 o
 2. Las líneas Stokes tienen un desplazamiento
 Raman positivo.
@@ -1616,7 +1597,7 @@ ción Raman.
 4. El D no tiene viscosidad.
 2
 177. ¿Cuáles son las unidades de una función de
-onda estacionaria (x) para una partícula en
+onda estacionaria Ψ(x) para una partícula en
 un sistema unidimensional?:
 1. longitud–1/2
 2. longitud–3/2
@@ -1632,7 +1613,6 @@ sustancia pura con la temperatura.
 sustancia pura con la temperatura.
 4. La variación de la presión de vapor de una
 sustancia pura con la temperatura.
-17 de 21
 179. ¿Qué debe ocurrir para que una vibración mo-
 lecular sea activa en el infrarrojo?:
 1. Que la simetría molecular cambie cuando el
@@ -1682,7 +1662,6 @@ disolvente.
 3. La aparición de soluto en el vapor del disol-
 vente.
 4. La formación de un precipitado.
-Página: 1
 184. De acuerdo con el principio de Le Châtelier,
 ¿hacia dónde se desplaza el equilibrio de un
 sistema que se comprime de manera isotérmi-
@@ -1726,7 +1705,6 @@ tración.
 3. Disminuye linealmente con la concentración.
 4. Disminuye con la raíz cuadrada de la concen-
 tración.
-18 de 21
 188. De acuerdo con la ecuación de Stokes-Einstein
 para la difusión de una partícula esférica, ¿có-
 mo se relaciona el coeficiente de difusión (D)
@@ -1776,7 +1754,6 @@ tienen lugar las transiciones vibracionales?:
 2. Microondas.
 3. Ultravioleta.
 4. Visible.
-Página: 1
 193. En cinética química, se define la etapa determi-
 nante de la velocidad en una reacción secuencial
 como aquella que es:
@@ -1832,7 +1809,6 @@ dP (𝑘 −𝑘′ )[A]3
 4. = 1 1
 dt 𝑘 [B]
 2
-19 de 21
 198. De acuerdo con la Teoría de Orbitales Molecu-
 lares:
 1. Las moléculas F y O son paramagnéticas.
@@ -1873,7 +1849,6 @@ heptacloruros con facilidad.
 agentes oxidantes.
 4. Iodo, bromo y cloro pueden formar heptafluo-
 ruros.
-Página: 2
 202. ¿Cuál es el producto que se obtiene de la si-
 guiente reacción?:
 1.
@@ -1910,7 +1885,6 @@ durante la expansión adiabática?:
 3. Permanece constante.
 4. Puede aumentar o disminuir dependiendo de
 si el gas es monoatómico o poliatómico.
-20 de 21
 206. ¿Qué se obtiene en la reacción de diborano con
 1-deceno en diglima?:
 1. Decano.
@@ -1956,7 +1930,6 @@ estacionaria?:
 2. Adsorción.
 3. Intercambio iónico.
 4. Partición.
-Página: 21 de 21
 
 
 
