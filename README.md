@@ -87,4 +87,7 @@ python3 tests/smoke_test.py        # la app en Chromium con IA simulada
 
 ## Autoría
 
-Fernando Borrás Rocher (ORCID 0000-0002-5519-4573), Universidad Miguel Hernández de Elche. Licencia MIT.
+- Fernando Borrás Rocher (Universidad Miguel Hernández de Elche) · ORCID [0000-0002-5519-4573](https://orcid.org/0000-0002-5519-4573)
+- Francisco Javier Gómez Pérez (Universidad Miguel Hernández de Elche) · [perfil UMH](https://research.umh.es/vivo/display/per_5516)
+
+Ambos autores aceptan la licencia MIT.

@@ -35,6 +35,11 @@
       "name": "Fernando Borrás Rocher",
       "orcid": "0000-0002-5519-4573",
       "affiliation": "Universidad Miguel Hernández de Elche"
+    },
+    {
+      "name": "Francisco Javier Gómez Pérez",
+      "affiliation": "Universidad Miguel Hernández de Elche",
+      "url": "https://research.umh.es/vivo/display/per_5516"
     }
   ],
   "idea_credit": "Basada en OráculoMIR y OráculoFIR, adaptada al examen QIR (Química).",
