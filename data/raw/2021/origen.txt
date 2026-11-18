@@ -1,0 +1,2 @@
+Copia de terceros del documento oficial del Ministerio de Sanidad
+headqa: https://huggingface.co/datasets/alesi12/head_qa_v2 :: Cuaderno_2020_1_Q

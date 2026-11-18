@@ -1,2 +1,3 @@
 Copia de terceros del documento oficial del Ministerio de Sanidad
 cuaderno: https://huggingface.co/datasets/head_qa/resolve/main/data/head-qa-es-en-pdfs.zip :: data/QIR/Cuaderno_2017_1_Q.pdf
+respuestas: https://huggingface.co/datasets/alesi12/head_qa_v2 :: Cuaderno_2017_1_Q
