@@ -1,0 +1,2063 @@
+MINISTERIO
+DE SANIDAD
+PRUEBAS SELECTIVAS 2022 NÚMERO DE MESA:
+CUADERNO DE EXAMEN NÚMERO DE EXPEDIENTE:
+Nº DE D.N.I. O EQUIVALENTE PARA EXTRANJEROS:
+APELLIDOS Y NOMBRE:
+ADVERTENCIA IMPORTANTE
+ANTES DE COMENZAR SU EXAMEN, LEA ATENTAMENTE LAS SIGUIENTES
+INSTRUCCIONES
+PROHIBIDA LA REPRODUCCIÓN TOTAL O PARCIAL
+LANUBIRT
+LED
+NÓICACIDNI
+AL
+A
+ETNEMALOS
+RIRBA
+QUÍMICA 2022
+QUÍMICA - VERSIÓN: 1
+1. MUY IMPORTANTE: Compruebe que este Cuaderno de Examen, integrado por 200
+preguntas más 10 de reserva, lleva todas sus páginas y no tiene defectos de impresión. Si
+detecta alguna anomalía, pida otro Cuaderno de Examen a la Mesa.
+2. La “Hoja de Respuestas” está nominalizada. Se compone de dos ejemplares en papel
+autocopiativo que deben colocarse correctamente para permitir la impresión de las
+contestaciones en todos ellos. Recuerde que debe firmar esta Hoja.
+3. Compruebe que la respuesta que va a señalar en la “Hoja de Respuestas” corresponde al
+número de pregunta del cuestionario. Sólo se valoran las respuestas marcadas en la “Hoja de
+Respuestas”, siempre que se tengan en cuenta las instrucciones contenidas en la misma.
+4. Si inutiliza su “Hoja de Respuestas” pida un nuevo juego de repuesto a la Mesa de Examen
+y no olvide consignar sus datos personales.
+5. Recuerde que el tiempo de realización de este ejercicio es de cuatro horas y treinta
+minutos improrrogables y que están prohibidos el uso de calculadoras y la utilización de
+teléfonos móviles, o de cualquier otro dispositivo con capacidad de almacenamiento de
+información o posibilidad de comunicación mediante voz o datos.
+6. No se entregarán, en ningún caso, los cuestionarios con las preguntas de examen. Las
+distintas versiones de los cuadernos de examen se publicarán en la Web del Ministerio de
+Sanidad, al cierre de la última mesa de examen.
+
+1. ¿Qué especie se determina cuando se valora una
+muestra que contiene Ca2+ y Mg2+ con EDTA a
+pH=12 y murexida como indicador?:
+1. Ca2+.
+2. Mg2+.
+3. Ca2+ + Mg2+.
+4. Ninguna de las dos especies.
+2. Si valoramos 50,0 mL de HCl 0,050 M con
+NaOH 0,100 M, ¿cuál es el valor del pH en el
+punto de equivalencia?:
+1. 1.
+2. 2.
+3. 5.
+4. 7.
+3. En una disolución acuosa de KHA, ¿cuál es la
+relación entre la concentración del ion potasio y
+la concentración del resto de las especies?:
+1. [K+]= [HA-] + [OH-].
+2. [K+]= [H A] + [HA-] + [A2-].
+2
+3. [K+]= [HA-] + [OH-] + 2[A2-].
+4. [K+]= [HA-] + [OH-] + 2[A2-].
+4. ¿Qué proceso controla la corriente en la pola-
+rografía convencional?:
+1. La difusión.
+2. La convección.
+3. La adsorción.
+4. La conducción.
+5. ¿Cuál de las siguientes afirmaciones es FALSA
+en relación con la calibración con patrón in-
+terno?:
+1. Se aplica cuando, entre medidas sucesivas, es
+difícil mantener alguno de los parámetros
+operatorios o reproducir la cantidad de mues-
+tra sometida al proceso de medida.
+2. Se añaden a las muestras y a los patrones de
+calibración cantidades conocidas del patrón
+interno.
+3. El patrón interno debe presentar, en el proce-
+so analítico, un comportamiento análogo al
+del analito que se quiere determinar.
+4. La concentración del analito de interés se
+obtiene por extrapolación de la recta de regre-
+sión al punto del eje x (cantidad de analito
+añadida) donde la señal analítica medida es
+cero.
+6. Una disolución 0.1 M de un ácido débil mo-
+noprótico (HA) tiene un pH de 4. Se cumple
+que:
+1. pK = 2.
+a
+2. pK = 5.
+a
+3. pK = 7.
+a
+4. pK = 9.
+a
+- 1
+7. ¿Cuál de las siguientes afirmaciones es FALSA
+en relación con la yodometría?:
+1. Es un método que consiste en la valoración
+del yodo generado en la reacción entre un
+analito oxidante y un exceso de yoduro.
+2. El reactivo valorante del yodo generado es
+una disolución patrón de carácter reductor,
+generalmente tiosulfato de sodio.
+3. El almidón (indicador) se añade cerca del
+punto final de la valoración cuando la mayor
+parte del yodo ha sido valorada.
+4. El punto final de la valoración yodométrica se
+pone de manifiesto por la aparición de color
+azul.
+8. Las variaciones de presión en cromatografía de
+fluidos supercríticos:
+1. No presentan ningún efecto sobre los tiempos
+de retención de las especies separadas.
+2. Presentan un efecto muy marcado sobre el
+factor de retención k.
+3. Tienen lugar durante la separación debido a
+fenómenos de descomposición de los fluidos
+utilizados.
+4. Empeoran significativamente los cromato-
+gramas obtenidos.
+9. La valoración de Karl Fischer está relacionada
+con:
+1. La determinación de la dureza de un agua
+mineral.
+2. La determinación potenciométrica de haluros.
+3. La determinación de agua.
+4. La determinación del punto isoeléctrico de
+una proteína.
+10. Identifica la sustancia que se utiliza con más
+frecuencia como fase móvil en cromatografía de
+fluidos supercríticos:
+1. Agua.
+2. Metanol.
+3. Hexano.
+4. Dióxido de carbono.
+11. Los espectrómetros infrarrojos de la transfor-
+mada de Fourier:
+1. No tienen elemento dispersante y todas las
+longitudes de onda se detectan y se miden de
+manera simultánea.
+2. Utilizan monocromadores tipo Czerny-Turner
+para conseguir obtener espectros con muy ba-
+jo nivel de ruido.
+3. Presentan una menor velocidad de respuesta y
+peor sensibilidad que los instrumentos de ba-
+rrido, aunque permiten realizar análisis multi-
+elemental.
+4. Incorporan como elemento clave en su fun-
+cionamiento un detector tipo CCD refrigera-
+do.
+1 -
+12. ¿En qué consiste la elución en gradiente en
+cromatografía líquida de alta resolución
+(HPLC)?:
+1. En la variación de la temperatura de la co-
+lumna cromatográfica durante el análisis de
+forma continua y escalonada.
+2. En la variación del flujo de la fase móvil du-
+rante la separación cromatográfica.
+3. En la separación de los diferentes analitos en
+función de su polaridad.
+4. En la variación de la composición de la fase
+móvil durante el análisis de forma continua
+y/o escalonada.
+13. En la técnica de cromatografía líquida de re-
+parto en fase normal:
+1. La fase estacionaria tiene la misma polaridad
+que la fase móvil.
+2. La fase estacionaria es polar y la fase móvil
+es no polar.
+3. La fase móvil es una disolución reguladora
+del pH.
+4. La fase estacionaria es menos polar que la
+fase móvil.
+14. ¿Qué tipo de detectores se utilizan en la técnica
+de cromatografía iónica con columnas supreso-
+ras?:
+1. Amperométricos.
+2. Espectrofotométricos.
+3. De conductividad.
+4. De ionización de llama.
+15. ¿Cuál es el orden de elución de los solutos en la
+cromatografía de exclusión por tamaños?:
+1. Creciente de punto isoeléctrico.
+2. Decreciente de peso molecular.
+3. Creciente de peso molecular.
+4. Creciente de polaridad.
+16. El método Kjeldahl se utiliza para medir el
+porcentaje de un elemento en una mezcla. ¿De
+qué elemento se trata?:
+1. Carbono.
+2. Nitrógeno.
+3. Hierro.
+4. Cobre.
+- 2
+17. Si deseamos medir la concentración de cortisol
+(esteroide producido por las glándulas supra-
+rrenales) en la orina de un adolescente median-
+te cromatografía líquida acoplada a espectro-
+metría de masas en tándem (LC-MS/MS), ¿qué
+sustancia es más adecuada como patrón in-
+terno?:
+1. Testosterona.
+2. Cortisol deuterado.
+3. Colesterol.
+4. Albúmina.
+18. ¿Cuál de las siguientes afirmaciones acerca de
+la espectrometría de masas con ionización por
+electronebulización (ESI/MS) es correcta?:
+1. Los aditivos no volátiles de la fase móvil
+(como el tampón fosfato) no interfieren en la
+ionización y está recomendado su uso.
+2. En la espectrometría de masas de iones nega-
+tivos todos los voltajes son positivos mientras
+que para los iones positivos se utilizan volta-
+jes negativos.
+3. Se recomienda la utilización de aditivos de
+baja fuerza iónica para que se pueda producir
+la ionización y detección del ion del analito.
+4. El electrospray puede crear moléculas nuevas,
+que no existían en la disolución acuosa pre-
+via.
+19. ¿Cuál de las siguientes afirmaciones respecto a
+la ley de Beer NO es cierta?:
+1. La ley de Beer se aplica a la radiación mono-
+cromática.
+2. La ley de Beer no funciona bien con disolu-
+ciones diluidas (<0.01 M).
+3. La ley de Beer se cumple cuando la especie
+absorbente no participa en un equilibrio que
+depende de la concentración.
+4. La ley de Beer afirma que la absorbancia es
+proporcional a la concentración de la especie
+absorbente.
+20. En cromatografía líquida de alta resolución
+(HPLC), la utilización de una partícula más
+pequeña como fase estacionaria de la columna
+implica:
+1. Mayor altura del plato teórico.
+2. Mayor resistencia al flujo y por tanto presión
+de trabajo más elevada.
+3. Incremento del tiempo óptimo de separación
+cromatográfica.
+4. Ensanchamiento de los picos.
+2 -
+21. En la cromatografía líquida en columna deno-
+minamos tiempo muerto a:
+1. Tiempo que el soluto pasa absorbido dentro
+del empaquetamiento de la columna.
+2. Tiempo que el soluto está fuera del empaque-
+tamiento de la columna.
+3. Tiempo que tarda una sustancia fuertemente
+retenida en eluir y llegar al detector.
+4. Tiempo que tarda una sustancia no retenida
+por la columna en llegar hasta el detector.
+22. ¿Cuál de las siguientes afirmaciones NO ES
+CIERTA de un procedimiento de calibración
+mediante el método de adición estándar?:
+1. Se puede utilizar para corregir las pérdidas de
+señal debida a la preparación de la muestra.
+2. La curva de calibración debe ser siempre li-
+neal en la matriz de la muestra.
+3. Se compensan los efectos de interferencia
+complejos debido a la matriz.
+4. Es compatible con el uso de un estándar in-
+terno.
+23. Con respecto a la técnica analítica nefelometría,
+señale la respuesta correcta:
+1. El detector se sitúa en un ángulo de 180º con
+respecto al haz de luz que incide sobre la
+muestra.
+2. Es un procedimiento analítico basado en la
+pérdida de radiación transmitida al atravesar
+una suspensión.
+3. Es un procedimiento analítico basado en la
+dispersión de la radiación al atravesar una
+suspensión.
+4. Puede ser realizado sin problema con un es-
+pectrofotómetro.
+24. La sensibilidad es una propiedad analítica que
+se define como:
+1. Concentración mínima de analito que origina
+una señal diferenciable estadísticamente de la
+señal del blanco.
+2. Es la relación que existe entre la variación de
+la señal analítica o cambio en la respuesta ins-
+trumental con un cambio en la concentración
+de analito.
+3. Concentración mínima de analito que puede
+cuantificarse con precisión.
+4. Capacidad de un método analítico para de-
+terminar de forma única el analito de interés.
+- 3
+25. Con respecto al efecto Hook, o efecto gancho,
+señale la respuesta correcta:
+1. Es un fenómeno observado en inmunoensayos
+que proporciona concentraciones de analito
+falsamente elevadas.
+2. Es un fenómeno que se produce ante concen-
+traciones muy elevadas de antígeno en inmu-
+noensayos.
+3. Es un fenómeno de reactividad cruzada moti-
+vado por analitos con estructura similar al de
+interés.
+4. Es una interferencia positiva observada en
+inmunoensayos tipo “sándwich” de un paso.
+26. De los siguientes elementos, ¿Cuál NO puede
+ser medido mediante espectrometría de masas
+con plasma de acoplamiento inductivo (ICP-
+MS)?:
+1. Cloro.
+2. Berilio.
+3. Litio.
+4. Yodo.
+27. Con respecto a las teorías de la cromatografía,
+señale la respuesta INCORRECTA:
+1. La altura del plato teórico (H) es inversamen-
+te proporcional a la velocidad de flujo de la
+fase móvil.
+2. La eficacia de la columna es mayor cuanto
+menor es la altura del plato teórico (H).
+3. El número de platos teóricos (N) es inversa-
+mente proporcional al tiempo de retención del
+soluto.
+4. La difusión en remolino o difusión de Eddy
+forma parte de la teoría cinética de la croma-
+tografía.
+28. El ácido etilendiaminotetraacético (EDTA) es
+un agente quelante muy utilizado en análisis
+químico, y se considera un ligando:
+1. Monodentado.
+2. Bidentado.
+3. Tetradentado.
+4. Hexadentado.
+29. Tenemos dos disoluciones acuosas diluidas de
+fluoruro de amonio, una de 0,40 M y la otra de
+0,10 M.
+Datos: pKa(HF): 3,20 pKa(NH +): 4,75
+4
+Se cumple que:
+1. La solución de 0,40 M es más ácida que la
+solución de 0,10 M.
+2. La solución de 0,10 M es más ácida que la
+solución de 0,40 M.
+3. Ambas tienen un pH básico, pero no se puede
+decir cuál es más ácida con los datos propor-
+cionados.
+4. Ambas soluciones tienen el mismo pH.
+3 -
+30. Según el Reglamento CLP (Reglamento de cla-
+sificación, etiquetado y envasado de sustancias y
+mezclas), ¿cómo se denominan las indicaciones
+de peligro?:
+1. Frases P.
+2. Frases H.
+3. Frases R.
+4. Frases S.
+31. Cuando detectamos un posible dato anómalo
+dentro de un conjunto de datos, es necesario:
+1. Aplicar un test Q de Dixon para evaluar si se
+puede rechazar o no.
+2. Aplicar un test t de Student para evaluar si se
+puede rechazar o no.
+3. Eliminarlo de la serie de datos antes de reali-
+zar el tratamiento de estos.
+4. Aplicar un test F de Fisher para evaluar si se
+puede rechazar o no.
+32. De las siguientes afirmaciones respecto a los
+atomizadores en espectroscopia atómica señala
+cuál es la correcta:
+1. Las muestras sólidas pueden introducirse en
+plasmas para su atomización mediante su va-
+porización con chispa o un haz de láser.
+2. El empleo de la generación de hidruros, como
+etapa previa a la atomización en llama o en
+plasma, es un sistema de introducción de
+muestra discontinuo.
+3. Tanto el plasma como la llama son sistemas
+de atomización discontinuos que precisan una
+nebulización previa de la muestra.
+4. Los atomizadores electrotérmicos son dispo-
+sitivos de atomización continuos que permi-
+ten atomizar muestras sólidas, líquidas y ga-
+seosas.
+33. Una disolución de ácido acético de concentra-
+ción 0,1 M tiene un pH calculado de 2,9. ¿Qué
+sucede si añadimos acetato de sodio?:
+1. El pH de la disolución será menor a 2,9.
+2. El pH de la disolución no cambia, la adición
+de sales no modifica el valor de pH.
+3. El pH de la disolución será mayor a 2,9.
+4. Aumenta la temperatura de la disolución y no
+se modifica el pH.
+34. ¿Qué tipo de fuente de radiación se puede utili-
+zar en espectrometría de absorción molecular
+para realizar medidas a una longitud de onda
+de 220 nm?:
+1. Lámpara de deuterio.
+2. Lámpara de cátodo hueco.
+3. Lámpara de wolframio.
+4. Fuente Globar.
+- 4
+35. ¿Qué detector se utiliza en espectrometría de
+absorción en el infrarrojo?:
+1. Fotomultiplicador.
+2. Piroeléctrico.
+3. Interferómetro.
+4. Contadores proporcionales.
+36. ¿Cuál es el fundamento de la cromatografía de
+intercambio iónico?:
+1. Un equilibrio de reparto del analito entre una
+fase acuosa y una estacionaria recubierta con
+un disolvente apolar.
+2. Equilibrios de intercambio iónico entre los
+iones en disolución y los iones en la superfi-
+cie de un sólido (fase estacionaria).
+3. Equilibrios de adsorción sólido-líquido.
+4. La separación de los compuestos en función
+de su tamaño.
+37. ¿Qué es la quimioluminiscencia?:
+1. Proceso de desactivación no radiante en el
+que la molécula pasa desde un nivel vibracio-
+nal excitado a otro nivel vibracional inferior
+situado en el mismo estado electrónico.
+2. Proceso de emisión de radiación luminosa
+producida por una molécula, que ha sido pre-
+viamente excitada por una radiación electro-
+magnética.
+3. Proceso de desactivación no radiante debido a
+la interacción entre la especie luminiscente y
+otra especie presente en el medio.
+4. Proceso de emisión de radiación luminosa
+producida por una molécula previamente ex-
+citada por la energía liberada en una reacción
+química.
+38. Los electrodos de membrana de vidrio se utili-
+zan para la medición directa de pH. En este tipo
+de electrodos, ¿cuál es el electrodo que actúa
+como electrodo de referencia?:
+1. Ag(s)|AgCl(s)|Cl-(1,0 M).
+2. Ag(s)|AgCl(s)|H+(1,0 M).
+3. Pt|H (g, 1 bar)|H+(1,0 M).
+2
+4. Hg(l)|Hg Cl (s)|H+(1,0 M).
+2 2
+39. La existencia del flujo electroosmótico debe de
+ser tenido en cuenta en:
+1. Voltametría de pulsos.
+2. Cromatografía iónica.
+3. Cromatografía de fluidos supercríticos.
+4. Electroforesis capilar.
+4 -
+40. ¿Qué se produce cuando el núcleo de un cierto
+isótopo de Ti experimenta una captura electró-
+nica?:
+1. Un anión Ti– .
+2. Otro isótopo de Ti, diferente al inicial.
+3. Un isótopo de V.
+4. Un isótopo de Sc.
+41. ¿Cuántos microestados presenta un átomo de
+C?:
+1. 2.
+2. 6.
+3. 15.
+4. 20.
+42. ¿Qué molécula puede utilizarse para determi-
+nar el radio covalente del O?:
+1. Peróxido de hidrógeno (H O ).
+2 2
+2. Dioxígeno (O ).
+2
+3. Ozono (O ).
+3
+4. Dióxido de carbono (CO ).
+2
+43. ¿Cuál es la geometría de BrF ?:
+3
+1. Triangular plana, con el bromo en el centro
+del triángulo.
+2. Triangular plana, con un flúor en el centro del
+triángulo.
+3. Trigonal piramidal (análoga a NH ).
+3
+4. En forma de T.
+44. ¿Cuáles de estos átomos dan lugar a enlaces de
+H?:
+1. N y P.
+2. N y Cl.
+3. O y C.
+4. O y Br.
+45. ¿De qué compuesto químico es una forma poli-
+mórfica la cristobalita?:
+1. TiO .
+2
+2. SiO .
+2
+3. MnO .
+2
+4. ZrO .
+2
+46. ¿Cuál es el componente principal de las porce-
+lanas?:
+1. La alúmina.
+2. El feldespato.
+3. El cuarzo.
+4. La arcilla.
+- 5
+47. ¿Qué es un polímero termoplástico?:
+1. Es un material polimérico cristalino que se
+ablanda cuando se calienta y endurece al en-
+friarse.
+2. Es un material polimérico semicristalino que
+se ablanda cuando se calienta y endurece al
+enfriarse.
+3. Es un material polimérico amorfo que se
+ablanda cuando se calienta y endurece al en-
+friarse.
+4. Es un material polimérico cristalino que no se
+altera por la aplicación de calor.
+48. ¿Qué es la sinterización?:
+1. Es la preparación de partículas pequeñas a
+partir de partículas de mayor tamaño a baja
+temperatura.
+2. Es la preparación de partículas pequeñas a
+partir de partículas de mayor tamaño a alta
+temperatura.
+3. Es la coalescencia de partículas de un agrega-
+do en polvo por difusión que se lleva a cabo a
+temperatura baja.
+4. Es la coalescencia de partículas de un agrega-
+do en polvo por difusión que se lleva a cabo a
+temperatura alta.
+49. ¿Qué metales constituyen la aleación conocida
+como latón?:
+1. Hierro y níquel.
+2. Cobre y níquel.
+3. Hierro y zinc.
+4. Cobre y zinc.
+50. ¿Genera una corriente de hidrógeno el magne-
+sio metálico en contacto con agua?:
+1. No, no es suficientemente reductor.
+2. No, porque el magnesio se recubre de una
+capa de Mg(OH) cuando empieza a reaccio-
+2
+nar con el agua.
+3. No, porque el Mg oxida el agua a oxígeno.
+4. No, porque la reacción del magnesio con agua
+da MgO y MgH .
+2
+51. ¿Tiene el yodo a temperatura ambiente el as-
+pecto de un sólido oscuro con brillo metálico?:
+1. No, el yodo a temperatura ambiente es un gas
+verde.
+2. No, el yodo a temperatura ambiente es un
+líquido rojizo.
+3. Sí, porque, a pesar de que el sólido está for-
+mado por moléculas I , la distancia intermo-
+2
+lecular entre dos átomos de yodo próximos es
+menor que la suma de radios de Van der
+Waals.
+4. Sí, porque el sólido está formado por una red
+cúbica centrada en el cuerpo.
+5 -
+52. ¿Cuál es el estado de oxidación del átomo de
+carbono en el formaldehido (metanal)?:
+1. 4.
+2. 2.
+3. 0.
+4. -2.
+53. ¿Cuáles son las estequiometrías de los compues-
+tos de flúor con titanio?:
+1. TiF y TiF .
+3 4
+2. TiF, TiF y TiF .
+3 5
+3. TiF , TiF y TiF .
+3 4 5
+4. TiF , TiF y TiF .
+2 4 6
+54. ¿Cómo son las disoluciones de KMnO en
+4
+agua?:
+1. Violetas y oxidantes.
+2. Amarillas y oxidantes.
+3. Violetas y reductoras.
+4. Amarillas y reductoras.
+55. Dada la siguiente reacción (sin igualar), indica
+cuál de las siguientes afirmaciones es correcta:
+x N H (l) + y H O (l) → z N (g) + t H O (g):
+2 4 2 2 2 2
+1. x = z = 1 ; y = 2 ; t = 4.
+2. Se trata de una reacción ácido-base en la que
+la hidracina actúa como ácido y el peróxido
+de hidrógeno como base.
+3. Se trata de una reacción de desproporción
+entre la hidracina y el peróxido de hidrógeno.
+4. Se trata de una reacción redox en la que el
+peróxido de hidrógeno actúa como reductor y
+la hidracina como oxidante.
+56. ¿Cuál es la valencia máxima que puede mostrar
+el elemento de número atómico 42?:
+1. +2.
+2. +3.
+3. +5.
+4. +6.
+57. Se conoce como eflorescencia:
+1. A la propiedad que poseen algunos minerales
+y sustancias químicas de convertirse en polvo
+por sí mismos, por pérdida de agua de crista-
+lización, al ser expuestos al aire.
+2. A la reacción redox espontánea que tiene
+lugar entre un oxidante y un reductor, que
+forman parte de un mismo compuesto, al ser
+éste expuesto al calor.
+3. Al fenómeno de flotación que experimenta la
+escoria en los procesos metalúrgicos de los al-
+tos hornos.
+4. Al proceso de protonación de los sulfuros
+metálicos con ácidos fuertes que genera el
+desprendimiento de ácido sulfhídrico gas.
+- 6
+58. ¿En cuál de los conjuntos siguientes todas las
+especies son paramagnéticas?:
+1. NO, CO, CN–.
+2. NO, O , OF.
+2
+3. NO+, O +, OF+.
+2
+4. NO–, O 2–, N .
+2 2
+59. Con respecto a la energía de estabilización del
+campo cristalino (EECC) se puede afirmar que:
+1. Puesto que Δ es 4/9 de Δ , la EECC de un
+oct tet
+entorno octaédrico siempre es menor que la
+de un entorno tetraédrico isoelectrónico.
+2. Las diferencias entre las EECC octaédricas y
+tetraédricas son máximas para los casos d3 y
+d8 de alto espín, y éstas son las configuracio-
+nes electrónicas para las que encontramos
+menos complejos tetraédricos.
+3. La gran mayoría de complejos de níquel(II)
+son octaédricos. Especialmente aquellos con
+ligandos grandes, de carga negativa y de
+campo débil (es decir, ligandos bajos en la se-
+rie espectroquímica).
+4. Los iones tetrahalogenonicolato(II), [NiX ]2-,
+4
+donde X es cloruro, bromuro o yoduro, no
+existen como tales en forma tetraédrica sino
+que adquieren otros ligandos (como molécu-
+las de agua) para alcanzar un entorno octaé-
+drico.
+60. La composición de la conocida “leche de mag-
+nesia” que se utiliza para tratar la indigestión
+es:
+1. Sulfato de magnesio.
+2. Fosfato de magnesio.
+3. Hidroxosulfato de magnesio.
+4. Hidróxido de magnesio.
+61. ¿Cómo se denomina la reacción en la que una
+misma especie se oxida y se reduce de forma
+simultánea?:
+1. Disociación.
+2. Comproporción.
+3. Desproporción.
+4. Conmutación.
+62. ¿Cuál es el número de coordinación de una
+esfera en un empaquetamiento compacto?:
+1. 14.
+2. 8.
+3. 12.
+4. 10.
+63. ¿A cuál de estos grupos de simetría puede per-
+tenecer una molécula quiral?:
+1. C.
+i
+2. C .
+1
+3. C.
+s
+4. T .
+d
+6 -
+64. El acero al carbono es:
+1. Un compuesto intermetálico.
+2. Una aleación de sustitución.
+3. Una aleación intersticial.
+4. Un producto puro.
+65. ¿Cuál es la estructura de FeCr O ?:
+2 4
+1. Espinela normal.
+2. Espinela inversa.
+3. Perowskita.
+4. Corindón.
+66. ¿Cuál de los siguientes complejos de coordina-
+ción satisface la regla de los 18 electrones de
+valencia?:
+1. [Rh(CO) Cl ]–.
+2 2
+2. [Ni(en) ]2+ (en = etilendiamina).
+3
+3. [Fe(CN) ]3–.
+6
+4. [CpMn(CO) ] (Cp = ciclopentadienilo).
+3
+67. ¿Cuál de las siguientes reacciones NO es ade-
+cuada para la preparación de HBr?:
+1. 2 KBr + H SO → K SO + 2 HBr.
+2 4 (conc.) 2 4
+2. 3 KBr + H PO → K PO + 3 HBr.
+3 4 (conc.) 3 4
+3. PBr + 3 H O → H PO + 3 HBr.
+3 2 3 3
+4. H + Br → 2 HBr.
+2 2 (g)
+68. Teniendo en cuenta sus diagramas de orbitales
+moleculares, ¿cuál de las siguientes afirmacio-
+nes es FALSA?:
+1. La molécula de C tiene un orden de enlace
+2
+C-C de 2.
+2. El oxígeno molecular en su estado fundamen-
+tal es un gas paramagnético.
+3. La molécula de Be tiene un orden de enlace
+2
+Be-Be de 1.
+4. El valor de la multiplicidad de spin del oxí-
+geno molecular en su estado fundamental es 3
+(estado triplete).
+69. ¿Cuál de las siguientes especies NO está entre
+los componentes del smog fotoquímico?:
+1. O .
+3
+2. NO .
+2
+3. SO .
+2
+4. CH .
+4
+70. ¿Cuál de los siguientes iones metálicos es un
+ácido intermedio de acuerdo con el principio de
+"ácidos y bases, duros y blandos”?:
+1. Cu2+.
+2. Pt2+.
+3. Cd2+.
+4. Pb2+.
+- 7
+71. ¿Cuál de las siguientes afirmaciones relativas a
+la química atmosférica de los radicales hidroxi-
+lo es correcta?:
+1. Los radicales hidroxilo no reaccionan con
+monóxido de carbono.
+2. Los radicales hidroxilo no reaccionan con
+dióxido de azufre.
+3. Los radicales hidroxilo no reaccionan con
+sulfuro de hidrógeno.
+4. Los radicales hidroxilo pueden sufrir reaccio-
+nes de terminación de la cadena al interaccio-
+nar con radicales hidroperoxilo.
+72. ¿Qué especie resulta de la reacción de azufre
+elemental con ion sulfito?:
+1. Ion ditionito.
+2. Ion ditionato.
+3. Ion tiosulfato.
+4. Ion disulfito.
+73. Los asbestos fueron ampliamente utilizados por
+su resistencia mecánica y al calor con un relati-
+vo bajo coste, y posteriormente abandonados
+por ser peligrosos para la salud. ¿Cómo se
+agrupan los tetraedros de silicato en los mis-
+mos?:
+1. Silicatos simples conteniendo iones aislados
+SiO 4-.
+4
+2. Silicatos dobles conteniendo iones Si O 6-.
+2 7
+3. Ciclosilicatos.
+4. Silicatos formando cadenas y/o láminas.
+74. ¿Qué se emite cuando un núcleo radio-226 se
+transforma en uno de radón-222?:
+1. Radiación de tipo alfa.
+2. Radiación de tipo beta.
+3. Radiación de tipo gamma.
+4. Radiación X.
+75. ¿Qué especie bastante común en aguas de con-
+sumo puede, en concentración excesiva, provo-
+car metahemoglobinemia o “síndrome del bebé
+azul”?:
+1. Hierro(III).
+2. Cobre(II).
+3. Nitrato.
+4. Sulfato.
+76. ¿Cuántos electrones desapareados tiene el co-
+bre(I) en orbitales 3d?:
+1. Ninguno.
+2. Uno.
+3. Dos.
+4. Tres.
+7 -
+77. ¿Cuál es la fórmula del fosgeno?:
+1. POCl .
+3
+2. COCl .
+2
+3. NO Cl.
+2
+4. SOCl .
+2
+78. ¿Qué se obtiene al reaccionar, en las condicio-
+nes adecuadas, 10 gramos de hidrógeno y 32
+gramos de oxígeno?:
+1. 16 gramos de agua.
+2. 32 gramos de agua.
+3. 36 gramos de agua.
+4. 72 gramos de agua.
+79. ¿Se puede guardar el ácido fluorhídrico en una
+botella de vidrio?:
+1. Sí, el vidrio es muy inerte.
+2. Sí, si el vidrio es de color ámbar.
+3. No, reacciona con el vidrio para dar SiF .
+4
+4. No, reacciona con el vidrio dando flúor.
+80. ¿Cuál de los siguientes ácidos es más fuerte?:
+1. HCl.
+2. HI.
+3. H SO .
+2 4
+4. HNO .
+3
+81. Una reacción química que transcurre a tempe-
+ratura y presión constantes es espontánea
+cuando:
+1. La variación de energía de Gibbs de reacción
+es cero.
+2. La variación de entalpía de reacción es nega-
+tiva.
+3. La variación de energía de Gibbs de reacción
+es negativa.
+4. La variación de entalpía de reacción es igual a
+cero.
+82. Los métodos de relajación en Cinética Química
+se utilizan para:
+1. Determinar las concentraciones de las espe-
+cies reaccionantes mediante la modificación
+del equilibrio en un sistema reactivo.
+2. Determinar la velocidad de reacción mediante
+la modificación del equilibrio en un sistema
+reactivo.
+3. Determinar la constante de equilibrio median-
+te la modificación del equilibrio en un sistema
+reactivo.
+4. Determinar las constantes de velocidad me-
+diante la modificación del equilibrio en un
+sistema reactivo.
+- 8
+83. ¿Cómo afecta la temperatura a la distribución
+de Maxwell de las velocidades moleculares?:
+1. A temperatura baja el máximo de la función
+de distribución se localiza a velocidades altas.
+2. A medida que aumenta la temperatura aumen-
+ta la velocidad más probable y disminuye el
+número de moléculas que tienen dicha velo-
+cidad.
+3. A temperatura alta la función de distribución
+presenta un máximo muy alto y estrecho en la
+región de velocidades altas.
+4. A una temperatura baja y fija las funciones de
+distribución de las velocidades moleculares
+de dos muestras de gases de distinta masa
+molecular son tales que el gas más ligero tie-
+ne el máximo a velocidades más bajas.
+84. ¿Qué afirmación es correcta con respecto a las
+propiedades del agua?:
+1. La temperatura de fusión disminuye a medida
+que la presión aumenta como consecuencia
+del aumento del volumen durante la fusión.
+2. La temperatura de fusión no se ve afectada
+por el aumento de la presión, pero sí se pro-
+duce un aumento del volumen durante la fu-
+sión.
+3. El aumento de la presión no cambia la tempe-
+ratura de fusión ni el volumen.
+4. La temperatura de fusión disminuye a medida
+que la presión aumenta como consecuencia de
+la disminución del volumen durante la fusión.
+85. ¿Qué es una ecuación de estado?:
+1. Es una ecuación que permite calcular la va-
+riación de entalpía en un proceso termodiná-
+mico.
+2. Es una ecuación matemática que describe la
+probabilidad de un estado.
+3. Es una función matemática que permite cal-
+cular la constante cinética de una reacción
+química.
+4. Una función matemática que relaciona dife-
+rentes variables de estado sin tener que recu-
+rrir a la experimentación.
+86. Indique las unidades de la constante de veloci-
+dad de una reacción que sigue la ley cinética v =
+k [A][B][C]:
+1. M-2 s-1.
+2. M-1 s-1.
+3. M s-1.
+4. s-1.
+8 -
+87. Indique la afirmación correcta sobre las funcio-
+nes de estado termodinámicas:
+1. La entalpía es la suma de la energía interna
+más el producto de la presión por el volumen.
+2. La energía de Gibbs es la suma de la energía
+interna más el producto de la entropía por la
+temperatura.
+3. La energía interna se define como la energía
+de Helmholtz menos el producto de la tempe-
+ratura por la entropía.
+4. La energía de Helmholtz es la suma de la
+entalpía más el producto de la presión por el
+volumen.
+88. ¿Qué magnitudes son necesarias para obtener
+la entalpía molar de una reacción a una tempe-
+ratura distinta de la estándar?:
+1. Es suficiente conocer la entalpía estándar de
+reacción y la temperatura a la que se quiere
+calcular la entalpía molar de reacción.
+2. Se necesitan las capacidades caloríficas mola-
+res a presión constante de los reactivos y pro-
+ductos en las condiciones deseadas.
+3. Si la reacción implica sustancias gaseosas, se
+necesita la variación del volumen de reacción.
+4. La entalpía molar de reacción es independien-
+te de la temperatura.
+89. La función de distribución de Boltzmann:
+1. Describe la distribución de energía asociada a
+sistemas químicos en equilibrio.
+2. Describe la distribución espacial de moléculas
+asociada a sistemas químicos en equilibrio.
+3. Describe la distribución de energía asociada a
+sistemas químicos en equilibrio o fuera del
+equilibrio.
+4. Es independiente de la temperatura.
+90. ¿Cómo varía la conductividad molar de un
+electrolito al incrementar su concentración?:
+1. Por su definición, la conductividad molar es
+una magnitud intensiva que no depende de la
+concentración.
+2. Cuando aumenta la concentración de un elec-
+trolito aumenta el número de iones presentes
+en la disolución, por lo que la conductividad
+molar también aumenta.
+3. La conductividad molar siempre disminuye
+cuando aumenta la concentración del electro-
+lito.
+4. Para electrolitos débiles la conductividad
+molar aumenta con la concentración, mientras
+que para electrolitos fuertes la relación es in-
+versa.
+- 9
+91. ¿Qué afirmación es correcta en relación con la
+superficie de energía potencial asociada a una
+reacción química?:
+1. Los reactivos, productos e intermedios de
+reacción corresponden a mínimos de la super-
+ficie de energía potencial.
+2. La comparación de la energía de los produc-
+tos con la de los reactivos proporciona infor-
+mación sobre la cinética de la reacción.
+3. Es imposible obtener información sobre la
+cinética de la reacción a partir de su superfi-
+cie de energía potencial.
+4. El concepto de superficie de energía potencial
+surge directamente de la ecuación de
+Schrödinger.
+92. ¿Qué afirmación es correcta en relación con las
+ecuaciones de Hartree-Fock de la química
+computacional?:
+1. Estas ecuaciones tienen como objetivo obte-
+ner computacionalmente la energía de una
+reacción.
+2. Para obtener las ecuaciones de Hartree-Fock a
+partir de la ecuación de Schrödinger es nece-
+sario suponer que los núcleos atómicos per-
+manecen aproximadamente fijos durante el
+movimiento de electrones.
+3. Estas ecuaciones se basan en la teoría de la
+repulsión de los pares de electrones de la capa
+de valencia.
+4. Para obtener las ecuaciones de Hartree-Fock
+se supone que la función de onda es un pro-
+ducto de funciones asociadas a los electrones
+presentes en el sistema químico.
+93. Si una reacción exotérmica se realiza en condi-
+ciones adiabáticas y a presión constante:
+1. La entalpía de los productos será mayor que
+la de los reactivos.
+2. La entalpía de los productos será menor que
+la de los reactivos.
+3. La temperatura de los productos será mayor
+que la de los reactivos.
+4. La temperatura de los productos será menor
+que la de los reactivos.
+94. El criterio para el equilibrio material, en un
+sistema cerrado capaz de efectuar sólo trabajo
+presión-volumen mantenido a temperatura y
+volumen constantes, es que:
+1. La energía interna del sistema sea mínima.
+2. La entalpía del sistema sea mínima.
+3. La energía libre de Helmholtz del sistema sea
+mínima.
+4. La energía libre de Gibbs del sistema sea
+mínima.
+9 -
+95. El potencial químico de glucosa sólida a 25ºC y
+1 atm es:
+1. Menor que el potencial químico de glucosa
+disuelta en una disolución acuosa insaturada a
+25ºC y 1 atm.
+2. Mayor que el potencial químico de glucosa
+disuelta en una disolución acuosa insaturada a
+25ºC y 1 atm.
+3. Igual que el potencial químico de glucosa
+disuelta en una disolución acuosa insaturada a
+25ºC y 1 atm.
+4. Mayor que el potencial químico de glucosa
+disuelta en una disolución acuosa sobresatu-
+rada a 25ºC y 1 atm.
+96. A 25ºC la adición de nitrato potásico, sal soluble
+en agua, a una disolución acuosa de cloruro de
+plata, sal poco soluble en agua, provocará:
+1. Una disminución de la fuerza iónica de la
+disolución.
+2. Un aumento del coeficiente de actividad ióni-
+co medio del cloruro de plata.
+3. Una disminución de la constante del producto
+de solubilidad del cloruro de plata.
+4. Un aumento de la solubilidad del cloruro de
+plata.
+97. El modo normal de la vibración de tensión si-
+métrica de la molécula lineal de CO es:
+2
+1. Activo en el infrarrojo y activo en Raman.
+2. Activo en el infrarrojo e inactivo en Raman.
+3. Inactivo en el infrarrojo y activo en Raman.
+4. Inactivo en el infrarrojo e inactivo en Raman.
+98. ¿Cuántos términos de energía potencial de in-
+teracción electrón-electrón tiene el hamiltonia-
+no del átomo de nitrógeno?:
+1. 6.
+2. 21.
+3. 15.
+4. 10.
+99. La entalpía de sublimación del yodo a 25°C y
+101,3 kPa es igual a:
+1. La entalpía de vaporización menos la entalpía
+de fusión del yodo.
+2. La energía del enlace yodo-yodo.
+3. La entalpía de vaporización del yodo.
+4. La entalpía de formación del yodo en fase
+gas.
+- 1
+100. Conocidos los potenciales estándar de reducción
+Cu2+/Cu y Ag+/Ag, respectivamente +0,34 y
++0,80 V, ¿cuál es la energía libre de Gibbs es-
+tándar de la reacción Cu + 2 Ag+ → Cu2+ + 2
+Ag?:
+1. – 110010 J.
+2. – 88780 J.
+3. – 55005 J.
+4. 0,46 J.
+101. En una reacción, si el cociente de reacción, Q, es
+mayor que Kc la reacción evolucionará:
+1. Hacia la formación de productos.
+2. Hacia la descomposición de productos en
+reactivos.
+3. No evolucionará, el sistema se encuentra en
+equilibrio.
+4. Es imposible que Q sea mayor que Kc.
+102. El valor numérico de la fuerza iónica, I,
+1 , de una disolución que contiene a los
+I= cz2
+2 i i
+i
+electrolitos M3+X3- y KCl en concentraciones
+iguales a c, es:
+1. c.
+2. 5c.
+3. 9c.
+4. 10c.
+103. En la electrolisis de una disolución acuosa de sal
+común se obtienen 22,4 L de gas cloro medidos
+a 1 atm y 0ºC. Si la intensidad de corriente apli-
+cada ha sido de 2 A, el tiempo de electrolisis es:
+1. 96500 s.
+2. (96500/2) s.
+3. (96500 x 2) s.
+4. 96500 min.
+104. El transporte de materia en una disolución
+puede ser debido a la difusión (gradiente de
+concentración), a la migración (gradiente de
+potencial eléctrico) y a la convección (movi-
+miento de la disolución como un todo).
+Indicar qué afirmación es cierta:
+1. En una disolución homogenizada en reposo y
+a temperatura constante de azúcar en agua, la
+materia se transporta por migración.
+2. En una disolución homogenizada en reposo y
+a temperatura constante de azúcar en agua, la
+materia se transporta por difusión.
+3. En una disolución homogenizada en reposo y
+a temperatura constante de azúcar en agua, la
+materia se transporta por difusión, migración
+y convección.
+4. En una disolución homogenizada en reposo y
+a temperatura constante de azúcar en agua, no
+existe transporte.
+10 -
+105. Para ciertas reacciones de recombinación de
+radicales, como por ejemplo, 2 CH → C H , se
+3 2 6
+ha observado que la energía de activación es
+prácticamente cero. En consecuencia dichas
+reacciones:
+1. Serán más lentas a temperaturas más bajas.
+2. Serán más rápidas a temperaturas más bajas.
+3. La constante de velocidad de estas reacciones
+será esencialmente independiente de la tem-
+peratura.
+4. Nunca pueden ser espontáneas.
+106. La ecuación de Gibbs-Duhem es útil para:
+1. Obtener el coeficiente de actividad del soluto
+si se conoce el del disolvente.
+2. Conocer la dependencia con la temperatura
+del coeficiente de actividad del soluto.
+3. Obtener el coeficiente de actividad iónico
+medio de un electrolito.
+4. Conocer la dependencia con la presión del
+coeficiente de actividad del disolvente.
+107. Se ha observado para una determinada reac-
+ción química entre gases ideales que la constan-
+te de equilibrio aumenta al aumentar la tempe-
+ratura. De aquí se deduce que:
+1. ΔS0 > 0.
+r
+2. ΔG0 < 0.
+r
+3. ΔG0 > 0.
+r
+4. ΔH0 > 0.
+r
+108. En un oscilador armónico unidimensional, los
+niveles energéticos:
+1. Están tan próximos entre sí que puede supo-
+nerse que la energía varía de forma continua.
+2. Aumentan su separación al aumentar la ener-
+gía.
+3. Son independientes de la frecuencia del osci-
+lador.
+4. Están equiespaciados.
+109. La aproximación de Born-Oppenheimer:
+1. Indica que el cuadrado de la función de onda
+da la densidad de probabilidad de encontrar a
+las partículas en un lugar dado del espacio.
+2. Permite calcular la energía de red de un cris-
+tal iónico.
+3. Permite tratar los movimientos electrónicos y
+nucleares de forma independiente.
+4. Calcula orbitales moleculares de tipo π utili-
+zando únicamente orbitales atómicos de tipo
+p.
+- 1
+110. La reacción, en fase gas, entre el monocloruro
+de yodo (ICl) y el hidrógeno (H ) da como pro-
+2
+ductos yodo y cloruro de hidrógeno. El meca-
+nismo de reacción es en dos etapas:
+Etapa lenta: H (g) + ICl (g) → HI (g) + HCl (g)
+2
+Etapa rápida: HI (g) + ICl (g) → I (g) + HCl
+2
+(g)
+¿Cuál es la ecuación de velocidad?:
+1. Velocidad = k[H ][ICl].
+2
+2. Velocidad = k[H ][ICl]2.
+2
+3. Velocidad = k[H ][ICl]/([HI][HCl]).
+2
+4. Velocidad = k[HI][ICl].
+111. La reacción 2 SO (g) + O (g) ⇌ 2 SO (g) tiene
+2 2 3
+un valor de ΔHo = -198 kJ·mol-1. ¿Qué efecto
+r
+tiene un aumento de temperatura?:
+1. No afecta al equilibrio, solo a las velocidades
+de reacción.
+2. Se favorece la formación de SO .
+2
+3. Se favorece la formación de SO .
+3
+4. Se favorece la formación de SO y SO . La
+2 3
+velocidad de reacción no cambia.
+112. En cuanto al efecto fotoeléctrico, ¿Qué paráme-
+tro debemos aumentar para conseguir un au-
+mento de la energía cinética de los electrones
+emitidos?:
+1. La intensidad de la radiación.
+2. La longitud de onda de la radiación.
+3. La frecuencia de la radiación.
+4. Tanto la intensidad como la frecuencia de la
+radiación.
+113. Para la fusión del hielo a 0ºC y 1 atm se cumple
+que:
+1. La variación de energía libre de Gibbs es
+cero.
+2. La variación de energía libre de Helmholtz es
+cero.
+3. La variación de entropía es cero.
+4. La variación de entalpía es cero.
+114. ¿Qué compuesto tiene el punto de ebullición
+más bajo a 1,0 atm de presión?:
+1. CH .
+4
+2. C H .
+2 6
+3. Cl .
+2
+4. CCl .
+4
+115. ¿Cuál de las siguientes afirmaciones sobre los
+niveles de energía relativa de los orbitales mole-
+culares para la molécula de O es INCORREC-
+2
+TA?:
+1. σ < σ* .
+2s 2s
+2. σ < σ .
+2s 2p
+3. π < σ .
+2p 2p
+4. σ* < σ .
+1s 2s
+11 -
+116. ¿Cuál de las siguientes combinaciones material-
+coloide es INCORRECTA?:
+1. Mayonesa-emulsión.
+2. Humo-aerosol.
+3. Piedra pómez-espuma sólida.
+4. Ópalo-disolución sólida.
+117. ¿Qué dos orbitales están ubicados entre los ejes
+de un sistema de coordenadas y no a lo largo de
+los ejes?:
+1. d , 𝑑 .
+xy (cid:3053)(cid:3118)
+2. d , 𝑑 .
+xy (cid:3051)(cid:3118)(cid:2879)(cid:3052)(cid:3118)
+3. d , 𝑑 .
+xz (cid:3053)(cid:3118)
+4. d , d .
+xy yz
+118. 8,0 moles de CO reaccionan con 4,0 moles de O
+2
+para dar 8,0 moles de CO a 25ºC y 1,0 bar. Si
+2
+en la reacción se liberan 566,0 kJ y PΔV es igual
+a -2,5 kJ, entonces:
+1. ΔH° = –566,0 kJ y ΔU = –563,5 kJ.
+2. ΔH° = –566,0 kJ y ΔU = –568,5 kJ.
+3. ΔH° = +566,0 kJ y ΔU = +568,5 kJ.
+4. ΔH° = +566,0 kJ y ΔU = +563,5 kJ.
+119. Los átomos que menos dispersan la radiación
+de rayos X son los de:
+1. Hidrógeno.
+2. Nitrógeno.
+3. Cloro.
+4. Renio.
+120. Las fuerzas de atracción entre especies neutras
+(átomos o moléculas, pero no iones) se conocen
+como:
+1. Fuerzas de van der Waals.
+2. Dipolares.
+3. Dipolo inducido.
+4. Iónicas.
+121. El cambio de entalpía para la formación de un
+mol de un compuesto directamente a partir de
+sus elementos se conoce como:
+1. Calor entrópico.
+2. Calor de combustión.
+3. Calor estándar de formación.
+4. Calor de iniciación.
+122. La hibridación del carbono en el etileno es:
+1. sp.
+2. s.
+3. sp3.
+4. sp2.
+- 1
+123. La deshidrohalogenación de los halogenuros de
+alquilo por bases alcóxido se produce por el
+mecanismo:
+1. E2.
+2. E1.
+3. S 1.
+N
+4. S 2.
+N
+124. En Resonancia Magnética Nuclear la depen-
+dencia de la posición de resonancia de un
+núcleo que resulta de su ambiente molecular se
+llama:
+1. Acoplamiento electrónico.
+2. Campo inducido.
+3. Desplazamiento químico.
+4. Acoplamiento espín-espín.
+125. La secuencia formación de un reactivo de Grig-
+nard o alquil litio (también llamada metalación)
+seguida de hidrólisis convierte un haloalcano en
+un:
+1. Alcano.
+2. Alcohol.
+3. Aldehído.
+4. Ácido carboxílico.
+126. El catalizador que consiste en paladio precipi-
+tado sobre carbonato cálcico con acetato de
+plomo y quinolina se conoce como:
+1. Catalizador de Heck.
+2. Catalizador de Lindlar.
+3. Catalizador de Perkin.
+4. Catalizador de Suzuki.
+127. Los nitrilos se hidrolizan a:
+1. Aldehídos.
+2. Aminas.
+3. Cetonas.
+4. Ácidos carboxílicos.
+128. La estructura del furano es análoga a la del
+pirrol, excepto que el NH ha sido sustituido por
+un:
+1. S.
+2. C.
+3. O.
+4. P.
+129. La fusión de un anillo de benceno en las posi-
+ciones 2,3 de un pirrol genera:
+1. Quinolina.
+2. Isoquinolina.
+3. Quinidina.
+4. Indol.
+12 -
+130. Indique cuál de los siguientes derivados de ben-
+ceno es MENOS reactivo frente a un electrófilo
+en una reacción de tipo Friedel-Crafts:
+1.
+2.
+3.
+4.
+131. Indique cuál de los siguientes cationes es más
+estable:
+1. CH +.
+3
+2. CH –CH +.
+3 2
+3. (CH ) CH+.
+3 2
+4. CH =CH–CH +.
+2 2
+132. ¿Cuál de los siguientes compuestos experimenta
+una solvólisis más rápida con metanol?:
+1. CH Br.
+3
+2.
+3.
+4.
+- 1
+133. Prediga el producto mayoritario de la siguiente
+reacción:
+1.
+2.
+3.
+4.
+134. ¿Qué producto/s resultará/n al tratar (E)-3-
+hexeno con Br ?:
+2
+1. Una mezcla de dibromuros enantioméricos.
+2. Una mezcla de dibromuros diasteroméricos.
+3. (E)-3,4-dibromo-3-hexeno.
+4. Un dibromuro meso.
+135. ¿Cuál de los siguientes enunciados, sobre el
+heterociclo piridina, es FALSO?:
+1. La piridina es una base más fuerte que el pi-
+rrol.
+2. La reacción de piridina con ácido acético da
+lugar a acetato de piridinio.
+3. La piridina está desactivada hacia el ataque
+electrofílico, pero está activada hacia la susti-
+tución nucleofílica aromática.
+4. La piridina es una base más fuerte que la pi-
+peridina.
+136. ¿Cuál es el nombre de la reacción mediante la
+cual, en presencia de una base fuerte, las ami-
+das primarias reaccionan con cloro o con bro-
+mo para formas aminas con un átomo de car-
+bono menos?:
+1. Síntesis de Gabriel.
+2. Reordenamiento de Curtius.
+3. Reordenamiento de Hofmann.
+4. Reacción de Sandmeyer.
+13 -
+137. El 2-butanol puede obtenerse a partir del pro-
+pino mediante la secuencia de reacciones si-
+guiente:
+1. 1. NaNH ; 2. CH Br ; 3. H /cat. Lindlar; 4.
+2 3 2
+H+/H O.
+2
+2. 1. NaOH ; 2. CH Br ; 3. H /cat. Lindlar ; 4.
+3 2
+H+/H O.
+2
+3. 1. NaNH ; 2. CH Br ; 3. H /Pd-C; 4. H+/H O.
+2 3 2 2
+4. 1. NaNH ; 2. CH CH Br ; 3. H /cat. Lindlar ;
+2 3 2 2
+4. H+/H O.
+2
+138. Indique cuál de los siguientes compuestos es la
+base más fuerte:
+1.
+2.
+3.
+4.
+139. ¿ Qué producto mayoritario se obtiene cuando el
+acetoacetato de etilo se trata con un exceso de
+borohidruro de sodio en metanol?:
+1. 3-hidroxibutanoato de metilo.
+2. 1,3-butanodiol.
+3. Ácido 3-oxobutanoico.
+4. 4-hidroxi-2-butanona.
+140. ¿Qué combinación es la adecuada para llevar a
+cabo la síntesis del siguiente éter?:
+1.
+2.
+3.
+4.
+- 1
+141. ¿Cuál de los siguientes enunciados es verdade-
+ro?:
+1. La reacción entre una cetona y un reactivo de
+Grignard es irreversible porque los carboca-
+tiones son malos grupos salientes.
+2. Los reactivos de Grignard son reactivos elec-
+trofílicos en su reacción con cetonas.
+3. Las cetonas son reactivos nucleofílicos en su
+reacción con reactivos de Grignard.
+4. La reacción entre una cetona y un reactivo de
+Grignard es irreversible porque los carbanio-
+nes son malos grupos salientes.
+142. ¿Qué productos se forman cuando se trata 1,3-
+butadieno con bromo en tetracloruro de car-
+bono a 20ºC?:
+1.
+2.
+3.
+4.
+143. ¿Cuál de las siguientes bases es la más adecuada
+para llevar a cabo la transformación de 2-
+bromo-3-metilbutano en 2-metil-2-buteno?:
+1. KOCH .
+3
+2. Piridina.
+3. KOC(CH ) .
+3 3
+4. Diisopropilamida de litio.
+144. ¿Cuál es el orden descendente de nucleofília, en
+disolventes hidroxílicos, de las siguientes espe-
+cies: agua, ion metóxido, trietilfosfina e ion
+acetato?:
+1. Ion metóxido > ion acetato > trietilfosfina >
+agua.
+2. Trietilfosfina > ion metóxido > ion acetato >
+agua.
+3. Trietilfosfina > ion acetato > ion metóxido >
+agua.
+4. Ion acetato > ion metóxido > trietilfosfina >
+agua.
+14 -
+145. ¿Qué productos se forman cuando lleva a cabo
+la mononitración de 1-nitronaftaleno?:
+1.
+2.
+3.
+4.
+146. ¿ Cúal de los siguientes enunciados sobre la
+tautomería es FALSO?:
+1. Los tautómeros son isómeros que se intercon-
+vierten.
+2. Los tautómeros son formas resonantes.
+3. Los tautómeros son compuestos diferentes.
+4. La tautomería ocurre por la migración de un
+protón y el movimiento de un doble enlace.
+147. ¿Qué producto orgánico mayoritario se obtiene
+en la reacción del 2-metilpropanal con hidróxi-
+do sódico a 5ºC?:
+1. 2-metilpropanol.
+2. Ácido 2-metilpropanoico.
+3. 3-hidroxi-2,3,4-trimetilpentanal.
+4. 2,3,4-trimetilpentanal.
+- 1
+148. El orden de acidez decreciente de los siguientes
+ácidos carboxílicos es:
+1.
+2.
+3.
+4.
+149. ¿Cuál de los siguientes enunciados es FALSO?:
+1. La reacción de metátesis con apertura de ani-
+llo de alquenos cíclicos da lugar a dienos.
+2. La reacción de metátesis con apertura de ani-
+llo de alquenos cíclicos se lleva a cabo
+usualmente con el reactivo de Grubbs.
+3. La reacción de metátesis con apertura de ani-
+llo de alquenos cíclicos conduce a la forma-
+ción de etileno.
+4. La reacción de metátesis con apertura de ani-
+llo de alquenos cíclicos puede realizarse en
+presencia de otros grupos funcionales.
+150. ¿Cuál de las siguientes técnicas NO es adecuada
+para la separación de los enantiómeros de una
+mezcla racémica de talidomida?:
+1. Cromatografía quiral.
+2. Destilación.
+3. Cristalización.
+4. Reacción con agentes de resolución quiral.
+151. La fórmula general de un hidrocarburo acíclico
+con dos enlaces triples es:
+1. C H .
+n 2n–4
+2. C H .
+n 2n–6
+3. C H .
+n 2n–2
+4. C H .
+n 2n–10
+15 -
+152. ¿Cuál es la frase que describe mejor el meca-
+nismo de sustitución nucleófila en un haluro
+terciario?:
+1. Formación de un carbocatión con retención
+de configuración.
+2. Reacción concertada con retención de confi-
+guración.
+3. Reacción concertada con inversión de confi-
+guración.
+4. Formación de un carbocatión con racemiza-
+ción parcial.
+153. ¿Qué producto se obtendría al tratar el 2,3-
+dimetil-2,3-butanodiol con H SO , a 100ºC?:
+2 4
+1. 3,3-dimetil-2-butanona.
+2. 2,3-dimetil-1,3-butadieno.
+3. 1,1,2,2-tetrametiloxirano.
+4. Acetona (2 equivalentes).
+154. ¿Qué producto se obtiene al calentar 1,3-
+butadieno con acrilonitrilo (CH =CH–C≡N)?:
+2
+1. 4-vinilciclohex-1-eno.
+2. 3-ciclohexen-1-carbonitrilo.
+3. 3-vinilciclobutan-1-carbonitrilo.
+4. 6-vinil-2,5-dihidropiridina.
+155. ¿Cuál de los siguientes sistemas cíclicos pi es
+aromático?:
+1. Ciclooctatetraeno.
+2. Catión ciclopropenilo.
+3. Anión ciclopropenilo.
+4. Catión ciclopentadienilo.
+156. ¿Qué tipo de compuesto orgánico mayoritario
+esperaría en la reacción de ciclohexanona con
+metilamina en presencia de cianoborohidruro
+sódico en etanol?:
+1. Un nitrilo.
+2. Una hidroxiamina.
+3. Una amina.
+4. Una imina.
+157. El compuesto (R,R)-1,2-dibromociclobutano:
+1. Presenta dos carbonos asimétricos y es por
+tanto un compuesto quiral.
+2. Es un compuesto ópticamente inactivo.
+3. Es un compuesto meso y es por tanto un
+compuesto aquiral.
+4. No presenta carbonos asiméticos y es por
+tanto un compuesto aquiral.
+- 1
+158. En la reacción de cis- y trans-1-bromo-4-(1,1-
+dimetiletil)ciclohexano con metóxido sódico:
+1. Se produce trans-4-(1,1-dimetiletil)-1-
+metoxiciclohexano.
+2. Se produce una mezcla de cis- y trans-4-(1,1-
+dimetiletil)-1-metoxiciclohexano.
+3. Se produce el 4-(1,1-dimetiletil)ciclohex-1-
+eno, siendo la reacción más rápida si se parte
+del isómero trans de la sustancia de partida.
+4. Se produce 4-(1,1-dimetiletil)ciclohex-1-eno,
+siendo la reacción más rápida si se parte del
+isómero cis de la sustancia de partida.
+159. ¿Cuál de los siguientes enunciados, relativos a
+acetales, es FALSO?:
+1. La formación de acetales es catalizada sólo
+por ácidos, pero la hidrólisis requiere condi-
+ciones básicas.
+2. Los aldehídos forman acetales con mayor
+rapidez que las cetonas.
+3. La formación de un acetal no altera el estado
+de oxidación del átomo de carbono del grupo
+carbonilo precursor.
+4. El etilenglicol se usa con frecuencia para pre-
+parar acetales cíclicos.
+160. ¿Cuál de las siguientes afirmaciones es correcta
+para los glicoesfingolípidos?:
+1. Son apolares.
+2. Su función principal es la reserva energética.
+3. En el caso de que porten ácido siálico, se
+denominan gangliósidos.
+4. Tienen dos residuos de ácidos grasos en su
+molécula.
+161. ¿Cuál de las siguientes afirmaciones es cierta
+para la oxidación de ácidos grasos?:
+1. La oxidación y la síntesis de ácidos grasos se
+dan con las mismas reacciones, pero en senti-
+do contrario.
+2. Tiene lugar en el citosol.
+3. Tiene lugar con niveles plasmáticos bajos de
+glucagón o adrenalina.
+4. Los ácidos grasos deben activarse (uniéndose
+a CoA) para permitir su internalización en la
+mitocondria.
+162. ¿Cuál de las siguientes afirmaciones es cierta
+para el metabolismo del nitrógeno de los ami-
+noácidos?:
+1. El nitrógeno es liberado en el proceso de di-
+gestión por las proteasas pancreáticas.
+2. El primer paso de la eliminación del nitró-
+geno suele ser la transferencia del grupo α-
+amino al α-cetoglutarato.
+3. Las aminotransferasas son inespecíficas y
+actúan sobre todos los aminoácidos.
+4. Las reacciones de transaminación son alta-
+mente irreversibles.
+16 -
+163. ¿Cuál de las siguientes afirmaciones es FALSA
+para síntesis de desoxirribonucleótidos?:
+1. La enzima clave es la ribonucleótido reducta-
+sa.
+2. La fuente de equivalentes reductores es el
+NADPH + H+.
+3. El dATP inhibe alostéricamente la síntesis.
+4. Se sintetizan directamente desde desoxirribo-
+sa.
+164. ¿Cuál de las siguientes afirmaciones es cierta
+para la regulación hormonal de la glucolisis?:
+1. Se realiza únicamente en el inicio de la ruta,
+controlando la actividad de la hexoquina-
+sa/glucoquinasa.
+2. El glucagón inhibe la piruvato quinasa.
+3. La insulina activa la síntesis de fructosa-2,6-
+bisfosfato.
+4. La insulina inhibe la fosfofructoquinasa-1.
+165. Los valores de pKa del ácido aspártico son 2,1;
+3,9 y 9,8. Su punto isoeléctrico (pI) es:
+1. 7,0.
+2. 5,3.
+3. 3,0.
+4. 3,9.
+166. Las proteínas destinadas a ser secretadas se
+sintetizan en:
+1. Los polisomas libres.
+2. El retículo endoplásmico rugoso.
+3. El aparato de Golgi.
+4. El retículo endoplásmico liso.
+167. El escualeno es un precursor de:
+1. Esfingosina.
+2. Prostaglandinas.
+3. Ácido araquidónico.
+4. Colesterol.
+168. Cada ciclo de oxidación de los ácidos grasos:
+1. Libera una molécula de acetil-CoA.
+2. Consume dos moléculas de NADH.
+3. Genera dos moléculas de FADH .
+2
+4. Produce una deshidratación.
+169. La lanzadera malato-aspartato:
+1. Permite la regeneración del NADH citosólico
+necesario para la glucolisis.
+2. Sirve para pasar los electrones del NADH del
+citosol a la mitocondria.
+3. Transfiere los electrones del NADH al citrato.
+4. Es un complejo transportador de electrones.
+- 1
+170. Con respecto a la constante de Michaelis-
+Menten (K ):
+m
+1. Se expresa en unidades de velocidad.
+2. Un valor alto de K se puede relacionar con
+m
+gran estabilidad del complejo enzima-
+sustrato.
+3. Equivale a la concentración de sustrato que se
+requiere para alcanzar la mitad de la veloci-
+dad máxima.
+4. Se mantiene constante para las enzimas de
+una misma clase.
+171. ¿Qué longitud de onda sería fuertemente ab-
+sorbida por una solución de color rojo?:
+1. 450 nm.
+2. 585 nm.
+3. 600 nm.
+4. 650 nm.
+172. ¿Cuál de los siguientes procesos bioquímicos
+está promovido por la insulina?:
+1. Glucogenolisis.
+2. Gluconeogénesis.
+3. Lipolisis.
+4. Captación de glucosa por las células.
+173. El movimiento electroforético de las proteínas
+hacia el ánodo disminuye cuando se aumenta:
+1. El pH del tampón.
+2. La fuerza iónica del tampón.
+3. La intensidad de la corriente.
+4. El voltaje.
+174. Las endonucleasas de restricción:
+1. Hidrolizan enlaces fosfoéster comenzando
+por los extremos 5´ del DNA.
+2. Se utilizan para la formación de moléculas
+híbridas mediante recombinación.
+3. Reconocen y cortan el DNA en secuencias
+específicas.
+4. Reconocen y cortan el DNA en secuencias
+libres de nucleosomas.
+175. Las enzimas alteran:
+1. Las velocidades de reacción y los equilibrios.
+2. Las velocidades de reacción pero no los equi-
+librios.
+3. Únicamente los equilibrios de la reacción.
+4. La afinidad por los sustratos.
+17 -
+176. La reacción en cadena de la polimerasa permi-
+te:
+1. Cartografiar e identificar los genes de un ge-
+noma.
+2. Amplificar secuencias de DNA específicas.
+3. Conocer la topología de secuencias de DNA
+específicas.
+4. Localizar estructuras en secuencias de RNA.
+177. Las topoisomerasas son enzimas:
+1. Que desnaturalizan la estructura en doble
+hélice del DNA.
+2. Que permiten la hibridación entre dos isóme-
+ros topológicos del DNA.
+3. Que aumentan o disminuyen el grado de des-
+enrollamiento del DNA.
+4. Que tienen actividad helicasa-primasa.
+178. La actividad de corrección de pruebas de la
+DNA polimerasa I procariótica es una activi-
+dad:
+1. Polimerizante 5´-3´.
+2. Transesterificadora 5´-3´.
+3. Exonucleasa 5´-3´.
+4. Exonucleasa 3´-5´.
+179. Sobre la vitamina B :
+12
+1. También es conocida como piridoxina o piri-
+doxal.
+2. Participa en reacciones de carboxilación.
+3. Su actividad está ligada a la del ácido fólico.
+4. Contiene manganeso en su estructura.
+180. ¿Cuál de los siguientes aminoácidos se abrevia
+con una E en la nomenclatura de una letra?:
+1. Ácido aspártico.
+2. Ácido glutámico.
+3. Asparragina.
+4. Glutamina.
+181. En biología molecular, ¿cómo se llama a la
+temperatura a la cual la mitad de copias de una
+secuencia de DNA se encuentra en forma de
+cadena simple y la otra mitad en forma de ca-
+dena doble?:
+1. Temperatura de hibridación.
+2. Temperatura de conjugación.
+3. Temperatura de transformación.
+4. Temperatura de fusión.
+182. Es cierto en relación con la eucromatina:
+1. Está muy condensada.
+2. Es transcripcionalmente activa.
+3. Supone el 90% de la cromatina total.
+4. Contiene secuencias de ADN altamente repe-
+titivas.
+- 1
+183. Con respecto a la ruta de las penosas fosfato:
+1. En la fase no oxidativa se transforman unos
+monosacáridos en otros, destacando la obten-
+ción de ribosa-5-fosfato.
+2. La eritrosa-4-P es un intermediario de la fase
+oxidativa.
+3. Su finalidad es la obtención de NAD+.
+4. En la fase oxidativa se genera GTP.
+184. Señale la INCORRECTA con respecto al Ciclo
+de Krebs:
+1. Genera dos moléculas de GTP.
+2. Desempeña un papel crucial como nexo entre
+las distintas rutas metabólicas.
+3. Proporciona precursores para muchas rutas
+biosintéticas a través de sus intermediarios.
+4. Es una vía anfibólica.
+185. ¿Cuál de los siguientes aminoácidos contiene
+azufre?:
+1. Leucina.
+2. Metionina.
+3. Triptófano.
+4. Prolina.
+186. ¿Cuál de las siguientes afirmaciones sobre la
+estructura en lámina β de las proteínas NO es
+cierta?:
+1. Las cadenas sólo se pueden disponer de forma
+paralela, es decir en el mismo sentido.
+2. Está estabilizada mediante enlaces por puente
+de hidrógeno.
+3. Las cadenas laterales se disponen hacia arriba
+o hacia abajo del plano.
+4. Es un tipo de estructura secundaria muy ex-
+tendida.
+187. En la cinética de una enzima, los inhibidores
+reversibles competitivos:
+1. Disminuyen la K sin modificar la V .
+m max
+2. Disminuyen tanto la K como la V .
+m max
+3. Aumentan la K y disminuyen la V .
+m max
+4. Aumentan la K sin modificar la V .
+m max
+188. ¿Cuál de estos mecanismos NO está implicado
+en la regulación de la expresión génica en euca-
+riotas?:
+1. Regulación de la compactación de la cromati-
+na.
+2. Inicio de la replicación.
+3. Maduración del mRNA.
+4. Inicio de la traducción.
+18 -
+189. El ciclo de Krebs o del ácido cítrico está favore-
+cido por altas concentraciones celulares de:
+1. ATP y NADH.
+2. ADP y NAD+.
+3. ADP y NADH.
+4. ATP y NAD+.
+190. En referencia con las vitaminas, señale la res-
+puesta correcta:
+1. La tiamina tiene como función transferir uni-
+dades de un átomo de carbono en los procesos
+de síntesis de RNA y aminoácidos.
+2. La biotina suplementada en exceso puede
+causar ataxia y neuropatía sensorial.
+3. La vitamina C interviene en la formación de
+hidroxiprolina del colágeno.
+4. El déficit de piridoxina puede producir pela-
+gra.
+191. Sobre la eritropoyetina, señale la respuesta
+correcta:
+1. Es una lipoproteína sintetizada a nivel renal.
+2. Inhibe la producción de hematíes en la médu-
+la ósea.
+3. La liberan las células tubulares renales cuan-
+do disminuye la presión de oxígeno.
+4. Aumenta en la insuficiencia renal progresiva.
+192. En el punto isoeléctrico de los aminoácidos y
+proteínas:
+1. Ambos grupos ionizables del aminoácido
+tienen la misma carga.
+2. La carga neta de cada grupo ionizable es cero.
+3. La suma algebraica de las cargas de los gru-
+pos ionizables es cero.
+4. La carga es igual para todos los aminoácidos
+a un determinado pH.
+193. Si en un DNA de doble cadena hay un 20% en
+moles de guanina, ¿cuál es el porcentaje en
+moles de timina?:
+1. 20%.
+2. 30%.
+3. 80%.
+4. No se puede saber con ese único dato.
+194. La alta fidelidad del proceso de síntesis de pro-
+teínas se debe principalmente a:
+1. La actividad de la enzima peptidil transferasa.
+2. La presencia de factores de iniciación y de
+elongación específicos para cada aminoacil-
+tRNA.
+3. El acoplamiento entre el ribosoma y el RNA
+de transferencia.
+4. La actividad correctora de la aminoacil-tRNA
+sintetasa.
+- 1
+195. La impronta genética (imprinting) es la:
+1. Expresión diferencial de uno de los alelos.
+2. Ausencia en el genoma de ciertos genes.
+3. Expresión de genes causantes de enfermeda-
+des.
+4. Presencia en el genoma de genes que permi-
+ten la identificación individual.
+196. Las hormonas esteroideas actúan a nivel celu-
+lar:
+1. Inhibiendo enzimas preexistentes.
+2. Mediante la formación de un segundo mensa-
+jero.
+3. Mediante la regulación de la expresión géni-
+ca.
+4. Modificando la concentración de calcio ióni-
+co intracelular.
+197. En referencia al fragmento Klenow, señale la
+respuesta FALSA:
+1. Es un fragmento de la enzima DNA polimera-
+sa I.
+2. Su gran ventaja es su estabilidad a altas tem-
+peraturas.
+3. Se utiliza para el relleno de extremos 3´ de
+fragmentos de DNA.
+4. Tiene actividad de polimerasa y de 3´→5´
+exonucleasa.
+198. ¿Qué es la secuencia Shine-Dalgarno?:
+1. Una secuencia de RNA mensajero que solo
+existe en procariotas.
+2. Una secuencia situada a 6 o 7 nucleótidos del
+codón de terminación de la traducción del
+RNA.
+3. Una secuencia de DNA consenso en la región
+promotora de genes eucariotas.
+4. Secuencia situada a 25 nucleótidos del sitio
+de inicio de la transcripción.
+199. ¿Cómo afecta el aumento de la temperatura a la
+reacción antígeno-anticuerpo?:
+1. Aumenta la velocidad y disminuye la afinidad
+de unión.
+2. Disminuye la velocidad y aumenta la afinidad
+de unión.
+3. Aumenta la velocidad y la afinidad de unión.
+4. Disminuye la velocidad y la afinidad de
+unión.
+19 -
+200. Los plásmidos son:
+1. Fragmentos de DNA lineales con genes de
+resistencia a antibióticos.
+2. Moléculas de RNA de cadena doble y circula-
+res con genes de resistencia a antibióticos.
+3. Moléculas de DNA circulares que se replican
+de forma dependiente del cromosoma del
+huésped.
+4. Moléculas de DNA circulares que se replican
+independientemente del cromosoma del hués-
+ped.
+201. ¿Cuál de las siguientes afirmaciones sobre los
+diagramas de Pourbaix es FALSA?:
+1. Son representaciones gráficas del potencial
+(ordenada) en función del pH (abscisa) para
+un elemento dado bajo condiciones termodi-
+námicas estándar (usualmente agua a 25°C).
+2. Las especies más oxidadas se hallan en la
+parte superior del diagrama, mientras que las
+especies más reducidas se encuentran en la
+parte inferior.
+3. Las líneas oblicuas indican reacciones entre
+especies con dependencia tanto del potencial
+como del pH.
+4. Dos líneas oblicuas y paralelas, que represen-
+tan la oxidación del agua (línea inferior) y la
+reducción del agua (línea superior), delimitan
+una zona del diagrama que contiene las espe-
+cies estables en solución acuosa.
+202. ¿Cuál de los siguientes compuestos experimen-
+tará un reagrupamiento cuando sea sometido a
+una reacción de solvólisis?:
+1. 3-yodo-5-metilhexano.
+2. 3-yodohexano.
+3. 3-yodo-2-metilhexano.
+4. 3-yodo-3-metilhexano.
+203. ¿Qué mide la escala de Mohs?:
+1. Acidez.
+2. Conductividad.
+3. Dureza.
+4. Viscosidad.
+204. La bilirrubina es:
+1. Un biomarcador de función hepática.
+2. Un biomarcador de función renal.
+3. Un biomarcador de función cardiaca.
+4. Un biomarcador de función cerebral.
+205. ¿Qué tipo de electroforesis capilar emplea un
+gradiente de pH continuo y estable?:
+1. Electroforesis capilar de zona (CZE).
+2. Electroforesis capilar en gel (CGE).
+3. Isotacoforesis capilar (CITP).
+4. Isoelectroenfoque capilar (CIEF).
+- 2
+206. ¿A qué corresponde el código UFI que consta
+obligatoriamente en la etiqueta de productos
+clasificados por sus riesgos para la salud?:
+1. Código alfanumérico que permite identificar
+de forma unívoca un producto durante una
+llamada de emergencia a un centro toxicoló-
+gico.
+2. Código QR que incluye información sobre el
+lote y fecha de caducidad de un producto.
+3. Código de barras que incluye información
+sobre el lote y fecha de caducidad de un pro-
+ducto y permite identificarlo durante una
+emergencia.
+4. Código QR que permite identificar de forma
+unívoca un producto durante una llamada de
+emergencia a un centro toxicológico.
+207. La fluorescencia molecular:
+1. Es más intensa al aumentar la temperatura.
+2. Es más intensa al disminuir la viscosidad del
+disolvente.
+3. Está particularmente favorecida en las molé-
+culas rígidas.
+4. Presenta un mayor rendimiento cuántico de
+emisión en medios con niveles de oxígeno
+elevados.
+208. Considere la siguiente reacción: C(s) + H O(g)
+2
+⇌ CO(g) + H (g). En el equilibrio a una tempe-
+2
+ratura determinada las concentraciones son:
+[H O]=0,12 M y [CO]=[H ]=1,2 M. Si todas
+2 2
+estas concentraciones aumentan en 0,5 M de
+forma simultánea, ¿cuál de las siguientes res-
+puestas es cierta?:
+1. Se formará más H O(g).
+2
+2. Se formarán más productos.
+3. Es preciso conocer el valor de K para saber
+p
+lo que sucede.
+4. El valor de K no cambia, por lo tanto, no
+c
+pasa nada.
+209. Toda medida lleva asociada un error. Los erro-
+res sistemáticos son aquellos producidos por los
+equipos de medida o por los analistas que:
+1. Se corrigen realizando un número elevado de
+medidas.
+2. Se producen siempre en el mismo sentido,
+provocando un sesgo.
+3. No se pueden corregir.
+4. Son debidos al azar y no se pueden eliminar,
+aunque sí minimizar.
+210. ¿Cuál es la enzima encargada de desenrollar la
+doble hélice durante el proceso de replicación
+del DNA?:
+1. Primasa.
+2. DNA girasa.
+3. DNA helicasa.
+4. DNA polimerasa.
+20 -
+- 21 -
+- 22 -
