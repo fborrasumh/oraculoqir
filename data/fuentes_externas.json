@@ -3,15 +3,20 @@
  "_cosecha": {
   "ficheros": [
    "https://oposicionesconexito.com/descargas/6983/",
-   "https://huggingface.co/datasets/head_qa/resolve/main/data/head-qa-es-en-pdfs.zip"
+   "https://huggingface.co/datasets/head_qa/resolve/main/data/head-qa-es-en-pdfs.zip",
+   "https://www.redaccionmedica.com/contenido/images/Cuaderno_2020_QU%C3%8DMICA_0_C.pdf",
+   "https://www.redaccionmedica.com/contenido/images/QIR%281%29.pdf"
   ],
   "paginas": [
    "https://www.consalud.es/especial-mir/qir-2020-publicadas-preguntas-examen_73433_102.html",
    "https://www.consalud.es/formacion/qir-2020-consulta-respuestas-definitivas_74157_102.html",
    "https://www.consalud.es/especial-mir/qir-2019-estas-son-las-6-preguntas-anuladas_60365_102.html",
    "https://www.consalud.es/formacion/qir-2019-consulta-todas-las-respuestas_59848_102.html",
-   "https://oposicionesconexito.com/examenes-qir-quimico-interno-residente/"
+   "https://oposicionesconexito.com/examenes-qir-quimico-interno-residente/",
+   "https://www.redaccionmedica.com/formacion/mir/20210330/oficial-sanidad-publica-las-respuestas-correctas-del-examen-mir/157297_0.html"
   ],
-  "sitios": []
+  "sitios": [
+   "http://opositea.blogspot.com/p/examenes-qir-quimico-interno-residente.html"
+  ]
  }
 }
