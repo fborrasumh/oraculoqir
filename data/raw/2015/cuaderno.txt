@@ -1,0 +1,2430 @@
+MINISTERIO DE SANIDAD, SERVICIOS SOCIALES E IGUALDAD
+PRUEBAS SELECTIVAS 2014
+CUADERNO DE EXAMEN
+QUÍMICOS
+ADVERTENCIA IMPORTANTE
+ANTES DE COMENZAR SU EXAMEN, LEA ATENTAMENTE LAS SIGUIENTES
+INSTRUCCIONES
+1. Compruebe que este Cuaderno de Examen integrado por 225 preguntas más 10 de
+reserva, lleva todas sus páginas y no tiene defectos de impresión. Si detecta alguna
+anomalía, pida otro Cuaderno de Examen a la Mesa.
+2. La “Hoja de Respuestas” está nominalizada. Se compone de tres ejemplares en papel
+autocopiativo que deben colocarse correctamente para permitir la impresión de las
+contestaciones en todos ellos. Recuerde que debe firmar esta Hoja y rellenar la fecha.
+3. Compruebe que la respuesta que va a señalar en la “Hoja de Respuestas” correspon-
+de al número de pregunta del cuestionario.
+4. Solamente se valoran las respuestas marcadas en la “Hoja de Respuestas”, siempre
+que se tengan en cuenta las instrucciones contenidas en la misma.
+5. Si inutiliza su “Hoja de Respuestas” pida un nuevo juego de repuesto a la Mesa de
+Examen y no olvide consignar sus datos personales.
+6. Recuerde que el tiempo de realización de este ejercicio es de cinco horas improrro-
+gables y que están prohibidos el uso de calculadoras (excepto en Radiofísicos) y la
+utilización de teléfonos móviles, o de cualquier otro dispositivo con capacidad de al-
+macenamiento de información o posibilidad de comunicación mediante voz o datos.
+7. Podrá retirar su Cuaderno de Examen una vez finalizado el ejercicio y hayan sido re-
+cogidas las “Hojas de Respuesta” por la Mesa.
+- 1 -
+1. Los complejos de cobalto (III):
+1. Son todos neutros o aniónicos.
+2. Constituyen la base de nuestros conocimien-
+tos sobre las propiedades y mecanismos de
+reacción de los complejos octaédricos.
+3. Normalmente son plano-cuadrados.
+4. Presentan unas cinéticas de sustitución muy
+rápidas.
+5. Casi todos son preparados sustituyendo unos
+ligandos por otros.
+2. Una reacción homogénea entre gases ideales
+que ha alcanzado el equilibrio químico puede
+evolucionar (es decir, desplazarse hacia la for-
+mación de mayor cantidad de reactivos o pro-
+ductos) de la siguiente forma si este equilibrio se
+altera:
+1. Si se aumenta la temperatura a presión cons-
+tante irá hacia donde se produzcan mayor
+número de moles.
+2. Si se aumenta la presión a temperatura cons-
+tante irá hacia donde el volumen sea mayor.
+3. Si se añade un gas inerte irá hacia donde se
+consuma este gas.
+4. Si se añade un gas que participa en la reac-
+ción irá hacia donde se produzca más canti-
+dad de este gas.
+5. Si se disminuye la temperatura irá hacia don-
+de la reacción sea exotérmica.
+3. Cuando se oxida el manganeso al aire a 1000 ºC
+se transforma por completo en Mn O Ello se
+3 4.
+debe a que:
+1. El Mn O es el más volátil de todos los óxi-
+3 4
+dos de manganeso.
+2. El Mn O no puede reaccionar más con oxí-
+3 4
+geno.
+3. No existen óxidos de manganeso con mayor
+estado de oxidación.
+4. El Mn O es el más estable de todos los óxi-
+3 4
+dos de manganeso.
+5. El Mn O forma una capa protectora que de-
+3 4
+tiene la oxidación del metal.
+4. Comparando el comportamiento redox de los
+sistemas de plata y sodio:
+1. Na+ es un buen oxidante, por tener su sistema
+un alto potencial de reducción.
+2. Ag es un excelente oxidante, por lo que no se
+oxida al aire.
+3. Ag+ es un buen oxidante, y por tanto fácil-
+mente reducible al metal.
+4. Los dos metales se disuelven en medio ácido
+liberando H
+2
+5. Los dos metales dismutan espontáneamente
+en agua.
+5. El grafito:
+1. Da compuestos de intercalación con el flúor.
+-
+2. Reacciona con el sodio para dar un compues-
+to covalente con enlace C ̶ Na.
+3. Reacciona con el sodio para dar compuestos
+de intercalación que tienen la misma distancia
+entre capas que tenía el grafito puro.
+4. Reacciona con el sodio para dar compuestos
+de intercalación que son mejores conductores
+eléctricos que el grafito puro.
+5. Da compuestos covalentes con el bromo con
+enlace C ̶ Br.
+6. Por calentamiento en hornos eléctricos de sílice,
+carburo de calcio y carbón se obtienen siliciuros
+de calcio. Uno de ellos:
+1. Tiene la composición CaSi .
+2
+2. No reacciona con agua.
+3. No reacciona con ácido sulfúrico.
+4. Es un poderoso agente oxidante.
+5. Su reacción con agua líquida genera silicato
+de calcio.
+7. El cambio de energía interna cuando se forma
+un mol de sólido a partir de los iones gaseosos a
+separación infinita, a presión atmosférica y a
+0 K se denomina energía:
+1. De formación.
+2. De sublimación.
+3. Reticular.
+4. De condensación.
+5. De licuefacción.
+8. El término “enriquecimiento de uranio” alude
+al aumento de la:
+1. Cantidad de uranio presente en una mena
+natural para poder explotarla.
+2. Cantidad del isótopo 235U respecto a la abun-
+dancia isotópica natural.
+3. Cantidad del isótopo 238U respecto a la abun-
+dancia isotópica natural.
+4. Capacidad de uranio presente en su fluoruro.
+5. Masa atómica del uranio.
+9. La ecuación de Nernst:
+1. Se cumple tanto para celdas galvánicas rever-
+sibles como altamente irreversibles.
+2. Permite calcular la fuerza electromotriz de
+una celda galvánica con solo conocer la ener-
+gía de Gibbs estándar de la reacción química
+de la celda.
+3. Depende únicamente de las actividades de las
+especies que participan en la reacción quími-
+ca de la celda.
+4. Relaciona la fuerza electromotriz de la celda
+con las actividades de las especies que parti-
+cipan en la reacción química de la celda y con
+el potencial estándar de la reacción.
+5. Es independiente del número de electrones
+transferidos en la reacción electroquímica de
+la celda
+2 -
+10. Para detectar cantidades sumamente pequeñas
+de peróxido de hidrógeno en el agua sirve una
+mezcla de cloruro de hierro (III) y hexacianofe-
+rrato (III) de potasio (ferricianuro potásico). La
+presencia de H O origina, tras un corto tiem-
+2 2
+po, un intenso color azul oscuro. Ello se debe a
+que el peróxido de hidrógeno:
+1. Reduce el hexacianoferrato (III) a hexa-
+cianoferrato (II).
+2. Oxida al hexacianoferrato (III).
+3. Oxida al cloruro de hierro (III).
+4. Forma peroxo-ciano complejos de Fe (III).
+5. Oxida a los cianocomplejos hasta cianato
+complejos.
+11. Para la obtención industrial del estaño se parte
+del mineral:
+1. Cinabrio.
+2. Blenda.
+3. Wurtzita.
+4. Casiterita.
+5. Pirita.
+12. El mecanismo de una reacción química homo-
+génea:
+1. Puede incluir intermedios de reacción que no
+son ninguno de los reactivos ni ninguno de
+los productos.
+2. Está completamente definido por la reacción
+química siempre que ésta refleje la estequio-
+metria correcta de la reacción.
+3. Sólo se define para reacciones complejas en
+las que los reactivos pasan por muchas etapas
+antes de convertirse en productos.
+4. Es totalmente independiente de la ley de ve-
+locidad de la reacción.
+5. No depende de la temperatura y es único para
+la reacción entre unos reactivos determinados.
+13. Los centros de color o centros F se producen:
+1. Exclusivamente en cristales que contienen
+flúor.
+2. Por calentamiento de un cristal en el vapor de
+un metal alcalino.
+3. Por enfriamiento de un cristal en el vapor de
+un metal alcalino.
+4. Por calentamiento de un cristal en presencia
+de flúor.
+5. Por enfriamiento de un cristal en presencia de
+flúor.
+14. Las “plantillas” utilizadas para la preparación
+de zeolitas sintéticas ricas en silicio consisten
+en:
+1. Estructuras con huecos tetraédricos.
+2. Estructuras con huecos octaédricos.
+3. Estructuras porosas.
+4. Estructuras grandes sin huecos.
+5. Cationes grandes de amonio cuaternario.
+-
+15. Al enfriar rápidamente hasta temperatura am-
+biente y templar en agua un acero ordinario (de
+bajo carbono), se forma la estructura conocida
+como:
+1. Perlita.
+2. Esferoidita.
+3. Bainita.
+4. Ferrita.
+5. Martensita.
+16. Los materiales cerámicos son:
+1. Duros y frágiles.
+2. Tenaces y dúctiles.
+3. Blandos y maleables.
+4. Dúctiles y maleables.
+5. Blandos y frágiles.
+17. El tratamiento consistente en mantener un ma-
+terial a una temperatura elevada durante un
+periodo de tiempo y posteriormente enfriarlo
+lentamente recibe el nombre de:
+1. Normalizado.
+2. Templado.
+3. Recocido.
+4. Revenido.
+5. Sinterizado.
+18. El hidróxido de calcio:
+1. Se prepara añadiendo agua al óxido de calcio.
+2. Es un compuesto de color rojo intenso.
+3. Cristaliza al calentar.
+4. En disolución permanece inalterado al aire
+durante meses.
+5. Se utiliza para pintar después de neutralizar
+con HCl.
+19. La ecuación de Arrhenius:
+1. Relaciona la velocidad de una reacción quí-
+mica con la llamada constante de velocidad y
+con las concentraciones de los reactivos ele-
+vadas a sus coeficientes estequiométricos.
+2. Relaciona la constante de velocidad de una
+reacción química con la energía de activación
+de dicha reacción, de modo que si la energía,
+de activación es alta la reacción es rápida.
+3. Se cumple únicamente para reacciones uni-
+moleculares.
+4. Relaciona la constante de velocidad con la
+temperatura a través de la energía de activa-
+ción y el factor pre-exponencial.
+5. Permite obtener la energía de activación de
+una reacción elemental con sólo representar el
+logaritmo decimal de la temperatura frente al
+inverso del tiempo de reacción.
+20. Si se añade cobre metálico a una disolución de
+cloruro de hierro (III) se produce:
+3 -
+1. Un precipitado de cloruro de cobre (II).
+2. Una disolución de cloruro de cobre (II) y
+cloruro de hierro (II).
+3. Un precipitado de cloruro de hierro (II).
+4. Un precipitado de hierro metálico.
+5. Una disolución de cloruro de cobre (I) y clo-
+ruro de hierro (II).
+21. Las matrices de los materiales compuestos pue-
+den ser:
+1. Poliméricas.
+2. Poliméricas o metálicas, pero no cerámicas.
+3. Poliméricas o cerámicas, pero no metálicas.
+4. Metálicas o cerámicas, pero no poliméricas.
+5. Poliméricas o metálicas o cerámicas.
+22. El fluoruro de calcio es un sólido blanco que se
+encuentra como tal en la naturaleza (espato
+flúor o fluorita, que puede presentarse en mu-
+chos colores) y que se emplea como importante
+fuente de flúor. Entre sus propiedades físicas y
+químicas destacan:
+1. Su solubilidad en agua, que le diferencia de
+los demás fluoruros del grupo 2.
+2. Su resistencia al ácido sulfúrico concentrado.
+3. Su hidrólisis en agua, que le transforma en
+CaO y HF.
+4. Su punto de fusión relativamente bajo para un
+mineral.
+5. Su favorable, aunque lenta, oxidación al aire.
+23. Con respecto al coeficiente de distribución de
+un soluto entre dos líquidos parcialmente mis-
+cibles:
+1. Por ser un cociente entre concentraciones de
+soluto en las dos fases, es independiente de la
+temperatura.
+2. No depende de la cantidad total de soluto en
+ambas partes.
+3. Es útil para determinar la masa molar del
+soluto.
+4. Si una fase es agua y la otra un disolvente
+orgánico, suele utilizarse en química médica y
+ambiental para conocer la distribución de me-
+dicamentos y contaminantes entre estos dos
+tipos de medios.
+5. Sólo tiene significado físico cuando las fases
+líquidas están en contacto a través de una
+membrana semipermeable.
+24. El óxido de osmio (VIII), OsO :
+4
+1. Es un compuesto en un estado de oxidación
+muy común entre los metales de transición.
+2. Es el único compuesto binario de osmio con
+oxígeno.
+3. Tiene la estructura del trióxido de renio.
+4. Es inerte frente a los hidróxidos alcalinos.
+5. Se utiliza como oxidante en química orgánica.
+25. En relación con las propiedades coligativas de
+-
+una disolución se puede decir que:
+1. Tienen su origen en la disminución del poten-
+cial químico del disolvente por el hecho de
+añadirle un soluto.
+2. El descenso en la presión de vapor del disol-
+vente al que se le añade un soluto no volátil
+es directamente proporcional a la fracción
+molar del disolvente.
+3. La adición de un soluto a un disolvente hace
+que el intervalo de temperaturas en las que la
+disolución se mantiene en estado líquido sea
+menor que el correspondiente al disolvente
+puro.
+4. La constante molal de descenso del punto de
+congelación depende de la naturaleza del so-
+luto disuelto.
+5. El descenso crioscópico es una técnica apli-
+cable a la determinación de la masa molar del
+disolvente.
+26. La molécula de SO es:
+2
+1. Lineal, con el átomo de S en el centro.
+2. Lineal, con uno de los átomos de O en el cen-
+tro.
+3. Angular, con el átomo de S en el centro y con
+un ángulo próximo a 120º (triángulo equiláte-
+ro) y un par de electrones libre.
+4. Angular, con uno de los átomos de O en el
+centro y con un ángulo aproximado a 120º
+(triángulo equilátero) y un par de electrones
+libres.
+5. Angular, con el átomo de S en el centro y con
+un ángulo próximo a 109º (tetraedro) y dos
+pares de electrones libres.
+27. El galio es el elemento que está debajo del alu-
+minio en el grupo 13 de la tabla periódica. Por
+ello:
+1. Arde en oxígeno dando Ga O.
+2
+2. Es estable al aire debido a una capa protectora
+de óxido.
+3. Se disuelve muy rápidamente en ácido nítrico.
+4. No es soluble en agua básica con desprendi-
+miento de hidrógeno.
+5. Tiene un punto de fusión un poco mayor que
+el aluminio.
+28. Un átomo de carbono aislado es:
+1. Diamagnético.
+2. Ferromagnético.
+3. Paramagnético, con un electrón desapareado.
+4. Paramagnético, con dos electrones desaparea-
+dos.
+5. Paramagnético, con tres electrones desapa-
+reados.
+29. Si intentamos disolver amoníaco en agua obser-
+vamos que:
+1. Es completamente soluble.
+4 -
+2. Es poco soluble.
+3. Debería ser poco soluble, pero la solubilidad
+aumenta notablemente por reacción ácido-
+base entre ellos, dando lugar a una disolución
+ácida.
+4. Debería ser poco soluble, pero la solubilidad
+aumenta notablemente por reacción redox en-
+tre ellos, liberándose hidrógeno.
+5. Es muy soluble, favorecido por la formación
+de enlaces de hidrógeno entre los dos com-
+puestos.
+30. Entre las reacciones parciales que conducen al
+carbonato de sodio por el Proceso Solvay, se
+encuentran:
+1. La reacción entre el carbonato de calcio y el
+cloruro de sodio.
+2. La precipitación de hidrogenocarbonato de
+sodio.
+3. La descomposición térmica del cloruro amó-
+nico
+.
+4. La formación de CaCO a partir de CaO y
+3
+CO
+2.
+5. La reacción del amoniaco con el óxido de
+calcio.
+31. La ecuación de velocidad de van Deemter trata
+de justificar las contribuciones de los diferentes
+efectos que provocan el ensanchamiento de la
+banda cromatográfica, que fundamentalmente
+son de cuatro tipos:
+1. Difusión de Eddy, volumen muerto y resis-
+tencia a la convección en ambas fases, móvil
+y estacionaria.
+2. Longitud de la columna cromatográfica, difu-
+sión longitudinal en sentido axial y radical, y
+efecto Joule.
+3. Viscosidad cinemática de la fase móvil,
+transporte de masa entre la fase móvil y la fa-
+se estacionaria, difusión transversal y longi-
+tudinal.
+4. Efecto de la transferencia de masa en la fase
+estacionaria, en la fase móvil, difusión de
+Eddy y difusión molecular longitudinal.
+5. Difusión molecular en dirección axial, difu-
+sión atómica radical, presión interna de la co-
+lumna y viscosidad de la fase móvil.
+32. La polarografía es una técnica analítica que
+hace referencia a :
+1. La absorción de radiación electromagnética.
+2. La emisión de radiación electromagnética.
+3. La voltametría con electrodo de mercurio.
+4. La utilización de paladio como electrodo de
+referencia.
+5. Al potencial de asimetría.
+33. El plasma ICP es más adecuado para el análisis
+multielemental rápido que los métodos de ab-
+sorción atómica con llama porque:
+-
+1. El intervalo de linealidad no es amplio, lo que
+permite hacer análisis muy sensibles.
+2. El ICP dispone de varias posibilidades para
+introducir la muestra empleando diferentes ti-
+pos de nebulizadores.
+3. Utilizan dos tubos fotomultiplicadores, uno
+para la región ultravioleta y otro para el visi-
+ble.
+4. Dispone de detectores de estado sólido de
+silicio de acoplamiento de carga que permiten
+la monitorización simultánea de un número
+elevado de líneas, reduciendo el tiempo de
+análisis, el volumen de muestra y mejorando
+los límites de detección.
+5. No es correcto, pues con el plasma ICP no se
+pueden hacer análisis multielementales.
+34. La cromatografía líquida en fase normal:
+1. Emplea una columna con grupos apolares que
+interaccionan con la parte apolar de los anali-
+tos de forma diferencial.
+2. Es un modo de operación que emplea una
+fase estacionaria polar con una fase móvil de
+baja polaridad.
+3. Utiliza fases móviles altamente polares como
+los alcanos o cloroalcanos.
+4. Es un modo de operación que emplea una
+superficie no polar con una fase móvil mixta
+acuosa/orgánica.
+5. Emplea fases estacionarias con gran número
+de ligandos alquílicos hidrofóbicos.
+35. Toda medida experimental viene acompañada
+del correspondiente error experimental. Los
+errores experimentales se clasifican en sistemá-
+ticos y aleatorios. Sobre éstos últimos se puede
+afirmar que:
+1. Se deben a un fallo del experimento o del
+equipo.
+2. Generalmente originan una desviación positi-
+va de la medida.
+3. Tienen igual probabilidad de ser positivos o
+negativos.
+4. No afectan al resultado final por ser aleato-
+rios.
+5. Afectan exclusivamente a la exactitud de los
+resultados que se obtienen.
+36. La fuente de ionización conocida como Plasma
+de Acoplamiento Inductivo empleada en Espec-
+trometría de Masas Elemental, se caracteriza
+por:
+1. Generar mayoritariamente iones monoatómi-
+cos.
+2. Fragmentar las moléculas orgánicas en iones
+moleculares que permiten su identificación.
+3. Ser una fuente de baja energía.
+4. Funcionar a alto vacío.
+5. Alcanzar límites de detección del orden de los
+mg L-1 para la mayoría de los elementos.
+5 -
+37. En cromatografía de gases es muy común la
+derivatización, con varios objetivos. Uno de los
+que se comentan a continuación no está entre
+ellos:
+1. Aumentar la volatilidad de compuestos no
+volátiles.
+2. Evitar la descomposición de un compuesto,
+mejorando su estabilidad.
+3. Reducir la absorción sobre superficies activas
+de las paredes de la columna y el soporte só-
+lido.
+4. Fragmentar el analito en iones moleculares de
+más fácil separación.
+5. Mejorar la separación de compuestos estre-
+chamente relacionados y que presentan una
+separación muy pobre.
+38. Es espectroscopia de absorción molecular UV-
+visible se denomina punto isosbéstico a:
+1. La región del espectro donde dos especies
+tienen la misma capacidad de emisión de ra-
+diación.
+2. El pH al cual dos especies absorbentes tienen
+el mismo coeficiente de absorción molecular.
+3. La temperatura a la cual dos especies absor-
+bentes en equilibrio dejan de emitir radiación.
+4. La longitud de onda a la cual dos especies
+absorbentes en equilibrio tiene el mismo índi-
+ce de refracción.
+5. La longitud de onda a la cual los coeficientes
+de absorción molecular de dos especies ab-
+sorbentes en equilibrio, interconvertibles en-
+tre sí, son equivalentes.
+39. La solubilidad del hidróxido de cobre en pre-
+sencia de una concentración elevada de amonía-
+co:
+1. Aumenta por formación de un ion complejo
+de Cu2+ con NH .
+3
+2. No se ve afectada al no producirse efecto de
+ion común.
+3. Disminuye por efecto de ion común.
+4. Disminuye al producirse la oxidación de
+bromuro a bromo molecular.
+5. Disminuye porque los hidróxidos son más
+solubles en medio ácido.
+40. En HPLC y bajo condiciones ideales, los picos
+cromatográficos deberían tener la forma de
+picos Gaussianos con simetría perfecta, aunque
+en realidad, los picos no son perfectamente
+simétricos y pueden presentar frentes y colas. El
+factor de asimetría:
+1. Se emplea para medir la retención relativa de
+los dos componentes de una muestra de forma
+que en compuestos perfectamente simétricos
+es 0.
+2. Se emplea para medir el grado de simetría de
+un pico y se define a la anchura de pico co-
+rrespondiente al 10% de la altura del mismo.
+-
+3. Es un parámetro que se calcula midiendo la
+anchura a la semialtura del pico cromatográ-
+fico.
+4. Relaciona entre sí dos picos cromatográficos
+sucesivos, de forma que un factor de asime-
+tría 1 indica una resolución total de los mis-
+mos.
+5. Es un parámetro relacionado con la simetría
+de los picos, definiéndose a una altura igual al
+10% de la anchura del mismo.
+41. Un electrodo de calomelanos:
+1. Es un electrodo indicador de mercurio.
+2. Es un electrodo de referencia que contiene
+iones nitrato.
+3. Es un electrodo indicador para iones nitrato.
+4. Es un electrodo de referencia que utiliza plata
+y cloruro de plata.
+5. Es un electrodo de referencia que contiene
+una solución saturada de cloruro de mercurio
+(I).
+42. En fluorescencia atómica, la emisión de radia-
+ción electromagnética denominada florescencia
+resonante se produce cuando la longitud de
+onda de excitación es:
+1. 100 nm superior a la longitud de onda de emi-
+sión.
+2. 100 nm inferior a la longitud de onda de emi-
+sión.
+3. Igual a la longitud de onda de emisión.
+4. 100 nm superior a la longitud de onda de ex-
+citación.
+5. 100 nm inferior a la longitud de onda de exci-
+tación.
+43. El coeficiente de absorción molar de un com-
+puesto:
+1. Tiene como dimensiones M-1 cm-1, es cons-
+tante a una longitud de onda concreta y en un
+disolvente particular.
+2. Tiene como dimensiones mol L-1 cm-2 y es
+constante a una longitud de onda dada y en un
+disolvente dado.
+3. Tiene como dimensiones L mol-1 cm-3 y es
+constante en toda la región espectral y no es-
+tá influenciado por el disolvente.
+4. Tiene como dimensiones Fotones por mol y
+varía con la longitud de onda y con el disol-
+vente.
+5. Es adimensional, constante y no varía ni con
+la longitud de onda ni con el disolvente.
+44. La isotacoforesis capilar (CITP), separa:
+1. Cationes pero no puede separar aniones.
+2. Aniones pero no puede separar cationes.
+3. Cationes y aniones de forma simultánea.
+4. Catones y aniones pero no de forma simultá-
+nea.
+5. Solo moléculas neutras.
+6 -
+45. ¿Podría usarse un electrodo de vidrio como
+electrodo de referencia?:
+1. Sí, si el electrodo de vidrio es un electrodo
+combinado.
+2. Sí, si se utiliza como electrodo indicador un
+electrodo de mercurio.
+3. No, ya que el electrodo de vidrio es un elec-
+trodo selectivo.
+4. No, porque su fundamento no es nerstiano.
+5. Si, si la determinación se realiza en un medio
+tamponado.
+46. En el análisis de arsénico por cámara de grafito
+se pueden producir pérdidas de dicho elemento
+por volatilización durante la etapa de carboni-
+zación. Este hecho puede minimizarse si :
+1. Elevamos la temperatura durante la etapa de
+carbonización.
+2. Incrementamos el tiempo de carbonización.
+3. Adicionamos modificadores de matriz que
+estabilicen térmicamente el analito.
+4. Bajamos la temperatura durante la etapa de
+carbonización.
+5. Modificamos el programa de secado para
+vaporizar completamente el disolvente.
+47. Si valoramos 25 mL de un ácido H A en concen-
+2
+tración 0.1000M (pKa =5; pKa =9) con NaOH,
+1 2
+el pH cuando hayamos valorado el 50% del
+ácido inicial será:
+1. 1.
+2. 3.
+3. 5.
+4. 7.
+5. 9.
+48. Una modalidad de inyección muy empleada en
+cromatografía de gases es la inyección con divi-
+sión de flujo o “Split”, en la que:
+1. La muestra introducida a través del septum se
+vaporiza bruscamente y es arrastrada por el
+gas portador hacia la columna.
+2. El divisor de flujo se cierra, se introduce
+la muestra, y se vuelve a abrir después de un pe-
+riodo controlado de tiempo del orden de 15 a
+60 s.
+3. El disolvente se condensa a la entrada de la
+columna formando una fase mixta de elevado
+espesor cuando se cierra el divisor.
+4. El gas portador que arrastra la muestra,
+una vez evaporada, se divide en dos partes: una
+pasa a la columna y la otra se envía al exte-
+rior.
+5. La muestra se introduce en frío y una parte se
+deposita sobre un relleno y se calienta rápi-
+damente para producir la evaporación homo-
+génea de la disolución.
+49. Un biosensor consta de:
+-
+1. Un receptor, un transductor, y una marca en-
+zimática.
+2. Un receptor y una marca enzimática.
+3. Un transductor y una marca enzimática.
+4. Un receptor y un transductor.
+5. Un receptor y un anticuerpo.
+50. El cloruro presente en una disolución se puede
+determinar volumétricamente, mediante el
+método de Mohr, utilizando Ag (I) como reacti-
+vo. ¿Qué indicador se utiliza en esta valora-
+ción?:
+1. K Cr O .
+2 2 7
+2. Fe (SO )
+2 4 3.
+3. K CrO
+2 4.
+4. KSCN.
+5. FeSO4.
+51. En los métodos cinéticos de análisis:
+1. Pueden emplearse reacciones lentas.
+2. Es necesario que la reacción se complete para
+poder obtener los datos de las concentracio-
+nes en el equilibrio.
+3. Pueden determinarse bajas concentraciones
+de un catalizador siempre que la velocidad de
+la reacción no dependa de la concentración
+del mismo.
+4. No es necesario un control riguroso de las
+condiciones experimentales.
+5. Pueden determinarse mezclas de analitos
+siempre que todos ellos reaccionen con un
+mismo reactivo a la misma velocidad de reac-
+ción.
+52. En la valoración de una base con ácido clorhí-
+drico, se sabe que el punto de equivalencia apa-
+rece a pH 5.54. Si se utiliza como indicador el
+púrpura de bromocresol, cuyo intervalo de
+viraje es 5.2-6.8, el punto final se observa a pH:
+1. 6.0, con un pequeño error por defecto.
+2. 6.8, con un error por exceso.
+3. 5.2, con un pequeño error por exceso.
+4. 5.54. No hay error.
+5. 6.0, con un error por exceso.
+53. El electrodo de Clark tiene fundamento:
+1. Potenciométrico.
+2. Potenciostático.
+3. Óptico.
+4. Amperométrico.
+5. Conductimétrico.
+54. Una valoración culombimétrica:
+1. No necesita que el rendimiento en corriente
+sea del 100%.
+2. No necesita de un sistema indicador del punto
+final.
+3. Utiliza siempre un sistema potenciostático.
+7 -
+4. Utiliza un agente valorante que se genera
+electrolíticamente.
+5. Necesita de una bureta para añadir el agente
+valorante.
+55. Cuando se lleva a cabo un análisis de trazas en
+una muestra es habitual realizar un proceso de
+eliminación de interferentes y/o preconcentra-
+ción de los analitos. Una de las técnicas utiliza-
+das con este fin es la extracción en fase sólida en
+la que:
+1. La muestra se somete a un proceso de extrac-
+ción en un lecho fluidizado.
+2. El eluyente es un disolvente apolar.
+3. El cartucho donde se encuentra la fase esta-
+cionaria tiene que ser metálico para soportar
+la presión del proceso.
+4. La naturaleza de la fase extractora puede ha-
+cerse variar para permitir la estación de dis-
+tintas clases de compuesto.
+5. No se puede utilizar agua como eluyente por-
+que se disuelve la fase estacionaria depositada
+en el cartucho.
+56. Un componente básico de los espectrofotóme-
+tros es el monocromador. Su función es:
+1. Conectar las distintas longitudes de onda pro-
+cedentes de la fuente para lograr mayor po-
+tencia de luz.
+2. Transformar la señal óptica medida por el
+detector en una señal eléctrica.
+3. Dispersar la luz separando las longitudes de
+onda que la componen y seleccionar una ban-
+da estrecha.
+4. Amplificar la señal analítica mejorando la
+relación señal/ruido.
+5. Disminuir la potencia del haz de luz para
+eliminar el ruido de fondo del espectrofotó-
+metro.
+57. La turbidimetría y la nefelometría son técnicas
+no espectroscópicas basadas en la dispersión de
+la luz, con interesantes aplicaciones en el análi-
+sis bioquímico. Los criterios a tener en cuenta
+para elegir entre nefelometría y turbidimetría
+en el análisis de una muestra que contiene par-
+tículas en suspensión son:
+1. El tamaño de las partículas suspendidas y el
+detector del instrumento.
+2. El tamaño de las partículas suspendidas y la
+longitud de onda de la radiación empleada.
+3. La longitud de onda de la radiación emitida y
+la forma de las partículas suspendidas.
+4. El tamaño de las partículas suspendidas y el
+color de las mismas.
+5. El color de las partículas y su fluorescencia.
+58. En las medidas quimioluminiscentes el analito
+que se quiere determinar tiene que pasar pre-
+viamente al estado excitado mediante:
+-
+1. Absorción de radiación electromagnética.
+2. Emisión de radiación electromagnética.
+3. Una reacción química.
+4. Ondas de radio.
+5. Ondas de sonido.
+59. Al llevar a cabo la validación de un método
+analítico es preciso tener en cuenta los siguien-
+tes aspectos básicos:
+1. Validar el proceso analítico en su conjunto, el
+intervalo de concentraciones en que se aplica,
+así como el método en una única matriz para
+asegurar la selectividad.
+2. Validar las etapas previas de tratamiento de la
+muestra, el intervalo de concentraciones en
+que se aplica y el método en una única matriz
+para asegurar la selectividad.
+3. Validar el método de medida final, validar el
+intervalo de bajas concentraciones (trazas) en
+que se aplica y el método en una única matriz
+para asegurar la sensibilidad.
+4. Lo único que se precisa es validar la instru-
+mentación mediante calibraciones adecuadas.
+5. Validar el proceso analítico en su conjunto, el
+intervalo de concentraciones en que se aplica
+y el método en cada una de las matrices a las
+que se aplicará.
+60. Si un método analítico permite determinar 1
+ppm de Pb, nos estamos refiriendo a:
+1. 1 mg/L.
+2. 1 mg/mL.
+3. 1 µg/L.
+4. 1 ng/L.
+5. 1 ng/mL.
+61. El error alcalino que se produce en los electro-
+dos de vidrio para la media de pH:
+1. Se debe a la presencia de una concentración
+excesiva de protones que se sustituye por io-
+nes sodio en la membrana de vidrio.
+2. Ocurre a pH neutros debido a la ausencia de
+protones.
+3. Tiene lugar a pH muy alcalinos, en los que el
+ion sodio se comporta como si fuera un pro-
+tón.
+4. Aparece como consecuencia de la deshidrata-
+ción de la membrana de vidrio.
+5. Ocurre cuando el electrodo se introduce en
+agua pura debido a la disolución de los iones
+sodio de la membrana.
+62. Una de las variables importantes en las técnicas
+de emisión es la temperatura, porque:
+1. La energía emitida por los átomos varía ex-
+ponencialmente con ella.
+2. La población de átomos en estado excitado
+disminuye cuando aumenta.
+3. La población de átomos en estado excitado
+aumenta cuando disminuye.
+8 -
+4. Al aumentar se evaporan los átomos y dismi-
+nuye la señal analítica.
+5. Al aumentar incrementa la potencia de la
+radiación electromagnética procedente de la
+lámpara de cátodo hueco.
+63. Una disolución patrón primario en un valora-
+ción no debe:
+1. Ser preparada a partir de un reactivo de alta
+pureza.
+2. Tener una concentración exactamente cono-
+cida.
+3. Mantener su composición con el tiempo.
+4. Reaccionar de forma instantánea.
+5. Dar lugar a reacciones secundarias.
+64. Una clasificación de detectores de cromatogra-
+fía de gases que comúnmente se encuentra en la
+bibliografía los divide en detectores de concen-
+tración y de masa, destructivos y no destructi-
+vos, integrales o diferenciales y universales o
+selectivos. Según esta clasificación:
+1. El detector de conductividad térmica es un
+detector selectivo.
+2. El detector de ionización en llama responde a
+la concentración del analito.
+3. El detector de conductividad térmica respon-
+de a la concentración del analito.
+4. El detector de fósforo y nitrógeno (NPD) es
+un detector universal.
+5. El detector termocalorimétrico es de tipo dife-
+rencial.
+65. El método de las variaciones continuas se utiliza
+en espectrofotometría de absorción molecular
+para :
+1. Determinar la posición del punto isobéstico
+en una mezcla de especies absorbentes.
+2. Calcular la posición exacta del máximo de
+absorción de un complejo absorbente.
+3. Obtener el pH correspondiente al punto final
+de la valoración de un ácido o una base ab-
+sorbentes.
+4. Calcular la estequiometría de un complejo
+absorbente.
+5. Calcular el valor exacto de la constante de
+disociación de un ácido absorbente.
+66. Una valoración potenciométrica se hace siem-
+pre a i = 0:
+1. Sí, porque es donde se cumple la ecuación de
+Nerst.
+2. Sí, porque es un requisito instrumental.
+3. No, porque existen valoraciones potenciomé-
+tricas a i constante.
+4. No, porque nunca se hacen valoraciones po-
+tenciométricas a i = 0.
+5. Sí, siempre que se utilice un electrodo indica-
+dor y otro de referencia.
+-
+67. En la técnica de análisis por inyección en flujo:
+1. Se inyecta un volumen relativamente grande
+de muestra en el sistema, obteniéndose seña-
+les en estado estacionario.
+2. Se introduce un pequeño volumen de muestra
+cuya integridad se mantiene por segmentación
+con burbujas de aire.
+3. La muestra mantiene su integridad durante
+todo el proceso ya que se dispone en contene-
+dores separados.
+4. Las respuestas obtenidas tienen forma de pico
+cuya altura depende de la concentración de la
+muestra.
+5. La principal dificultad se encuentra en la len-
+titud de las medidas.
+68. La determinación de oxígeno disuelto en mues-
+tras de agua natural, mediante el método de
+Winkler, se basa en la oxidación previa de Mn
+(II) en medio alcalino a:
+1. Mn(IV).
+2. Mn(VI).
+3. Mn(VII).
+4. Mn(V).
+5. Mn(I).
+69. El espectro de Discroísmo Circular de una mo-
+lécula da información sobre:
+1. El punto isosbéstico.
+2. El punto isoeléctrico.
+3. Cromóforos ópticamente activos.
+4. Grupos funcionales.
+5. Peso molecular.
+70. En un análisis electrogravimétrico:
+1. El aumento de masa del electrodo nos indica
+la cantidad de analito.
+2. El rendimiento en corriente deber ser del
+100%.
+3. Se utiliza siempre como electrodo de trabajo
+una malla de platino.
+4. Se necesita siempre un electrodo de referen-
+cia.
+5. No se necesita que la disolución sea conduc-
+tora.
+71. En la determinación de la dureza del agua de-
+bida a la presencia de iones Ca2+ y Mg2+ se utili-
+za como reactivo valorante:
+1. Naranja de metilo.
+2. Una disolución estándar de cloruro potásico.
+3. Negro Eriocromo T.
+4. Una disolución estándar de ácido etilendiami-
+notetraacético (AEDT).
+5. Una disolución de AEDT previamente estan-
+darizada frente a una disolución de ftalato po-
+tásico.
+9 -
+72.
+La solubilidad del fluoruro de calcio en una
+disolución de pH<3 es mayor que en agua pura
+debido a:
+1. La ausencia de reacciones de formación de
+complejos hidroxilados de calcio a esos valo-
+res de pH.
+2. La menor capacidad de hidratación de las
+partículas de precipitado a esos valores de
+pH.
+3. La ausencia de reacciones de formación de
+complejos solubles de calcio y fluoruro a esos
+valores de pH.
+4. Las reacciones de formación de complejos del
+ion Ca2+ con el hidronio.
+5. La reacción de protonación del anión fluoru-
+ro.
+73. Una voltamperometría cíclica:
+1. Se fundamenta en un régimen de difusión
+estacionario.
+2. Utiliza macroelectrodos como electrodos de
+trabajo.
+3. Nunca necesita de un sistema potenciostático.
+4. Se realiza siempre en una disolución no agi-
+tada.
+5. Utiliza un formato de onda cuadrada de po-
+tencial como sistema de excitación.
+74. Cuando se quieren analizar los componentes
+volátiles de una muestra líquida o sólida por
+cromatografía de gases, suele emplearse una
+metodología de espacio de cabeza (HS-GC). En
+su forma estática:
+1. Se genera un aerosol sobre las muestras sóli-
+das haciendo pasar un flujo de gas sobre la
+misma, lo que provoca la transferencia de
+compuestos volátiles al mismo. Después de
+un tiempo, un volumen de éste gas se introdu-
+ce en la columna.
+2. Sirve para analizar un líquido en contacto con
+un gas, por inyección de un pequeño volumen
+del líquido en la cabeza de la columna.
+3. La muestra se coloca en un vial con un volu-
+men de gas por encima, se cierra y se termos-
+tatiza. Una vez alcanzado el equilibrio entre
+las dos fases, una alícuota de gas se introduce
+en la corriente del gas portador que va a la co-
+lumna.
+4. La muestra en forma líquida se coloca en un
+vial y se cierra. Después de un tiempo, se abre
+el mismo para que se equilibren los compo-
+nentes volátiles con los del entorno y poste-
+riormente, se introduce un volumen del gas
+circundante al cromatógrafo.
+5. Se realiza una extracción de la muestra liqui-
+da o sólida a un gas que fluye sobre la misma
+en forma continua.
+75. En la valoración de una base fuerte con un áci-
+do fuerte el pH del punto de equivalencia:
+- 10
+1. Depende de la base fuerte que se valore.
+2. Lo determina el exceso de OH ̄ de la disolu-
+ción.
+3. Depende del ácido fuerte que se utilice como
+valorante.
+4. Lo determina la disociación del agua.
+5. Lo determina el exceso de H+ de la disolu-
+ción.
+76. Las reacciones en las cuales no hay intermedios
+se describen como:
+1. Concertadas.
+2. Polares.
+3. Radicalarias.
+4. Homolíticas.
+5. Heterolíticas.
+77. El número de señales en el espectro de RMN de
+13C del cis-1,2 dimetilciclopentano con desaco-
+plamiento de protón es:
+1. Tres.
+2. Cuatro.
+3. Cinco.
+4. Seis.
+5. Siete.
+78. ¿Cuál de los siguientes alcoholes presenta el
+menor valor de pK ?:
+a
+1. Etanol.
+2. 2-Cloroetanol.
+3. 2-Propanol.
+4. 2,2,2-Trifluoroetanol.
+5. 1,1-Dimetiletanol.
+79. En la reacción de hidrólisis de 1-cloro-2-butenol
+se forma:
+1. Butanal.
+2. 1-cloro-3-butanol.
+3. 3-buten-2-ol.
+4. 4-buten-1-ol.
+5. 1-cloro-2-butanol.
+80. Las halohidrinas vecinales, cuando se tratan
+con una base se transforman fácilmente en:
+1. Dioles.
+2. Alquenos.
+3. Alcoholes.
+4. Epóxidos.
+5. Cetonas.
+81. La reacción de Wittig es uno de los procesos
+más importantes para obtener:
+1. Alquenos.
+2. Alcanos.
+3. Cetonas.
+4. Éteres.
+5. Nitrilos.
+82. El ion arenio es un intermedio de reacción que
+0 -
+se forma en las reacciones de:
+1. Adición electrofílica.
+2. Sustitución electrofílica aromática.
+3. Sustitución nucleofílica.
+4. Adición nucleofílica.
+5. Sustitución nucleofílica aromática.
+83. A los compuestos de organomagnesio se les
+denomina comúnmente reactivos de:
+1. Lipshutz.
+2. Birch.
+3. Grignard.
+4. Noyori.
+5. Blanc.
+84. El dimetilsulfóxido (DMSO):
+1. Es un disolvente polar prótico.
+2. Es un disolvente polar aprótico.
+3. No es un disolvente.
+4. Es un sólido incoloro.
+5. Ninguna de las anteriores.
+85. La reacción de 5-Decino con sodio en amoniaco
+y tert-butanol produce:
+1. Decano.
+2. cis-5-Deceno.
+3. 5-Decanamina.
+4. trans-5-Deceno.
+5. 5,6-Decanodiamina.
+86. El acoplamiento de un alquino terminal con
+haluro de vinilo mediante catálisis con paladio
+se conoce como reacción de:
+1. Heck.
+2. Suzuki.
+3. Sonogashira.
+4. Stille.
+5. Nicolaou.
+87. El grupo NR de una sal de amonio cuaternario,
+3
+R ̶ NR , es un buen grupo saliente en reaccio-
+3
+nes:
+1. E1.
+2. E2.
+3. S 1.
+N
+4. S 2.
+N
+5. En ninguna de las anteriores.
+88. La reacción de acetato de etilo y acetona en
+presencia de hidruro de sodio en dietil éter
+genera, después de la hidrólisis:
+1. 2,4-Pentanodiona.
+2. 4-Metil-3-penten-2-ona.
+3. 3-Oxobutanoato de etilo.
+4. 2,3-Pentanodiona.
+5. 4-Hidroxi-4-metil-2-pentanona.
+- 1
+89. Le reacción de Wolff-Kishner es una:
+1. Oxidación de carbonilos para dar ácidos.
+2. Reducción de carbonilos a alcoholes.
+3. Desoxigenación de carbonilos que se realiza
+en medio ácido.
+4. Desoxigenación de carbonilos que se realiza
+en medio alcalino.
+5. Desoxigenación de carbonilos que se realiza
+en medio neutro.
+90. La reacción de ciclopenteno con una disolución
+acuosa de bromo a 0 ºC origina:
+1. trans-1,2-dibromociclopentano.
+2. cis-2-bromociclopentanol.
+3. trans -2-bromociclopentanol.
+4. trans -1,2-ciclopentanodiol.
+5. cis-1,2- dibromociclopentano.
+91. La reacción de Chichibabin es un ejemplo de
+sustitución nucleofila en un anillo de:
+1. Benceno.
+2. Antraceno.
+3. Bifenilo.
+4. Piridina.
+5. Pirrol.
+92. En la reacción de metoxibenceno con anhídrido
+acético y tricloruro de aluminio seguido de tra-
+tamiento con una disolución acuosa de ácido
+clorhídrico se forma mayoritariamente:
+1. Acido 4-metoxibenzoico.
+2. 1-(4-metoxifenil)etanona.
+3. 1-(3-metoxifenil)etanona.
+4. Acido 3-metoxibenzocio.
+5. Acetato de 4-metoxifenilo.
+93. El producto mayoritario de la reacción de 2-
+metilciclohexanol con HBr es:
+1. 1-Bromo-2-metilciclohexano.
+2. Metilciclohexano.
+3. 1-Bromo-1-metilciclohexano.
+4. 1-Metilciclohexano.
+5. Ciclohexano.
+94. El hidruro de aluminio y litio es un nucléofilo
+suficientemente fuerte para adicionarse al gru-
+po carbonilo de los iones carboxilato. Este pro-
+ceso permite la obtención de:
+1. Alcoholes primarios.
+2. Alcoholes secundarios.
+3. Alcoholes terciarios.
+4. Cetonas.
+5. Éteres.
+95. La reacción entre una cetona y un reactivo de
+Grignard origina, tras hidrolizarse la sal for-
+mada, un:
+11 -
+1. Éster carboxílico.
+2. Alcohol.
+3. Éter.
+4. Aldehído.
+5. Acido carboxílico.
+96. En la sustitución electrofílica aromática con un
+anillo bencénico monosustituido, los halógenos
+son:
+1. Orto/para dirigentes pero activantes.
+2. Meta dirigentes pero activantes.
+3. Meta/para dirigentes pero activantes.
+4. Orto/meta dirigentes pero activantes.
+5. Orto/para dirigentes pero desactivantes.
+97. La reducción de Clemensen transforma un
+carbonilo en un metileno, usando:
+1. Tioacetal e hidrogeneración posterior.
+2. Hidrazina.
+3. Disolución concentrada caliente de hidróxido
+sódico.
+4. Zinc metal en ácido clorhídrico.
+5. Amalgama de sodio.
+98. La reacción de 1H-indol con electrófilos tiene
+lugar de forma selectiva sobre el átomo en posi-
+ción :
+1. 1.
+2. 2.
+3. 3.
+4. 4.
+5. 5.
+99. Los iones enolato experimentan adición conju-
+gada a aldehídos y cetonas α,β-insaturados,
+reacción que se conoce como:
+1. Adición de Michael.
+2. Adición de Prins.
+3. Transposición de Cope.
+4. Adición radicalaria.
+5. Transposición de Beckman.
+100. El calentamiento de trans, cis, trans-2,4,6-
+octatrieno da lugar a:
+1. trans, trans, trans-2,4,6-Octatrieno.
+2. cis, cis, cis-2,4,6-Octatrieno.
+3. No hay reacción.
+4. trans-5,6-Dimetil-1,3-ciclohexadieno.
+5. cis-5,6-Dimetil-1,3-ciclohexadieno.
+101. Las condiciones de reacción para la prepara-
+ción de 2-metil-2-metoxipropan-1-ol a partir de
+2,2-dimetiloxirano son:
+1. Metanol en medio ácido.
+2. Hidruro de litio y aluminio en metanol.
+3. Bromuro de metilmagnesio e hidrólisis poste-
+rior.
+- 1
+4. Metóxido de sodio en metanol.
+5. Trifenilfosfina en metanol.
+102. El efecto estabilizador de los grupos alquilo
+sobre los enlaces 𝝅 adyacentes se explica en
+términos de:
+1. Isomería.
+2. Mesomería.
+3. Efecto inductivo.
+4. Hiperconjugación.
+5. Estereoisomería.
+103. El producto de reacción de la ciclohexanona con
+bromo catalizado por una base es:
+1. 2-Bromociclohexanona.
+2. 2,2-Dibromociclohexanona.
+3. 2,2,6-Tribomociclohexanona.
+4. 1,1-Dibromociclohexano.
+5. 2,2,6,6-Tetrabromociclohexanona.
+104. De los siguientes mecanismos de reacción ¿en
+cuál se produce una inversión de la configura-
+ción desde el reactivo al producto de la reac-
+ción?:
+1. Sustitución nucleofílica bimolecular (S 2).
+N
+2. Eliminación unimolecular (E ).
+1
+3. Sustitución nucleofílica unimolecular (S 1).
+N
+4. Adición Markovnikov.
+5. Adición anti-Markovnikov.
+105. Las reglas de nomenclatura sistemática de la
+IUPAC otorgan prioridad como función princi-
+pal, de entre los siguientes grupos funcionales,
+a:
+1. Aminas.
+2. Ácidos carboxílicos.
+3. Nitrilos.
+4. Éteres carboxílicos.
+5. Aldehídos.
+106. La condensación aldólica da origen a:
+1. Amidas α,β-insaturadas.
+2. Amidas saturadas.
+3. Compuestos carbonílicos α,β-insaturados.
+4. Compuestos quirales.
+5. Compuestos carbonílicos β,γ-insaturados.
+107. Por reacción de carbonilos con amina primarias
+y secundarias se obtienen:
+1. Iminas y oximas.
+2. Iminas y enaminas.
+3. Oxazonas e hidrazonas.
+4. Semicarbazonas y nitronas.
+5. Ninguna de las anteriores.
+108. El denominado “Gas de síntesis” que se utiliza
+para la preparación de metanol en gran escala
+consiste en una mezcla a presión de:
+12 -
+1. CO e hidrógeno.
+2
+2. CO, hidrógeno y agua.
+3. CO hidrogeno y agua.
+2,
+4. CO e hidrógeno.
+5. Ninguna de las anteriores.
+109. Un compuesto que presenta un esqueleto hete-
+rocíclico aromático de cinco miembros con tres
+átomos de carbono y dos nitrógenos, estos últi-
+mos es posiciones 1 y 3, se denomina:
+1. Pirrol.
+2. Pirimidina.
+3. Pirazol.
+4. Pirazolidina.
+5. Imidazol.
+110. En espectrometría de masas, el patrón de frag-
+mentación más habitual es la ruptura en α, que
+escinde el enlace alquilo contiguo al carbonilo
+para dar:
+1. El correspondiente catión acilio y un radical
+alquilo.
+2. El correspondiente anión acilio y un radical
+alquilo.
+3. El correspondiente radical acilio y un radical
+alquilo.
+4. El correspondiente catión acilio y un catión
+alquilo.
+5. El correspondiente anión acilio y un anión
+alquilo.
+111. ¿Cuál de los siguientes compuestos tiene mayor
+carácter básico?:
+1. Hidróxido sódico.
+2. Etóxido sódico.
+3. Amiduro sódico.
+4. Bicarbonato sódico.
+5. Carbonato sódico.
+112. El reordenamiento de Cope es un reordena-
+miento:
+1. De un alil vinil éter.
+2. [1,3]-sigmatrópico.
+3. [1,2]-sigmatrópico.
+4. [3,3]-sigmatrópico.
+5. Es una cicloadición [4+2].
+113. Un método industrial muy importante para la
+formación de enlaces carbono-nitrógeno es la
+transposición de Beckman, una reacción que
+transforma:
+1. Una cetona en una piridina.
+2. Una oxima en una amina.
+3. Un aldehído en una amida.
+4. Una cetona en una amida.
+5. Una oxima en una amida.
+114. El borohidruro sódico es un reactivo que se
+- 1
+utiliza en Química Orgánica por sus propieda-
+des como:
+1. Reductor.
+2. Oxidante.
+3. Alquilante.
+4. Ácido.
+5. Organometálico.
+115. La reacción de un alqueno con ácido metaclo-
+roperbenzoico origina un éter cíclico que se
+denomina:
+1. Furano.
+2. Dioxano.
+3. Epóxido.
+4. Azirano.
+5. Lactona.
+116. El tipo de transporte de membrana que usa
+gradientes iónicos como fuente de energía es:
+1. Difusión facilitada.
+2. Transporte pasivo.
+3. Transporte activo primario.
+4. Transporte activo secundario.
+5. Difusión simple.
+117. ¿Cuál de los siguientes enlaces covalentes no
+aparece en las proteínas?:
+1. Enlace fosfodiéster.
+2. Enlace amida.
+3. Enlace O-glucosídico.
+4. Enlace disulfuro.
+5. Enlace de hidrógeno.
+118. Un lugar promotor en el ADN:
+1. Transcribe el represor.
+2. Inicia la transcripción.
+3. Codifica la ARN polimerasa.
+4. Regula la terminación.
+5. Traduce proteínas específicas.
+119. ¿Cuál de los siguientes compuestos no puede
+servir como precursor para la síntesis de gluco-
+sa vía gluconeogénesis?:
+1. Acetato.
+2. Glicerol
+3. Lactato.
+4. Oxalacetato.
+5. α-cetoglutarato.
+120. El primer paso en el plegamiento de cadenas
+polipetídicas desordenadas es:
+1. Formación de la estructura primaria.
+2. Formación de puentes disulfuro.
+3. Formación de agregados.
+4. Modificaciones postraduccionales.
+5. Formación de elementos de estructura secun-
+daria.
+13 -
+121. ¿Qué ARN Polimerasa eucariota está implicada
+en la transcripción del ARN mensajero
+(ARNm)?:
+1. ARN Polimerasa I.
+2. ARN Polimerasa II.
+3. ARN Polimerasa III.
+4. ARN Polimerasa IV.
+5. La transcripción del ARNm se lleva a cabo
+de manera conjunta por la ARN Polimerasa I
+y ARN Polimerasa II.
+122. Cuál de las siguientes enzimas cataliza la fosfo-
+rilación utilizando fosfato inorgánico:
+1. Hexoquinasa.
+2. Fosfofructoquinasa.
+3. Gliceraldehído-3-fosfato deshidrogenasa.
+4. Fosfoglicerato quinasa.
+5. Piruvato quinasa.
+123. ¿Cuál de las siguientes afirmaciones NO es
+cierta acerca del glucagón?:
+1. Activa la glucogenogénesis hepática.
+2. Activa la lipólisis en el tejido adiposo blanco.
+3. Activa la glucogenolisis hepática.
+4. Es un polipéptido.
+5. Se sintetiza en las células α de los islotes de
+Langerhans del páncreas.
+124. ¿Cómo se denominan las proteínas implicadas
+en el enrollamiento y compactación del ADN?:
+1. Quinasas.
+2. Topoisomerasas.
+3. Histonas.
+4. Fosfatasas.
+5. ADN nucleasas.
+125. La insulina regula la síntesis de ácidos grasos:
+1. Activando la fosforilasa.
+2. Desfosforilando la acetil CoA carboxilasa.
+3. Inhibiendo la formación de malonil CoA.
+4. Controlando la actividad carnitina-acil CoA
+transferasa.
+5. Activando la ácido graso sintetasa.
+126. La fosforilación oxidativa conlleva:
+1. La oxidación de H O para formar O .
+2 2
+2. La oxidación de O para formar H O.
+2 2
+3. La reducción de H O para dar O .
+2 2
+4. La reducción de O para dar H O.
+2 2
+5. Ninguna de las anteriores.
+127. La glucogenina:
+1. Cataliza la conversión de almidón en glucó-
+geno.
+2. Es la enzima responsable de la formación de
+ramificaciones en el glucógeno.
+- 1
+3. Es el gen que codifica la glucógeno sintasa.
+4. Es el cebador sobre el que se inician nuevas
+cadenas de glucógeno.
+5. Regula la síntesis de glucógeno.
+128. Las bases nitrogenadas alteradas o minorita-
+rias:
+1. No se detectan en el ADN.
+2. No se detectan en el ARN.
+3. Protegen la información genética.
+4. No se detectan en el tARN.
+5. No son capaces de aparearse.
+129. El precursor de todos lo nucleótidos pirimidíni-
+cos de la célula es la :
+1. Uridina monofosfato (UMP).
+2. Timidina monofosfato (TMP).
+3. Citidina monofosfato (cmp).
+4. Inosina monofosfato (IMP).
+5. Guanidina monofosfato (GMP).
+130. Todas la afirmaciones siguientes describen ca-
+racterísticas del enlace peptídico EXCEPTO:
+1. Tiene una configuración trans.
+2. Es polar pero sin carga.
+3. Forma un enlace sencillo uniendo directamen-
+te los carbonos α de aminoácidos adyacentes.
+4. No presenta rotación alrededor del enlace.
+5. Es plano.
+131. El CO es tóxico para los organismos aerobios:
+1. Porque oxida los grupos OH de la hemoglo-
+bina, evitando que esta pueda fijar O correc-
+2
+tamente.
+2. Porque entra en la mitocondria, recogiendo
+los electrones de la cadena de transporte con
+menor eficiencia que el O .
+2
+3. Porque se une al grupo hemo con mayor afi-
+nidad que el O .
+2
+4. Porque al tener un mayor carácter dipolar, es
+más soluble que el O en sangre y bloquea el
+2
+intercambio de O entre aire y sangre a nivel
+2
+de los pulmones.
+5. Ninguna de las anteriores es correcta.
+132. El piridoxal fosfato es un grupo prostético de
+las enzimas implicadas en reacciones de:
+1. Acetilación.
+2. Desulfatación.
+3. Metilación.
+4. Reducción.
+5. Transaminación.
+133. Cuál de los compuestos siguientes en un inter-
+mediario fundamental de la síntesis de triacil-
+gliceroles y fosfolípidos:
+1. CDP-colina.
+2. Fosfatidato.
+14 -
+3. Triglicérido.
+4. Fosfatidilserina.
+5. CDP-diacilglicerol.
+134. A pH neutro, una mezcla de aminoácidos en
+disolución serían predominantemente:
+1. Iones dipolares.
+2. Moléculas no polares.
+3. Positivos y monovalentes.
+4. Hidrófobos.
+5. Negativos y monovalentes.
+135. Los fosfatidilinositoles:
+1. Son derivados de los glucocerebrósidos.
+2. Actúan como señales intracelulares.
+3. Son lípidos lisosomales.
+4. Son detergentes biológicos.
+5. Contienen taurina o glicina.
+136. Durante la fosforilación oxidativa, la fuerza
+protón-motriz que se genera por el trasporte
+electrónico se usa para:
+1. Crear un poro en la membrana mitocondrial
+interna.
+2. Generar los sustratos (ADP y Pi) para la ATP
+sintasa.
+3. Inducir un cambio conformacional en la ATP
+sintasa.
+4. Oxidar NADH a NAD+.
+5. Reducir O a H O.
+2 2
+137. Cuál de los compuestos siguientes transfiere
+grupos acilo:
+1. Pirofosfato de tiamina.
+2. Lopoamida.
+3. ATP.
+4. NADH.
+5. FADH.
+138. Indique cuál de las siguientes afirmaciones es
+cierta acerca de la bilirrubina:
+1. Es un producto catabólico del grupo hemo.
+2. Es un producto del ciclo de la urea.
+3. Es un intermediario del ciclo de Krebs.
+4. Es un precursor de la gluconeogénesis hepáti-
+ca.
+5. Es un producto de degradación del colesterol.
+139. Cuál de las afirmaciones siguientes sobre los
+esfingolípidos es CIERTA:
+1. Pueden presentar carga, pero no son molécu-
+las anfipáticas.
+2. Están formados por glicerol y ácidos grasos.
+3. Contienen dos ácidos grasos esterificados.
+4. Los cerebrósidos y los ganglósidos son esfin-
+golípidos.
+5. Los terpenos son los principales esfingolípi-
+dos.
+- 1
+140. En la β-oxidación de ácidos grasos de cadena
+impar, ¿cuál es la molécula que se forma con los
+tres últimos carbonos para entrar en el ciclo del
+ácido cítrico?:
+1. Propionil-CoA.
+2. Metilmalonil-CoA.
+3. Succinil-CoA.
+4. Succinato.
+5. Malato.
+141. Cuál de los intermediarios siguientes puede
+aislarse en las levaduras que fermentan vino y
+no en el músculo sano:
+1. Lactato.
+2. Acetaldehído.
+3. Acetil CoA.
+4. Citrato.
+5. Oxalacetato.
+142. Indicar cuál de los siguientes compuestos tiene
+acción antioxidante:
+1. Vitamina B.
+2. Vitamina D.
+3. Vitamina E.
+4. Todos los anteriores.
+5. Ninguno de los anteriores.
+143. En la secuenciación de ADN por el método de
+Sanger:
+1. Los 2`-3` didesoxinucleótidos son esenciales.
+2. Hay que usar inhibidores suicidas de la ADN
+polimerasa.
+3. El ADN debe mantener su estructura de doble
+hélice.
+4. El ADN es hidrolizado selectivamente.
+5. Son fundamentales las endonucleasas de res-
+tricción.
+144. En contraste con los bacterianos, los cromoso-
+mas eucarióticos necesitan múltiples orígenes de
+replicación porque:
+1. No pueden replicarse bidireccionalmente.
+2. No suelen ser circulares.
+3. La procesividad de la ADN polimerasa eu-
+cariótica es muy inferior a la de la bacteriana.
+4. Su tasa de replicación es mucho más lenta, y
+necesitarían demasiado tiempo usando un so-
+lo origen.
+5. Tienen varias ADN polimerasas para distintos
+propósitos, y necesitan la correspondiente va-
+riedad de orígenes.
+145. La estimulación hormonal de la formación del
+segundo mensajero inositol 1,4,5-trisfosfato
+(IP ) conduce rápidamente a la liberación de
+3
+qué otro mensajero intracelular:
+1. AMP cíclico.
+15 -
+2. Prostaglandina.
+3. Calcio.
+4. Leucotrieno.
+5. Tromboxano.
+146. El alopurinol, como inhibidor de la xantina
+oxidasa:
+1. Es de tipo suicida, reversible.
+2. Es de tipo suicida, irreversible.
+3. Es de tipo análogo del estado de transición,
+reversible.
+4. Inhibe la enzima mediante proteólisis.
+5. El alopurinol no inhibe esa enzima.
+147. Sobre la biología molecular del cáncer:
+1. Los oncogenes son derivados mutados de
+genes normales, llamados protooncogenes,
+cuya función es promover la proliferación o
+supervivencia celular.
+2. Los oncogenes son genes que sintetizan pro-
+teínas que inhiben la proliferación celular.
+3. Los genes supresores de tumores sintetizan
+proteínas que inhiben la muerte celular.
+4. Los protooncogenes sintetizan proteínas que
+promueven la muerte celular.
+5. La apoptosis es una forma de activación de
+los protooncogenes.
+148. De las siguientes afirmaciones de la cadena
+trasportadora de electrones. ¿Cuál es verdade-
+ra?:
+1. Una molécula de FADH puede generar hasta
+2.5 moléculas de ATP.
+2. Una molécula de NADH puede generar hasta
+1.5 moléculas de ATP.
+3. Los electrones fluyen de potenciales de re-
+ducción más positivos a potenciales de reduc-
+ción más negativos.
+4. El complejo II (utilizado por el FADH ) no
+2
+transfiere protones al espacio intermembrana.
+5. El complejo III utiliza como cofactores áto-
+mos de cobre (Cu).
+149. Para cuál de los pasos siguientes de la síntesis
+de proteínas se necesita GTP (Guanosina trios-
+fato):
+1. Activación de los aminoácidos por las ami-
+nioacil-ARNt sintetasas.
+2. Unión de los ribosomas al retículo endoplás-
+mico.
+3. Translocalizacion del complejo naciente
+ARNt-proteína desde el lugar A al lugar P.
+4. Unión de los ARNm.
+5. Unión de la proteína de reconocimiento de la
+señal a los ribosomas.
+150. El primosoma:
+1. También se denomina primasa o proteína Dna
+G.
+- 1
+2. Es el complejo responsable de la síntesis de
+los fragmentos de Okazaki.
+3. Es una ADN ligasa bacteriana.
+4. Se localiza en la mitocondria.
+5. Es una unidad funcional del complejo de re-
+plicación bacteriano.
+151. La glucólisis y la gluconeogénesis hepática se
+regulan de modo recíproco por mecanismos
+hormonales facilitados, además de por un me-
+tabolito importante que determina si la glucosa
+debe ser sintetizada o degradada. ¿Cuál es?:
+1. Fructosa 6-fostato.
+2. Fructosa 1,6-bisfosfato.
+3. Fructosa 2,6-bisfosfato.
+4. Piruvato.
+5. Lactato.
+152. ¿Cuál de las siguientes enzimas actúa en la ruta
+de las pentosas fosfato?:
+1. Aldolasa.
+2. Glucosa 6-fosfato deshidrogenasa.
+3. Glucógeno fosforilasa.
+4. Fosfofructoquinasa-1.
+5. Piruvato quinasa.
+153. Cuál de las siguientes hebras del ADN tiene la
+misma secuencia de nucleótidos (excepto el
+cambio de T por U) que su transcrito primario:
+1. La hebra codificante.
+2. La hebra molde.
+3. La hebra adelantada.
+4. La hebra retardada.
+5. Ninguna.
+154. Cuál de los pasos siguientes de la biosíntesis de
+colesterol es el que controla la velocidad y el
+lugar de regulación metabólica:
+1. Geranil pirofosfato Farnesil pirofosfato.
+2. Escualeno  Lanosterol
+3. Lanosterol  Colesterol.
+4. Acetil CoA  Acetoacetil CoA.
+5. 3-Hidroxi-3-metilglutaril CoA Ácido
+mevalónico.
+155. En la ruta de biosíntesis de purinas:
+1. El precursor es la ribulosa 5-fosfato.
+2. La inhibición de la AICAR genera el síndro-
+me de Lesch- Nyham.
+3. Se genera como producto final inosina.
+4. El principal punto de regulación es a nivel de
+la carbamoil fostato sintetasa II.
+5. El principal punto de regulación es a nivel de
+la AICAR transformilasa.
+156. ¿Cómo se llama la parte del antígeno que es
+reconocida por el anticuerpo?:
+1. Ectópico.
+16 -
+2. Epímero.
+3. Epíteto.
+4. Epítopo.
+5. Endógeno.
+157. El incremento de energía libre estándar de la
+hidrólisis de ATP depende, entre otros, de la
+siguiente característica estructural:
+1. Su carácter polar.
+2. Su naturaleza anfipática.
+3. Su estabilización por resonancia.
+4. Del número de grupo fosforilo que contiene.
+5. Del catión con el que forma la sal soluble.
+158. En la síntesis hepática de metionina a partir de
+homocisteína se requiere:
+1. N5,N10 metenil-tetrahidrofolato.
+2. N10-formil-tetrahidrofolato.
+3. N5-formimino-tetrahidrofolato.
+4. N5-metil-tetrahidrofolato.
+5. N5,N10 metileno-tetrahidrofolato.
+159. En relación con la estructura de los genomas,
+los intrones :
+1. Se presentan frecuentemente en los genomas
+procarióticos.
+2. Puede haber varios en un mismo gen.
+3. Codifican aminoácidos raros en las proteínas.
+4. Son transcritos y traducidos.
+5. Tienen un alto contenido en pares G:C.
+160. Transporte electrónico mitocondrial y fosforila-
+ción oxidativa:
+1. Son dos procesos distintos, pero acoplados.
+Sin transporte electrónico nunca habrá fosfo-
+rilación oxidativa.
+2. Sin fosforilación oxidativa nunca podrá ha-
+ber transporte electrónico.
+3. El rendimiento neto de la fosforilación oxida-
+tiva es de aproximadamente 2.5 moles de
+ATP por mol de FADH .
+2
+4. El cianuro es tóxico porque se une a la ATP
+sintasa.
+5. Los agentes desacoplantes inhiben la ATP
+sintasa.
+161. La fracción glucídica de los glicolípidos de la
+membrana de las células eucarióticas:
+1. Se localiza en la cara citoplasmática de la
+membrana.
+2. Tiene siempre ácido siálico.
+3. Se sintetizan por acción de varias glicosil
+transferasas.
+4. Es un oligómero de gluocosa.
+5. No tiene poder antigénico.
+162. ¿Cuál de las siguientes enzimas cataliza una
+reacción hidrolítica?:
+- 1
+1. Lactato deshidrogenasa.
+2. Quimotripsina.
+3. Fumarasa.
+4. Triosa fosfato isomerasa.
+5. ARN polimerasa.
+163. Las endonucleasas de restricción de tipo II es-
+cinden la molécula de ADN:
+1. Dentro de su secuencia de reconocimiento.
+2. Aleatoriamente.
+3. Fuera de la secuencia de reconocimiento.
+4. En el extremo 5´.
+5. En el extremo 3´.
+164. El ADN recombinante es:
+1. Una molécula de ADN que activa la recombi-
+nación heteróloga.
+2. Una molécula de ARN mensajero precursor.
+3. Una molécula de ADN compuesta de seg-
+mentos unidos covalentemente procedentes
+de dos o más fuentes.
+4. Una molécula de ADN diploide.
+5. Un complejo multienzimático de ADN poli-
+merasas unidas covalentemente.
+165. La actividad de corrección de pruebas de la
+ADN Polimerasa es una actividad:
+1. Exonucleasa 5´-3´.
+2. Exonucleasa 3´-5´.
+3. Polimerizante 5´-3´.
+4. Endonucleasa.
+5. Transesterificadora.
+166. La modificación diferencial del ARN:
+1. Puede dar lugar a múltiples productos a partir
+de un gen.
+2. Se produce gracias a la burbuja de transcrip-
+ción.
+3. Está catalizada por la ARN polimerasa I.
+4. Está catalizada por la ARN polimerasa II.
+5. Está catalizada por la ARN polimerasa III.
+167. Las proteínas nuevas destinadas a la secreción
+se sintetizan en:
+1. Aparato de Golgi.
+2. Retículo endoplásmico liso.
+3. Polisomas libres.
+4. Núcleo.
+5. Retículo endoplásmico rugoso.
+168. Cuál de las siguientes membranas sería más
+fluida:
+1. Bicapa de lípidos con ácidos grasos poliinsa-
+turados de 18 átomos de carbono.
+2. Bicapa de lípidos con ácidos grasos saturados
+de 18 átomos de carbono.
+3. Bicapa de lípidos con ácidos grasos saturados
+de 16 átomos de carbono.
+17 -
+4. Bicapa de lípidos con ácidos grasos poliinsa-
+turados de 16 átomos de carbono.
+5. Todas son equivalentes en cuanto a fluidez.
+169. La desnaturalización del ADN:
+1. Aumenta al disminuir la temperatura.
+2. Se acompaña por un aumento de la absorción
+de luz UV.
+3. Los ADN con alto contenido en G/C lo hacen
+a menor temperatura que los ricos en A/T.
+4. Es irreversible.
+5. Indica la hidrólisis de los enlaces fosfodiéster.
+170. Que coenzima se utiliza en las reacciones de
+transaminación de los aminoácidos:
+1. FAD.
+2. Biotina.
+3. Piridoxal.
+4. NAD+.
+5. NADP+.
+171. En el estudio de las proteínas. ¿Cuál es el pro-
+pósito del tratamiento con β-mercaptoetanol?:
+1. Hidrolizar la proteína.
+2. Romper los puentes disulfuro.
+3. Añadir cargas positivas.
+4. Añadir cargas negativas.
+5. General un derivado de aminoácidos en la
+degradación de Edman.
+172. La catalasa:
+1. Actúa sobre el peróxido de hidrógeno.
+2. Da lugar a la formación de peróxido de hi-
+drógeno.
+3. Actúa sobre el anión superóxido.
+4. Convierte el peróxido de hidrógeno en anión
+superóxido.
+5. Utiliza el glutatión como cofactor.
+173. ¿Qué sucede con los parámetros cinéticos de
+una enzima michaeliana en presencia de un
+inhibidor competitivo?:
+1. V disminuye, K aumenta.
+max m
+2. V disminuye, K disminuye.
+max m
+3. V disminuye, K no varía.
+max m
+4. V no varía, K aumenta.
+max m
+5. V no varía, K disminuye.
+max m
+174. Cuál de los productos siguientes de la degrada-
+ción de los triglicéridos y la posterior β-
+oxidación puede experimentar gluconeogénesis:
+1. Propionil CoA.
+2. Acetil CoA.
+3. Todos los cuerpos cetónicos.
+4. Algunos aminoácidos.
+5. β-Hidroxibutirato.
+175. El centro activo de una enzima:
+- 1
+1. Está formado por grupos funcionales que
+provienen de la secuencia de aminoácidos
+central de la enzima.
+2. Constituye una gran parte del volumen total
+de la enzima.
+3. Aumenta la ∆G de una reacción, aumentando
+la velocidad de la misma.
+4. Presenta junto a los aminoácidos una elevada
+cantidad de moléculas de agua.
+5. Es la región que se une a los sustratos y con-
+tiene los residuos que participan en la forma-
+ción y ruptura de enlaces.
+176. Un modulador alostérico influye en la actividad
+de una enzima:
+1. Compitiendo con un sustrato por el sitio cata-
+lítico.
+2. Uniéndose a la enzima en un sitio distinto al
+sitio catalítico.
+3. Cambiando la naturaleza del producto forma-
+do.
+4. Cambiando la especificidad de la enzima por
+el sustrato.
+5. Desnaturalizando la enzima.
+177. ¿Por qué es verde la clorofila?:
+1. Absorbe todas las longitudes de onda del es-
+pectro visible.
+2. Absorbe longitudes de onda solo de las partes
+roja y ultrarroja del espectro (680nm,
+700nm).
+3. Absorbe longitudes de onda en las partes roja
+y azul del espectro visible.
+4. Absorbe longitudes de onda solo de la parte
+azul del espectro visible.
+5. Absorbe en el ultravioleta próximo.
+178. La transcetolasa cataliza la transformación de
+ribosa-5-fostato y xilulosa-5-fosfato en:
+1. Dos moléculas de ribulosa-5-fostato.
+2. Sedoheptulosa-7-fosfato y gliceraldehido-3-
+fosfato.
+3. Fructosa-6-fosfato y eritrosa-4-fosfato.
+4. Gliceraldehido-3-fosfato y glucosa-6-fosfato.
+5. 6-Fosfogluconato y gliceraldehido-3-fosfato.
+179. En el estrés oxidativo es característico:
+1. Disminución de la concentración de glutatión
+oxidado.
+2. Aumento de la concentración de glutatión
+reducido.
+3. Disminución de la producción de especies
+reactivas de oxígeno.
+4. Aumento de la producción de especies reacti-
+vas de oxígeno.
+5. Ninguna de las anteriores es cierta.
+180. Qué aminoácido es precursor de neurotransmi-
+siones como dopamina, adrenalina y noradrena-
+18 -
+lina?:
+1. Triptófano.
+2. Serina.
+3. Tirosina.
+4. Aspártico.
+5. Glutámico.
+181. ¿Cuál de los siguientes compuestos actúa como
+agente reductor en la biosíntesis de ácidos gra-
+sos?:
+1. NADH.
+2. NADPH.
+3. FAD+.
+4. FADH.
+5. NADP+.
+182. Si un organismo animal tuviera deficiencias en
+la ruta de las pentosas fosfato:
+1. Habría un exceso de actividad de la enzima
+glutatión reductasa.
+2. Las pentosas fosfato se integrarían en la ruta
+glicolítica.
+3. Se utilizaría NADH en sustitución de
+NADPH.
+4. Se estimularía la síntesis de ácidos grasos en
+el tejido adiposo.
+5. Descendería la concentración de NADPH.
+183. La hoja plegada β:
+1. Está formada por una sola cadena polipetídi-
+ca.
+2. Presenta una distancia entre aminoácidos
+adyacentes de aproximadamente 4 ångströms.
+3. Se forma por la unión de dos o más hebras
+mediante puentes de hidrógeno.
+4. Presenta las cadenas laterales de aminoácidos
+contiguos apuntando hacia el mismo lado.
+5. Son de dos tipos: paralela, donde las cadenas
+de la hoja β van en distinto sentido y antipara-
+lela, donde van en el mismo sentido.
+184. ¿En qué parte de la célula se sintetiza el ARN
+ribosómico?:
+1. Nucléolo.
+2. Ribosomas.
+3. Vacuolas.
+4. Aparato de Golgi.
+5. Retículo endoplasmático.
+185. La arginosuccinasa:
+1. En una enzima del ciclo del ácido cítrico.
+2. Convierte arginina en lisina.
+3. Se activa por el efector alostérico
+N-acetilglutamato.
+4. Produce fumarato.
+5. Es un aminoácido glucogénico.
+186. En los animales, ¿dónde se sintetiza la mayoría
+- 1
+de los componentes del material extracelular?:
+1. En el retículo endoplasmático liso.
+2. En el retículo endoplasmático rugoso.
+3. En la propia capa extracelular.
+4. En la membrana plasmática.
+5. En el citoplasma de la célula.
+187. ¿Cuál es la función de la helicasa en la replica-
+ción?:
+1. Unirse al ADN monocatenario para evitar que
+se forme de nuevo la doble hélice.
+2. Catalizar la unión de nucleótidos.
+3. Corregir los errores que se producen en la
+replicación.
+4. Sintetizar un cebador para iniciar la replica-
+ción.
+5. Separar mecánicamente las hebras del ADN
+de doble cadena.
+188. El óxido nítrico:
+1. Se sintetiza a partir de metionina.
+2. Activa la proteinquinasa dependiente de
+AMPc (PKA).
+3. Se une a receptores acoplados a proteínas G
+(GPCR).
+4. Induce relajación del endotelio vascular.
+5. Se une a receptores con actividad proteína
+tirosina quinasa (PTK).
+189. El proteasoma:
+1. Está formado por 21 subunidades homólogas
+organizadas en 3 anillos.
+2. Es un complejo proteico que cataliza la hidró-
+lisis de proteínas ubicuitinadas.
+3. Se encuentra únicamente en las células euca-
+riotas animales.
+4. Digiere proteínas aciladas.
+5. Es activado por un medicamento, el berte-
+zomil, en la terapia para el mieloma múltiple.
+190. Respecto de las telomerasas ¿cuál de las si-
+guientes afirmaciones no es cierta?:
+1. Tienen actividad transcriptasa inversa.
+2. Previenen el acortamiento de los telómeros.
+3. Su defecto promueve la carcinogénesis.
+4. Su actividad es esencial para la estabilidad de
+los cromosomas.
+5. Son ribozimas.
+191. Una persona que presenta en orina una [Urea]
+elevada, posiblemente lleva una dieta:
+1. Muy baja en hidratos de carbono y muy ele-
+vada en proteínas.
+2. Muy elevada en grasas y baja en proteínas.
+3. Equilibrada excepto en hidratos de carbono.
+4. Moderada en hidratos de carbono y equilibra-
+da en grasas y proteínas.
+5. Muy alta en hidratos de carbono y muy baja
+19 -
+en proteínas.
+192. El ciclo de la urea:
+1. Supone la degradación de la urea.
+2. Fue propuesto por Hatch y Slack.
+3. Contiene una reacción que transforma la ci-
+trulina en ornitina.
+4. Está íntimamente ligado a la glucolisis.
+5. Comienza con la formación de carbamilfosfa-
+to.
+193. La velocidad de la cadena de transporte de
+electrones:
+1. Depende de la concentración de oxígeno.
+2. Aumenta cuando aumenta la concentración de
+ATP.
+3. Está determinada por la necesidad de ATP.
+4. Es independiente de la fosforilación de ADP.
+5. Aumenta cuando se eleva la concentración de
+NADH y FADH .
+2
+6.
+194. Las enzimas de restricción hidrolizan enlaces:
+1. Fosfodiéster.
+2. Glucosídicos.
+3. Peptídicos.
+4. Iónicos.
+5. Por puentes de hidrógeno.
+195. En los seres humanos, la síntesis de aspartato a
+partir de oxalacetato está catalizada por:
+1. Oxalacetato descarboxilasa.
+2. Aspartato sintetasa.
+3. Aspartato deshidrogenasa.
+4. Transaminasa dependiente de piridoxal fosta-
+to.
+5. Oxalacetato ligasa.
+196. Los micro ARN (miARN):
+1. Son ARN codificantes.
+2. Inhiben la transcripción.
+3. Inhiben la traducción.
+4. Activan la transcripción.
+5. Activan la traducción.
+197. ¿Qué característica no es común en las mem-
+branas biológicas?:
+1. Son fluidas.
+2. Están compuestas por lípidos y proteínas.
+3. Son asimétricas.
+4. Están eléctricamente polarizadas.
+5. Los diversos componentes se ensamblan co-
+valentemente.
+198. Los átomos de hidrógeno con carga parcial
+positiva de una molécula de agua pueden inter-
+accionar con los átomos de oxígeno, con carga
+parcial negativa de otra molécula de agua. ¿Qué
+nombre recibe esta interacción? :
+- 2
+1. Hidrofóbica.
+2. Polar.
+3. Puente de Hidrógeno.
+4. Van der Wall.
+5. Zwitterion.
+199. En relación con la replicación del ADN, el ter-
+mino procesividad indica:
+1. Tasa de error de la polimerasa.
+2. Deleción de una o más bases en el DNA.
+3. Especificidad en la velocidad de replicación.
+4. Capacidad de la enzima para catalizar múlti-
+ples reacciones consecutivas sin desprenderse
+del sustrato.
+5. 1,2 y 3.
+200. En la síntesis hepática de metionina a partir de
+homocisteína se requiere:
+1. Metilmalonil-CoA mutasa.
+2. Metilcobalamina.
+3. 5´-Adenosilcobalamina.
+4. Coenzima B6.
+5. Metionina adenosil transferasa.
+201. La hidrólisis del fosfatidilinositol 4,5- bisfosfato
+(PIP ) por parte de la fosfolipasa C genera los
+2
+siguientes segundos mensajeros:
+1. Inositol 1,4,5-trisfosfato y triacilglicerol.
+2. Inositol 1,4, 5-trisfosfato y glicerol.
+3. Inositol 1,4, 5-trisfosfato y diacilglicerol.
+4. Inositol 4,5-bisfosfato y diacilglicerol.
+5. Inositol 4,5-bisfosfato y glicerol.
+202. Las LDL:
+1. Transportan colesterol a los tejidos.
+2. Transportan colesterol al hígado.
+3. Transportan colesterol “bueno”.
+4. Niveles bajos en sangre están asociados a
+menor riesgo de ataque cardiaco.
+5. Tienen una densidad alta.
+203. ¿Qué tipo de cadenas laterales de los aminoáci-
+dos competirán con los iones salinos por el agua
+de solvatación?:
+1. Apolares.
+2. Alifáticas.
+3. Aromáticas.
+4. Polares.
+5. Sin carga.
+204. ¿Cuál es el primer nivel de organización del
+ADN en los cromosomas’:
+1. Histonas.
+2. Nucleosomas.
+3. Cadenas azúcar-fosfato.
+4. Proteosomas.
+5. Nucleótidos.
+20 -
+205. ¿Qué proceso no está relacionado con un gra-
+diente de protones?:
+1. Fosforilación oxidativa.
+2. Síntesis de NADPH.
+3. Glucolisis.
+4. Producción de calor.
+5. Transporte activo.
+206. Los tromboxanos:
+1. Inducen la agregación plaquetaria.
+2. Inhiben la agregación plaquetaria.
+3. Actúan como broncodilatadores en el sistema
+respiratorio.
+4. Se producen en las membranas de todas las
+células.
+5. Son derivados de los ácidos grasos saturados.
+207. ¿Qué secuencia de bases del ARN se producirá
+al transcribirse el fragmento de ADN
+AGGCCTTTACGC?:
+1. TCCGGAAATGCG.
+2. AGGCCUUUACGC.
+3. UGGCCUUUUGCG.
+4. UGGCCUUUUCGC.
+5. UCCGGAAAUGCG.
+208. La quimotripsina es una enzima digestiva con
+actividad:
+1. DNAsa.
+2. Proteasa.
+3. RNAsa.
+4. Lipasa.
+5. Glicosidasa.
+209. La biotina es un transportador de:
+1. CO .
+2
+2. Fosforilo.
+3. Acilo.
+4. Metilo.
+5. Electrones.
+210. La absorción intestinal de los hidratos de car-
+bono por las células absortivas:
+1. Se puede llevar a cabo con monosacáridos y
+disacáridos.
+2. La sacarosa es transportada por la sacarasa.
+3. La glucosa se transporta mediante difusión
+facilitada y por transporte facilitado depen-
+diente de Na+.
+4. Los transportadores facilitados de glucosa,
+que no unen Na+, se encuentran en el lado
+luminal de la célula absortiva.
+5. Glucosa y fructosa se absorben por transpor-
+tadores diferentes del de glucosa.
+211. La radiación ultravioleta cambia la estructura
+del ADN por:
+- 2
+1. Ruptura de enlaces fosfodiéster.
+2. Desaminación de las bases nitrogenadas.
+3. Despurinización.
+4. Formación de anillos ciclobutílicos de pirimi-
+dinas.
+5. Hidroxilación de las bases nitrogenadas.
+212. La apoptosis es:
+1. La senescencia celular.
+2. Una forma de muerte celular programada.
+3. La migración celular.
+4. Un modo de reprogramación celular.
+5. El proceso de diferenciación celular.
+213. El genoma mitocondrial:
+1. Es circular.
+2. Es de hebra simple.
+3. Codifica todas las proteínas mitocondriales.
+4. Forma parte del ADN nuclear.
+5. Ninguna de las anteriores.
+214. La fuente principal de colesterol extracelular de
+los tejidos humanos es:
+1. Lipoproteína de muy baja densidad (VLDL).
+2. Quilomicrones.
+3. Lipoproteína de densidad elevada (HDL).
+4. Lipoproteína de baja densidad (HDL).
+5. Lipoproteína de densidad mixta (MDL).
+215. La lipogénesis tiene lugar fundamentalmente
+en:
+1. La mitocondria´.
+2. El citosol.
+3. Los peroxisomas.
+4. Los lisosomas.
+5. Las balsas lipídicas de las membranas.
+216. Las moléculas no proteicas que unidas a la par-
+te proteica de la enzima constituyen la enzima
+completa se denominan:
+1. Cofactores.
+2. Iones metálicos.
+3. Coenzimas.
+4. Vitaminas.
+5. Grupos prostéticos.
+217. La forma B del ADN:
+1. Está formada por una doble hélice levógira
+con dos cadenas de nucleótidos antiparalelas.
+2. Es más ancha y más larga que la forma A.
+3. Tiene pares de bases nitrogenadas perpendi-
+culares al eje de la hélice.
+4. Corresponde al ADN deshidratado.
+5. Es la forma minoritaria que presenta el ADN
+en condiciones fisiológicas.
+218. La hidroxilación de residuos de Lys y Pro en el
+21 -
+colágeno requiere:
+1. Vitamina B.
+2. Vitamina A.
+3. Vitamina D.
+4. Vitamina C.
+5. Ninguna de las opciones anteriores.
+219. Con los datos de los que se dispone actualmente,
+se considera que el genoma humano contiene
+alrededor de:
+1. 2.000 genes.
+2. 20.0000 genes.
+3. 200.000 genes.
+4. 2.000.000 genes.
+5. 20.000.000 genes.
+220. Todo lo siguiente forma parte de los nucleósidos
+EXCEPTO:
+1. Grupo fosfato.
+2. Desoxirribosa.
+3. Ribosa.
+4. Pentosa.
+5. Base púrica.
+221. Todos los acontecimientos siguientes se produ-
+cen durante la formación de fosfoenolpiruvato a
+partir de piruvato EXCEPTO:
+1. Se consume CO .
+2
+2. Sale CO .
+2
+3. Se necesita CoA.
+4. Se hidroliza ATP.
+5. Se hidroliza GTP.
+222. El producto final de la ácido graso sintasa ci-
+tosólica en el ser humano es el ácido:
+1. Oleico.
+2. Araquidónico.
+3. Linoleico.
+4. Palmítico.
+5. Palmitoleico.
+223. ¿Cuál de las siguientes opciones NO es un efecto
+de la insulina?:
+1. Estimula la gluconeogénesis hepática.
+2. Estimula la captación de glucosa a nivel del
+tejido adiposo blanco.
+3. Estimula la lipogénesis a nivel del tejido adi-
+poso blanco.
+4. Estimula la glucogenogénesis en el músculo
+esquelético.
+5. Estimula la captación de glucosa a nivel mus-
+cular.
+224. ¿Cuál de las siguientes no es una vitamina lipo-
+soluble?:
+1. Vitamina A.
+2. Vitamina C.
+- 2
+3. Vitamina D.
+4. Vitamina E.
+5. Vitamina K.
+225. Sobre los radicales libres:
+1. Son compuestos que contienen dos o tres
+electrones desapareados en un orbital exte-
+rior.
+2. Las especias reactivas de oxígeno (ROS) en
+la célula solo se generan de manera enzimáti-
+ca.
+3. El peróxido de hidrógeno es el radical más
+perjudicial en la célula.
+4. El radical hidroxilo se origina de forma no
+enzimática (reacción de Heber-Weiss) y daña
+a las proteínas y al DNA.
+5. El oxígeno es un trirradical.
+226. ¿Cuál de las siguientes características del códi-
+go genético NO ES CORRECTA?:
+1. La secuencia de bases nitrogenadas de un gen
+determinado posee un marco de lectura fijo y
+sin signos de puntuación.
+2. Está degenerado, pues para muchos aminoá-
+cidos existe más de un codón que lo codifica.
+3. La degeneración del código genético supone
+un mecanismo adaptativo que reduce los efec-
+tos perjudiciales de las mutaciones.
+4. Es totalmente universal, lo que permite la
+expresión heteróloga de proteínas humanas
+(por ejemplo insulina) en organismos proca-
+riotas como E. coli.
+5. Su lectura se hace siempre desde el extremo
+5´ fosfato hacia el hidroxilo del ARN mensa-
+jero (ARNm).
+227. Los ácidos sulfónicos se convierten en cloruros
+de sulfonilo por tratamiento con:
+1. Cloruro de metileno.
+2. Cloro.
+3. Cloruro sódico.
+4. Cloruro de tionilo.
+5. Cloroformo.
+228. Las aminoacil-ARNt sintetasas:
+1. En conjunción con otra enzima, unen el ami-
+noácido al ARNt.
+2. Interaccionan directamente con los ribosomas
+libres.
+3. Existen en múltiples formas para cada ami-
+noácido.
+4. Requieren GTP para activar el aminoácido.
+5. “Reconocen” moléculas de ARNt específicas
+y aminoácidos específicos.
+229. La espectrometría de masas se combina con la
+cromatografía para generar una herramienta
+analítica muy poderosa. En lo que se refiere a la
+espectrometría de masas (MS), se puede decir
+que:
+22 -
+1. La ionización electrónica se basa en las reac-
+ciones ion-molécula entre los iones de gas
+reactivo y las moléculas de analito.
+2. El analizador de masas de cuadrupolo lineal
+consiste en cuatro cilindros que se colocan en
+paralelo de forma que se cargan positiva y
+negativamente de forma alternativa.
+3. El analizador de tiempo de vuelo se basa en
+un tubo de material altamente cargado de
+forma que solo entran y se separan los iones
+de carga contraria.
+4. La trampa de iones puede colocarse al final
+de la columna cromatográfica para iones mo-
+leculares a partir de los analitos ya separados
+e impactar en la pantalla de un detector ra-
+diactivo.
+5. El método de ionización conocido como
+MALDI se basa en la desorción de iones de
+una matriz en forma de gel por bombardeo
+rápido de gas supercrítico.
+230. En la biosíntesis de proteínas, durante el proce-
+so de traducción tiene lugar el apareamiento de
+bases entre:
+1. EL ARN y el ADN.
+2. El ADN y el ARN ribosómico.
+3. El ARN de transferencia y el ARN ribosómi-
+co.
+4. El ARN mensajero y el ARN de transferen-
+cia.
+5. El ARN ribosómico 18S y el ARN ribosómi-
+co 5S.
+231. La síntesis con éster malónico es un método
+importante para preparar:
+1. Cetonas.
+2. Aldehídos.
+3. Alcoholes.
+4. Amidas.
+5. Ácidos.
+232. El análisis por redisolución potenciométrica se
+caracteriza:
+1. Por utilizar la onda cuadrada como elemento
+de excitación.
+2. Porque la etapa de redisolución se realiza sin
+agitación.
+3. Porque la etapa de reoxidación se lleva a cabo
+mediante un agente oxidante.
+4. Porque en la etapa de redisolución se miden
+corrientes.
+5. Porque la redisolución se realiza a potencial
+constante.
+233. Tras la reacción de algunos xenobióticos con el
+glutatión se forman como producto final:
+1. Sulfanil urea.
+2. Glutatión reducido.
+3. Glutatión oxidado.
+- 2
+4. Tiosulfato.
+5. Ácido mercaptúrico.
+234. Indicar, cuál de los compuestos relacionados a
+continuación, presenta una mayor acidez:
+1. Ácido acético.
+2. Bromuro de hidrógeno.
+3. Ácido sulfúrico.
+4. Ácido carbónico.
+5. Ácido nítrico.
+235. Una proteína conjugada es:
+1. Una proteína que contiene componentes quí-
+micos diferentes a los aminoácidos asociados
+permanentemente.
+2. Una proteína que contiene aminoácidos con
+cadenas laterales con enlaces conjugados.
+3. Una proteína que contiene componentes quí-
+micos que la hacen insoluble.
+4. Una proteína incorrectamente plegada.
+5. Una proteína desnaturalizada e inactivada.
+23 -
